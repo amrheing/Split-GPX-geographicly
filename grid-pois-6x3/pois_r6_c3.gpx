@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://map.campwild.org" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:name>CampWild Places</ns0:name>
+    <ns0:desc>Generated 2022-02-20 16:41:09.524083
+Cell r6 c3 · waypoints: 24</ns0:desc>
+    <ns0:author>
+      <ns0:name>gpx.studio</ns0:name>
+      <ns0:link href="https://gpx.studio" />
+    </ns0:author>
+  <ns0:keywords>CampWild Places.gpx</ns0:keywords></ns0:metadata>
+  <ns0:wpt lat="68.303" lon="22.81546">
+    <ns0:name>Luongas</ns0:name>
+    <ns0:desc>Dark barbecue hut with benches
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/6859">
+      <ns0:text>Luongas</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.130406" lon="23.106988">
+    <ns0:name>Kelojoki Vindskydd</ns0:name>
+    <ns0:desc>For break and weather protection
+5 seats under roof. 1 sleeping on a bench.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Weather Shelter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/7258">
+      <ns0:text>Kelojoki Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.154625" lon="19.780218">
+    <ns0:name>Bergfors raststuga</ns0:name>
+    <ns0:desc>Room for 10 people.  
+Benches with tables.  
+Barbecue and toilets are nearby.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4419">
+      <ns0:text>Bergfors raststuga</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.4891851" lon="21.1289275">
+    <ns0:name>Lappeasuando Bunker</ns0:name>
+    <ns0:desc>A small hut underground with a fireplace outside. Not so cozy but roof over your head
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4424">
+      <ns0:text>Lappeasuando Bunker</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.2663718" lon="22.0094753">
+    <ns0:name>Kieppisjärvi</ns0:name>
+    <ns0:desc>Located very close to e45 so easily accessible but at the same time beautifully situated with a view of a river and a mountain.
+Rest cottage with lots of space and a stove. Several barbecue areas and picnic tables outdoors.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Heating:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/6844">
+      <ns0:text>Kieppisjärvi</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.475536" lon="20.229879">
+    <ns0:name>Kamasjaure</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8543">
+      <ns0:text>Kamasjaure</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.855023" lon="20.716917">
+    <ns0:name>Vurvejåkka</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8544">
+      <ns0:text>Vurvejåkka</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.202587" lon="22.850902">
+    <ns0:name>Suijajärvi</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8546">
+      <ns0:text>Suijajärvi</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.8564548" lon="20.0471306">
+    <ns0:name>Rastskydd, Raststuga10</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8640">
+      <ns0:text>Rastskydd, Raststuga10</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.5187969" lon="20.4218674">
+    <ns0:name>Vindskydd, Ej I Anslutning Till Vägkarteleder6</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8834">
+      <ns0:text>Vindskydd, Ej I Anslutning Till Vägkarteleder6</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.5176758" lon="20.3070849">
+    <ns0:name>Vindskydd, Ej I Anslutning Till Vägkarteleder7</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8845">
+      <ns0:text>Vindskydd, Ej I Anslutning Till Vägkarteleder7</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.2503319" lon="21.5020466">
+    <ns0:name>Vindskydd484</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9050">
+      <ns0:text>Vindskydd484</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.1905079" lon="21.5974903">
+    <ns0:name>Vindskydd485</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9051">
+      <ns0:text>Vindskydd485</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.1224924" lon="21.6760951">
+    <ns0:name>Vindskydd486</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9052">
+      <ns0:text>Vindskydd486</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.2712907" lon="22.338075">
+    <ns0:name>Vindskydd487</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9053">
+      <ns0:text>Vindskydd487</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.8719044" lon="21.7719841">
+    <ns0:name>Vindskydd488</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9054">
+      <ns0:text>Vindskydd488</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.9056358" lon="21.9160938">
+    <ns0:name>Vindskydd489</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9055">
+      <ns0:text>Vindskydd489</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.8820324" lon="21.955061">
+    <ns0:name>Vindskydd490</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9056">
+      <ns0:text>Vindskydd490</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.8739643" lon="21.9399548">
+    <ns0:name>Vindskydd492</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9057">
+      <ns0:text>Vindskydd492</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.7913952" lon="21.8349838">
+    <ns0:name>Vindskydd493</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9058">
+      <ns0:text>Vindskydd493</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.8557628" lon="22.6402849">
+    <ns0:name>Vindskydd494</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9059">
+      <ns0:text>Vindskydd494</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.8573775" lon="22.6409554">
+    <ns0:name>Vindskydd495</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9060">
+      <ns0:text>Vindskydd495</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.856707" lon="22.6441044">
+    <ns0:name>Vindskydd496</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9061">
+      <ns0:text>Vindskydd496</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.8252125" lon="22.8034973">
+    <ns0:name>Vindskydd500</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9065">
+      <ns0:text>Vindskydd500</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:rte><ns0:name>Bounds r6 c3</ns0:name><ns0:rtept lat="67.4162552764563" lon="19.777214191497503" /><ns0:rtept lat="67.4162552764563" lon="24.918975415236474" /><ns0:rtept lat="70.04352790597981" lon="24.918975415236474" /><ns0:rtept lat="70.04352790597981" lon="19.777214191497503" /><ns0:rtept lat="67.4162552764563" lon="19.777214191497503" /></ns0:rte></gpx>

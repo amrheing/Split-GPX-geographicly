@@ -1,0 +1,2293 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://map.campwild.org" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:name>CampWild Places</ns0:name>
+    <ns0:desc>Generated 2022-02-20 16:41:09.524083
+Cell r1 c1 · waypoints: 175</ns0:desc>
+    <ns0:author>
+      <ns0:name>gpx.studio</ns0:name>
+      <ns0:link href="https://gpx.studio" />
+    </ns0:author>
+  <ns0:keywords>CampWild Places.gpx</ns0:keywords></ns0:metadata>
+  <ns0:wpt lat="56.76731728328109" lon="13.18372854498289">
+    <ns0:name>Hut Gyltige</ns0:name>
+    <ns0:desc>small hut with heating.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Heating:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/6974">
+      <ns0:text>Hut Gyltige</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.705" lon="13.099">
+    <ns0:name>Skärkered Vindskydd</ns0:name>
+    <ns0:desc>In good condition. Built 2017
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Weather Shelter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/7259">
+      <ns0:text>Skärkered Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.686406" lon="13.615725">
+    <ns0:name>Nöttja Vindskydd</ns0:name>
+    <ns0:desc>Looks a bit private but is unlocked. If you are kind and do not leave any rubbish, you can probably borrow it for a little roof over your head.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/7275">
+      <ns0:text>Nöttja Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.10211228898472" lon="14.2458422281979">
+    <ns0:name>Arknat Österslöv</ns0:name>
+    <ns0:desc>New shelter built by ArkNat.
+Suitable for 2-3 persons sleeping.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Basic Shelter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/7476">
+      <ns0:text>Arknat Österslöv</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.30474700549987" lon="14.26578075177096">
+    <ns0:name>Arknat Rodatorpet</ns0:name>
+    <ns0:desc>New shelter built by Arknat.
+Suitable for 3-4 people sleeping.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Weather Shelter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/7477">
+      <ns0:text>Arknat Rodatorpet</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.615494" lon="14.61696729999994">
+    <ns0:name>Nationalpark Åsnen</ns0:name>
+    <ns0:desc>200 m north of Trollberget entrance where parking is available
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/13">
+      <ns0:text>Nationalpark Åsnen</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.70726183351658" lon="13.02307946749966">
+    <ns0:name>Torvsjön</ns0:name>
+    <ns0:desc>There is a high probability that this place will be occupied. 250m from a road to the lake. You can park your car almost at the spot or as soon as you leave the main road.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Electricity:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/14">
+      <ns0:text>Torvsjön</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.6605283" lon="14.62000149999994">
+    <ns0:name>Åsnen nordväst Vindskydd</ns0:name>
+    <ns0:desc>Tents facilities
+Barbecue area and nice beach location
+Along the bike path Banvallsleden
+There is some kind of roadway
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/17">
+      <ns0:text>Åsnen nordväst Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.4087107" lon="12.8936877">
+    <ns0:name>Ljunjunghusen Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/19">
+      <ns0:text>Ljunjunghusen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.58454" lon="13.40244899999993">
+    <ns0:name>Risen Vindskydd</ns0:name>
+    <ns0:desc>Newly built wind shelter near Genarp, near the nature area Risen.
+Located nicely in open forest, right next to Skåneleden.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/20">
+      <ns0:text>Risen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.593453" lon="13.441744">
+    <ns0:name>Allmäningen Vindskydd</ns0:name>
+    <ns0:desc>Wind shelter with a water pump
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/21">
+      <ns0:text>Allmäningen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.591296" lon="13.471001">
+    <ns0:name>Dörröd Vindskydd</ns0:name>
+    <ns0:desc>Grillplats: Ja, två (en vid vindskyddet och en vid en bänk en bit bort) 
+Two grill places (one near the wind shelter, another near a table with a bench.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/22">
+      <ns0:text>Dörröd Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.59257" lon="13.785675">
+    <ns0:name>Vita Bäck Vindskydd</ns0:name>
+    <ns0:desc>Located about 100m alongside a country road. (probably sparsely trafficked)
+There should be a water source about 200m south of the wind protection.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/23">
+      <ns0:text>Vita Bäck Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.98695" lon="12.75274999999999">
+    <ns0:name>Near Helsingborg</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/24">
+      <ns0:text>Near Helsingborg</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.215" lon="12.7006">
+    <ns0:name>Jonstorp Raststuga</ns0:name>
+    <ns0:desc>The municipality advocates barbecue charcoal which is in place
+Parking 250 m away, boom over road, good road there
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Electricity:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/25">
+      <ns0:text>Jonstorp Raststuga</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2586768" lon="12.61547710000002">
+    <ns0:name>Lägerplats Skäret</ns0:name>
+    <ns0:desc>Parking 250 m away but drivable road up to the protection in the forest
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/26">
+      <ns0:text>Lägerplats Skäret</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2783972" lon="12.5472444">
+    <ns0:name>Nimis Vindskydd</ns0:name>
+    <ns0:desc>Large barbecue area with roof &amp; seating. 
+Notin front of the windshield.
+2 separate tables + round barbecue area.
+
+Parking 100 m away.
+Wi-Fi signal from Höganäs.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/27">
+      <ns0:text>Nimis Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2965834" lon="12.48165589999996">
+    <ns0:name>Josefinelust Rastplats</ns0:name>
+    <ns0:desc>The municipality advocates barbecue charcoal, coal is in place
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/28">
+      <ns0:text>Josefinelust Rastplats</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.226423" lon="12.541931">
+    <ns0:name>Örestrand Vindskydd</ns0:name>
+    <ns0:desc>There is barbecue area and toilet. Possibility to park close by
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/29">
+      <ns0:text>Örestrand Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.125397" lon="12.59929">
+    <ns0:name>Poppegården Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/30">
+      <ns0:text>Poppegården Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.054355" lon="12.76113499999997">
+    <ns0:name>Bruce Skog 2 Vindskydd</ns0:name>
+    <ns0:desc>City-centered but still remote on the outskirts of Helsingborg.
+Parking 300m at the model flight club or at one of the marked parking around the hiking area.
+Room for 5-6 people
+And large area for many tents
+Clean and tidy and in good condition
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/31">
+      <ns0:text>Bruce Skog 2 Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.062724" lon="12.75789399999996">
+    <ns0:name>Bruce Skog 1 Vindskydd</ns0:name>
+    <ns0:desc>City-centered but still remote on the outskirts of Helsingborg.
+Parking 300m at the model flight club or at one of the marked parking around the hiking area.
+Room for 5-6 people
+And large area for many tents
+Clean and tidy and in good condition
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/32">
+      <ns0:text>Bruce Skog 1 Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.431506" lon="12.63391899999999">
+    <ns0:name>Vindskydd Torekov</ns0:name>
+    <ns0:desc>The wind protection is nice and there is plenty of space as well as traveling a tent. 
+There is access to water. 
+Dass is available but it's a little walk. 
+Access is available.
+ A bit sad to get there as it is closed and residential area nearby. 
+Walk the last 300 meters
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/33">
+      <ns0:text>Vindskydd Torekov</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.338244" lon="12.74594400000001">
+    <ns0:name>Gryteskär vindskydd</ns0:name>
+    <ns0:desc>Located really nice by the sea if you are not afraid of a little wind. 
+There is plenty of space around if you travel with a tent. 
+Walk 200 meters from parking there is also well.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/34">
+      <ns0:text>Gryteskär vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.366873" lon="12.940351">
+    <ns0:name>Brammarp Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/35">
+      <ns0:text>Brammarp Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.90326" lon="12.78720699999997">
+    <ns0:name>Vindskydd Knobesholm</ns0:name>
+    <ns0:desc>Beautifully situated as a dream, really great protection.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/86">
+      <ns0:text>Vindskydd Knobesholm</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.8630971" lon="12.82885550000003">
+    <ns0:name>Frodeparken Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/91">
+      <ns0:text>Frodeparken Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.858" lon="12.85799999999995">
+    <ns0:name>Kärra Vindskydd</ns0:name>
+    <ns0:desc>A small cottage in the woods. 
+Maybe nothing to sleep in but well worth it to cover in if it were raining.  
+No fire place.
+Nice and clean.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/92">
+      <ns0:text>Kärra Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.8452342221027" lon="12.9046918945312">
+    <ns0:name>Döblaån vindskydd</ns0:name>
+    <ns0:desc>Nice with water on both sides.
+You have to cross a small footbridge to get there. 
+There is Dust and dustbin.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/93">
+      <ns0:text>Döblaån vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.83979" lon="12.99856">
+    <ns0:name>Nissaström Vindskydd</ns0:name>
+    <ns0:desc>Highway 26 on the other side of Nissan (approx. 200m), a little traffic noise.
+Room for 9-12 people, barbecue area,
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/94">
+      <ns0:text>Nissaström Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.8001499" lon="13.02888389999998">
+    <ns0:name>Vindskydd Årnilt</ns0:name>
+    <ns0:desc>The wind protection is 200 meters from the road.
+There is a parking by the road where the toilet is standing. 
+Plenty of mosquitoes but cozy. 
+4 sleeping, but also room for 2-3 tents if required.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/95">
+      <ns0:text>Vindskydd Årnilt</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.7859268" lon="13.16033360000006">
+    <ns0:name>Torlabosjön Vindskydd</ns0:name>
+    <ns0:desc>No protection to sleep in. 
+Not so much space for a tent. 
+Can drive in from the south in a dry weather otherwise on foot 250 meters. 
+View of the lake.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Bivouac&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/96">
+      <ns0:text>Torlabosjön Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.7673519" lon="13.18217860000004">
+    <ns0:name>Vindskydd Gyltige</ns0:name>
+    <ns0:desc>Located at Simlångsgården. 200 meters from the car park. Located behind a house belonging to the outdoor recreation. Two nice well-kept shelters.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/97">
+      <ns0:text>Vindskydd Gyltige</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.7054766" lon="13.14450859999999">
+    <ns0:name>Danske Fallen Vindskydd</ns0:name>
+    <ns0:desc>Located cozy at a small watercourse. 
+Can go all the way to the windshield with mc north from.
+Be careful not to drive down to the windshield if you do not have coarse tires.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/98">
+      <ns0:text>Danske Fallen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.815754" lon="13.29691200000002">
+    <ns0:name>Vindskydd Banvallsleden</ns0:name>
+    <ns0:desc>It is hard to see from the trail.
+Works for overnight.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/99">
+      <ns0:text>Vindskydd Banvallsleden</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.7638" lon="13.40740000000005">
+    <ns0:name>Årshultsmyren Vindskydd</ns0:name>
+    <ns0:desc>Driving road all the way.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/100">
+      <ns0:text>Årshultsmyren Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.8946743" lon="13.185997">
+    <ns0:name>Kvarnforsen Vindskydd</ns0:name>
+    <ns0:desc>View oт the pond
+Room for 5 people
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/101">
+      <ns0:text>Kvarnforsen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.3614" lon="12.84490000000005">
+    <ns0:name>Hålehall Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/112">
+      <ns0:text>Hålehall Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.3561464" lon="13.10684230000004">
+    <ns0:name>Koarp Vindskydd</ns0:name>
+    <ns0:desc>Water (15 April - 15 October)
+Located right next to the road.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/113">
+      <ns0:text>Koarp Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.4248382" lon="13.19948320000003">
+    <ns0:name>Ekegården Vindskydd</ns0:name>
+    <ns0:desc>200 meters walk from road boom.
+Faces towards a grassy area.
+Enjoy sunset.
+Possible to sleep in a tent also
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/114">
+      <ns0:text>Ekegården Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.5116332" lon="13.22539329999995">
+    <ns0:name>Spishall Vindskydd</ns0:name>
+    <ns0:desc>A real adventure can be to spend the night in the middle of the "wilderness". 
+"Spishall" is one of the area's highest points.
+Here there are 3 shelters and barbecue area as well as "outdoor toilet", which makes it well suited for overnight stay. 
+From Spishall you have a magnificent view over the Hjörneredssjö lakes.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/115">
+      <ns0:text>Spishall Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.5100348" lon="13.30435750000004">
+    <ns0:name>Västralt Vindskydd</ns0:name>
+    <ns0:desc>Good condition with room for 5 people.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/116">
+      <ns0:text>Västralt Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.314448" lon="13.29173100000003">
+    <ns0:name>Bjärabygget Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/117">
+      <ns0:text>Bjärabygget Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2859148" lon="13.3789551">
+    <ns0:name>Lärkesholmssjön Vindskydd</ns0:name>
+    <ns0:desc>Located open on the lake. 
+Get the last bit down to the windshield. 
+There is plenty of room to camp along with. 
+Place for 8 people in the windshield.
+Toilet is at the beginning of the path which is blocked by some rocks that run fine between them. 
+A lot of wood.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/118">
+      <ns0:text>Lärkesholmssjön Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.215159" lon="13.6258836">
+    <ns0:name>Vindskydds grillen</ns0:name>
+    <ns0:desc>With motorcycle you drive until the parking lot runs out (on the right side of the road with the boom), find the path, drive. 
+Doubtful if a BMW boxer goes between the stones (?), But I think so.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/119">
+      <ns0:text>Vindskydds grillen</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2147865" lon="13.6244503">
+    <ns0:name>Hörje shelter</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Bivouac&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/120">
+      <ns0:text>Hörje shelter</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.0582" lon="13.66841499999998">
+    <ns0:name>Lillsjödal Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/121">
+      <ns0:text>Lillsjödal Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.0500505" lon="13.62493080000002">
+    <ns0:name>SFK Paviljongen Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/122">
+      <ns0:text>SFK Paviljongen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.112399" lon="13.03359599999999">
+    <ns0:name>Hålebäck vindskydd</ns0:name>
+    <ns0:desc>At the cottage there are toilets, drinking water, and garbage can.
+Parking with probably the best at where the stream crosses the forest road south of the wind protection. By bicycle you can get past bars and get right up to the windshield.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/123">
+      <ns0:text>Hålebäck vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.083687" lon="13.12593700000002">
+    <ns0:name>Krika-Skog Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/124">
+      <ns0:text>Krika-Skog Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.0410724" lon="13.1360919">
+    <ns0:name>Klåveröds rastplats Vindskydd</ns0:name>
+    <ns0:desc>The wind protection is a parking along a country road.
+It is a popular destination for both hikers and families.
+There is a car park, the windshield is accessible by bicycle and wheelchair.
+There is toilet and handicap toilet. The wind protection is well adapted for the disabled.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/125">
+      <ns0:text>Klåveröds rastplats Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.032797" lon="13.174264">
+    <ns0:name>Klåveröd 2 vindskydd</ns0:name>
+    <ns0:desc>The windshield is located on the dam. 
+There is a barbecue area.
+It is a popular destination for both fishermen and families.
+There is a car parking 400m away, but the windshield is reachable by bike and wheelchair.
+There is toilet and handicap toilet 200m away.
+There is fresh water at the windshield.
+It is possible to bathe at the windshield.
+There is a road boom that is kept closed between 21: 00-07: 30
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/126">
+      <ns0:text>Klåveröd 2 vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.034905" lon="13.18056200000001">
+    <ns0:name>Klåverödsstugan</ns0:name>
+    <ns0:desc>Klåverödsstugan is located on a hill above the dam. 
+The cottage has an indoor fireplace. 
+There are also two barbecue areas just outside.
+There are no sleeping places in the cottage. Unless you choose to sleep on the cement floor or on narrow benches.
+It is a popular destination for both fishermen and families.
+There is a car park right next to the cottage.
+There is toilet and handicap toilet.
+Road. There is a road boom that is kept closed between 21: 00-07: 30
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/127">
+      <ns0:text>Klåverödsstugan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.033628" lon="13.179757">
+    <ns0:name>Klåveröd1 vindskydd</ns0:name>
+    <ns0:desc>The windshield is located at Klåveröds dam.
+There is a large barbecue area.
+It is a popular destination for both fishermen and families.
+There is a car park right next door.
+There is toilet and handicap toilet 200m away.
+Fresh water is available at the second windshield 400m away.
+It is possible to bathe at the windshield.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/128">
+      <ns0:text>Klåveröd1 vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.0297712" lon="13.18015749999995">
+    <ns0:name>Svartesjö vindskydd</ns0:name>
+    <ns0:desc>The wind protection is located at the Svartesjö. 
+There is a barbecue area.
+It is a popular destination for both fishermen and families.
+There is toilet, handicap toilet, dustbin 250m away.
+There is fresh water 400m away.
+It is not possible to swim in the Svartesjö
+ Road / parking 300m. There is a road boom that is kept closed between 21: 00-07: 30, it is possible to reach the windshield by bike.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/129">
+      <ns0:text>Svartesjö vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.024829" lon="13.22927800000002">
+    <ns0:name>Lierna Vindskydd</ns0:name>
+    <ns0:desc>Several shelters on a large surface. 
+Plastic for tent on lawn.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/130">
+      <ns0:text>Lierna Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.003303" lon="13.32955300000003">
+    <ns0:name>Jällabjär Vindskydd</ns0:name>
+    <ns0:desc>Parking 100m SW. 
+At the car park there are toilet and garbage can.
+The area is a nature reserve and consists of a pretty nice unit.
+There is a water in a rice pump, but the municipality has in recent sampling assessed the water as unfit and recommends boiling the water.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/131">
+      <ns0:text>Jällabjär Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.955421" lon="13.36105399999997">
+    <ns0:name>Stenhuset Vindskydd</ns0:name>
+    <ns0:desc>Located  nearby a canoe trail. 
+Wood is available
+Drivable with MC all the way. 
+Car parking 50 meters.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/132">
+      <ns0:text>Stenhuset Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.987219" lon="13.41017699999998">
+    <ns0:name>No Name</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/133">
+      <ns0:text>No Name</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2935162" lon="13.6070824">
+    <ns0:name>Olastorp Vindskydd</ns0:name>
+    <ns0:desc>Located near the road without being seen. 
+Nice condition and space for 6 people. 
+Toilet is 100 meters away. 
+Seems to be good with wood filling.
+Can drive the trail all the way with mc
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/134">
+      <ns0:text>Olastorp Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.987" lon="13.495133">
+    <ns0:name>Dagstorp Vindskydd</ns0:name>
+    <ns0:desc>Pretty wet path down to the windshield. 
+Parking 400m SO.
+The wind shelter is located well up at a height at the end of a headland.
+Dagstorpsjön is suitable for swimming and fishing.
+Fishing license costs 30kr / day
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/135">
+      <ns0:text>Dagstorp Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.96793" lon="13.497199">
+    <ns0:name>Utmanarbacken Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/136">
+      <ns0:text>Utmanarbacken Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.970088" lon="13.513792">
+    <ns0:name>Frostavallen Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/137">
+      <ns0:text>Frostavallen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.97092" lon="13.545572">
+    <ns0:name>Jularp Vindskydd</ns0:name>
+    <ns0:desc>A little dirty. 
+Easily accessible from the gravel road
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/138">
+      <ns0:text>Jularp Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.976093" lon="13.547599">
+    <ns0:name>Vindskydd Ullstorp</ns0:name>
+    <ns0:desc>Very nice.
+Located a few hundred meters from the road.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/139">
+      <ns0:text>Vindskydd Ullstorp</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.891142" lon="13.643376">
+    <ns0:name>Fulltofta Vindskydd</ns0:name>
+    <ns0:desc>2 shelters, about 12 sleeping.
+Fireplace &amp; grill grill
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/140">
+      <ns0:text>Fulltofta Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.8747536" lon="13.8139987">
+    <ns0:name>Timan Vindskydd</ns0:name>
+    <ns0:desc>Water and a sink are also available.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/141">
+      <ns0:text>Timan Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.7227114" lon="14.059217">
+    <ns0:name>Vantalängan</ns0:name>
+    <ns0:desc>Can sleep in a long one with fireplace and table or in two newly built shelters with fireplace. 
+There are also two tables and a nice independent barbecue area. 
+Fresh water, toilet, wood and trash can be found. 
+Good tent facilities on large lawn. 
+Good places to hang hammocks in the area
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/142">
+      <ns0:text>Vantalängan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.6865063" lon="14.2337752">
+    <ns0:name>Skogsdala Vindskydd</ns0:name>
+    <ns0:desc>Wind protection with the possibility of overnight accommodation. 
+There is a bird tower with nice views in the vicinity.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/143">
+      <ns0:text>Skogsdala Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.6555796" lon="13.8632709">
+    <ns0:name>Lövestads Åsar Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/144">
+      <ns0:text>Lövestads Åsar Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.3854" lon="14.1962">
+    <ns0:name>Sandhammaren Vindskydd</ns0:name>
+    <ns0:desc>Seat guards that are mainly used by bird watchers so you can kindly share the protection with lots of people
+Toilet at a parking lot
+Enjoy the beautiful sunrise this shelter can offer
+Not allowed to swim because of strong currents.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/145">
+      <ns0:text>Sandhammaren Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.7484801" lon="13.5532665">
+    <ns0:name>Höghult Vindskydd</ns0:name>
+    <ns0:desc>There is clean water in a pump, but it is recommended to boil the water.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/146">
+      <ns0:text>Höghult Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.7724334" lon="13.2223034">
+    <ns0:name>Lilla Harrie Vindskydd</ns0:name>
+    <ns0:desc>From Lilla Harrie you follow Kävlingeån upstream about 1km along a walking / cycling path.
+The wind shelter is located nice by the beach of Kävlingeån. Unfortunately, the shelters are quite down and dirty with gravel and overflowing trash bins.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/147">
+      <ns0:text>Lilla Harrie Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.771083" lon="13.067934">
+    <ns0:name>Skytteskogen-Furulund Vindskydd</ns0:name>
+    <ns0:desc>Possibility to drive motorcycle until wind protection.
+Take the left before the shooting club out on the path, about 100m
+The old shelter is replaced by a pavilion (spring 2021)
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Basic Shelter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/148">
+      <ns0:text>Skytteskogen-Furulund Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.8191266" lon="12.9450703">
+    <ns0:name>Saxtopsdammen Vindskydd</ns0:name>
+    <ns0:desc>The area is popular for dog walking and swimming (in summer).
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/149">
+      <ns0:text>Saxtopsdammen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.9100661" lon="12.8054023">
+    <ns0:name>Lill-Olas Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/150">
+      <ns0:text>Lill-Olas Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.96454" lon="12.757723">
+    <ns0:name>Rydebäck Vindskydd</ns0:name>
+    <ns0:desc>Can drive all the way forward.
+The sea is 20 meters from the wind shelter.
+There are 2 summer toilets about 50-150 meters from the shelter.
+Mini summer resturant about 20meters side and a kiosk about 200metres even at the kiosk / toa so there is running water and a beach dush
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/151">
+      <ns0:text>Rydebäck Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2935162" lon="13.6070824">
+    <ns0:name>Olastorp Vindskydd</ns0:name>
+    <ns0:desc>Located near the road without being seen
+ Nice condition and space for 6 people. 
+Toilet is 100 meters away. 
+Seems to be good with wood filling. 
+Can drive the trail all the way with mc
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/152">
+      <ns0:text>Olastorp Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.3592356" lon="13.7808037">
+    <ns0:name>No Name</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/153">
+      <ns0:text>No Name</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.3200593" lon="14.1503799">
+    <ns0:name>Trollabackarna vindskydd</ns0:name>
+    <ns0:desc>100 meters on foot with steep climb from the place where you park. 
+Entrance south from. 
+Toilet and firewood available at parking. 
+Water is located at the bathing area east (800 meters). Nice condition and space for 6 people. 
+There is also room for tents.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/154">
+      <ns0:text>Trollabackarna vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.3797" lon="14.2582">
+    <ns0:name>Stensjön Vindskydd</ns0:name>
+    <ns0:desc>Nice wind shelter but lots of traffic. 
+Driving by car and mc.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/155">
+      <ns0:text>Stensjön Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.4352" lon="14.3354">
+    <ns0:name>Duvhult Vindskydd</ns0:name>
+    <ns0:desc>Seat protection
+The protection probably belongs to the local hunting club. 
+Road ahead
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/156">
+      <ns0:text>Duvhult Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.426" lon="14.4765">
+    <ns0:name>Tranegylet Vindskydd</ns0:name>
+    <ns0:desc>Seat covers but wide bunks,
+Wind protection belongs to the local fishing club, fishing in the lake is prohibited without a card / membership
+Road ahead
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/157">
+      <ns0:text>Tranegylet Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.342061" lon="14.310868">
+    <ns0:name>Ekeshult Vindskydd</ns0:name>
+    <ns0:desc>Really nice place. 
+Well is available but it says that the water should be boiled.
+Place for 6 people in the windshield. 
+There is also room for tents. 
+Plenty of room to pass by the boom and drive forward.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/158">
+      <ns0:text>Ekeshult Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.279696" lon="14.298686">
+    <ns0:name>Gårdvik Vindskydd</ns0:name>
+    <ns0:desc>Room for 6 people.
+Large surface for tents. 
+Nice condition.
+Stands that it is only for canoeists. 
+Rocky but drivable path ahead.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/159">
+      <ns0:text>Gårdvik Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2972337" lon="14.3918967">
+    <ns0:name>Brotorpet Vindskydd</ns0:name>
+    <ns0:desc>A lot of canoeists. 
+Plenty of room for tents. 
+Road boom that is not passable so it is 300 meters on foot.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/160">
+      <ns0:text>Brotorpet Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.3409752" lon="14.5265543">
+    <ns0:name>Aspeberg Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/161">
+      <ns0:text>Aspeberg Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.354987" lon="14.5373958">
+    <ns0:name>Slagesnässjön Vindskydd</ns0:name>
+    <ns0:desc>Located next to bathing area.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/162">
+      <ns0:text>Slagesnässjön Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.3476753" lon="14.6261287">
+    <ns0:name>Bredasjön Vindskydd</ns0:name>
+    <ns0:desc>Is open to the lake so it can blow a little.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/163">
+      <ns0:text>Bredasjön Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.12838" lon="14.586051">
+    <ns0:name>Nyhult Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/168">
+      <ns0:text>Nyhult Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.212371" lon="14.514346">
+    <ns0:name>Östanfors Vindskydd</ns0:name>
+    <ns0:desc>Located alongside a small watercourse. Place for 6 people in the windshield, also place for tent.The boom is open so it is possible to drive all the way forward.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/169">
+      <ns0:text>Östanfors Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2071301" lon="14.3133348">
+    <ns0:name>Lerjevallen Vindskydd</ns0:name>
+    <ns0:desc>Entrance from the south. 
+Large areas for tents. 
+Seems to be a lot of people moving in the area so it is not certain that you may be alone. 
+Not sure that it is possible to drive in as there are plenty of signs and bars but it works.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/170">
+      <ns0:text>Lerjevallen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2888223" lon="14.4893306">
+    <ns0:name>Fritslatorpet Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/171">
+      <ns0:text>Fritslatorpet Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2816761" lon="14.4388032">
+    <ns0:name>Blanka viken Vindskydd</ns0:name>
+    <ns0:desc>Can drive all the way forward. 
+100 meters to the toilet.
+Located very nicely by the lake. 
+Room for 6 people
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/172">
+      <ns0:text>Blanka viken Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2602139" lon="14.4227314">
+    <ns0:name>Västerviksbrygga Vindskydd</ns0:name>
+    <ns0:desc>Two wind shelter and lots of tent space. 
+Narrow bump passage otherwise ok to drive.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/173">
+      <ns0:text>Västerviksbrygga Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2602139" lon="14.4289112">
+    <ns0:name>Havudden Vindskydd</ns0:name>
+    <ns0:desc>Located a short distance from the water. 
+Can go to the windshield. 
+Room for 4 people. 
+Wood storage is available.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/174">
+      <ns0:text>Havudden Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2443244" lon="14.4245768">
+    <ns0:name>Nissavången Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/175">
+      <ns0:text>Nissavången Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2222499" lon="14.4259018">
+    <ns0:name>Bökestad Vindskydd</ns0:name>
+    <ns0:desc>Two shelters and large tent surfaces. 
+Entrance from the south.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/176">
+      <ns0:text>Bökestad Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2355453" lon="14.4411957">
+    <ns0:name>Bofalls brygga Vindskydd</ns0:name>
+    <ns0:desc>Located really nice in the sunset towards the lake. 
+There is plenty of room for tents. 
+Good access.
+Can drive all the way forward.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/177">
+      <ns0:text>Bofalls brygga Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.246569" lon="14.463226">
+    <ns0:name>Boafall Vindskydd</ns0:name>
+    <ns0:desc>Two shelters and plenty of space for tents. 
+The entrance from here is blocked with gate but it is possible to drive carefully on the trail from the east.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/178">
+      <ns0:text>Boafall Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.255778" lon="14.484025">
+    <ns0:name>Bergatorpet Vindskydd</ns0:name>
+    <ns0:desc>Two shelters a little apart.
+Located are really nice. 
+There is room for tents. 
+Two bars to pass to arrive.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/179">
+      <ns0:text>Bergatorpet Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.4625" lon="14.35">
+    <ns0:name>Ekön Vindskydd</ns0:name>
+    <ns0:desc>Seat protection
+The protection probably belongs to the local hunting club
+Road ahead
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/180">
+      <ns0:text>Ekön Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.556822" lon="14.2846">
+    <ns0:name>Kåraböke Vindskydd</ns0:name>
+    <ns0:desc>Large open protection.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/181">
+      <ns0:text>Kåraböke Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.7921946" lon="13.664499">
+    <ns0:name>Vindskydd Rävanäs</ns0:name>
+    <ns0:desc>Seating under the roof: About 50 + 12
+Sleeps: 8 + 2 (Attention! Tables.)
+Sleeps in the lean-to: max 5
+Fee: 40:- sek per tent!
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fee Required:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/183">
+      <ns0:text>Vindskydd Rävanäs</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.7596358" lon="13.6753731">
+    <ns0:name>Skeen Vindskydd</ns0:name>
+    <ns0:desc>2 wind protection with space for 2 x4 people. 
+Driving by car and mc.
+Very close to the road where there is not so much traffic. There is room for tents.
+Located along a canoe trail
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/184">
+      <ns0:text>Skeen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.7658" lon="13.9066">
+    <ns0:name>Lunnarp Vindskydd</ns0:name>
+    <ns0:desc>A seat wind shelter which probably belongs to a hunting team.
+Located in a forest a bit from the village Kånna along the E4 south of Ljungby
+Easy to get to next door. Parking 50 m away
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Bivouac&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/185">
+      <ns0:text>Lunnarp Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.5996142" lon="14.3069136">
+    <ns0:name>Tjörnedala Vindskydd</ns0:name>
+    <ns0:desc>This protection is a bit difficult to find. Behind Tjörnedalagården there is a water-toilet and outside there is a water tap. 
+From there you have to go into the cow garden through a gate. 
+To get to the protection, you must follow the fence on the left side along the trees. 
+Don't go down the hill! 
+You will then find a stepladder that will lead you back over the fence again for protection.
+
+The protection is in very good condition and seems to have been built recently. 
+It is very spacious. 
+The shelter is located on a hill above the sea, but it is surrounded by a fence and trees - so you can't see the sea directly from there.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/215">
+      <ns0:text>Tjörnedala Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.4378" lon="14.239">
+    <ns0:name>Spaggehusen/Kyhlsstrandbad Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/216">
+      <ns0:text>Spaggehusen/Kyhlsstrandbad Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.78362" lon="13.219106">
+    <ns0:name>Lilla Harrie Vindskydd</ns0:name>
+    <ns0:desc>Barbecue: Yes
+Number of persons (sleeping in shelter): 8-10
+Connection: From Lilla Harrie, follow Kävlingeån upstream about 1km along a walking / cycling route.
+Nearest town / city: Kävlinge (7 km)
+The wind shelter is located nicely on the shore of Kävlingeån. Unfortunately, the shelters are pretty down and dirty with gravel and overflowing trash. Lots of garbage in trash cans that probably won't be emptied.
+Many plants down towards the river make it adventurous to take water. Less suitable for example canoeing.
+The grill on the barbecue area does not work.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/304">
+      <ns0:text>Lilla Harrie Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.5007205" lon="13.4695729">
+    <ns0:name>Svaneholm Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/337">
+      <ns0:text>Svaneholm Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.660833" lon="14.620278">
+    <ns0:name>Gäkabo</ns0:name>
+    <ns0:desc>very close to "Åsnen nordväst Vindskydd" you can find this object where its also possible to sleep in.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Weather Shelter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/350">
+      <ns0:text>Gäkabo</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.695373" lon="14.163747">
+    <ns0:name>Marsholm vindskydd</ns0:name>
+    <ns0:desc>Sleep place for  4-5 people
+Good fireplace with grill
+Located along the canoe trail, accommodation only for canoeists who have paid any type of coupon. 
+Located in a nature reserve and at a boat mooring, hiking trails are available around the island.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/352">
+      <ns0:text>Marsholm vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.5170707" lon="13.1001548">
+    <ns0:name>Bivouac Arriesjön</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Bivouac&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/485">
+      <ns0:text>Bivouac Arriesjön</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.8650813" lon="13.6179656">
+    <ns0:name>Obensjö Hembygdspark Stage</ns0:name>
+    <ns0:desc>An Event stage at Odensjö Hembgdspark. At weekend its may busy until nighttime
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/2981">
+      <ns0:text>Obensjö Hembygdspark Stage</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.0708635" lon="14.3266146">
+    <ns0:name>Bivouac Kiaby bathing site</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Basic Shelter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3008">
+      <ns0:text>Bivouac Kiaby bathing site</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.8532573" lon="12.9190585">
+    <ns0:name>Döblaån vindskydd</ns0:name>
+    <ns0:desc>Lying nicely with water on both sides. You have to cross a small footbridge to get there. There is a toilet and a dustbin.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3145">
+      <ns0:text>Döblaån vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.948844" lon="13.606984">
+    <ns0:name>Onsvallakällan Vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/3130">
+      <ns0:text>Onsvallakällan Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.920574" lon="13.631789">
+    <ns0:name>Bjeveröd vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/3131">
+      <ns0:text>Bjeveröd vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.591536" lon="13.471199">
+    <ns0:name>Dörröd Vindskydd</ns0:name>
+    <ns0:desc>Nice shelter in a beautiful location on a hill in a beech forest. Water is available in a nearby spring. You can drive right up to the shelter to unload if you wish, and you can park at the bottom of the hill.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3133">
+      <ns0:text>Dörröd Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.554589" lon="13.31091">
+    <ns0:name>Eksholmssjön Vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/3134">
+      <ns0:text>Eksholmssjön Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.561146" lon="13.694652">
+    <ns0:name>Snogeholm Vindskydd</ns0:name>
+    <ns0:desc>There are two large shelters and three fireplaces. Toilet a few hundred meters to the east. Water, toilet and showers when parking a few hundred meters to the southwest. Firewood is available but may be out of stock. Popular campsite in Snogeholm hiking area with many loops and Skåneleden SL4 Österlen stage 11 and 12. Free tent site with own fireplace is nearby, plenty of trees to put up hammock in.
+Just follow the signs to the drink water and you can find a free shower.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shower:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3135">
+      <ns0:text>Snogeholm Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.568241" lon="13.214347">
+    <ns0:name>Torup Vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/3136">
+      <ns0:text>Torup Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.692792" lon="13.363014">
+    <ns0:name>Skryllegården Fjällfina Vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/3137">
+      <ns0:text>Skryllegården Fjällfina Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.634835" lon="13.43535">
+    <ns0:name>Väderkullen Vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/3138">
+      <ns0:text>Väderkullen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.692696" lon="13.360947">
+    <ns0:name>Skryllegården skogsmulle Vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/3139">
+      <ns0:text>Skryllegården skogsmulle Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.693157" lon="13.361474">
+    <ns0:name>Skryllegården Laxe Vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/3140">
+      <ns0:text>Skryllegården Laxe Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.6931391" lon="13.3625799">
+    <ns0:name>Skryllegården nova Vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/3141">
+      <ns0:text>Skryllegården nova Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.079363" lon="13.116074">
+    <ns0:name>Vindskydd Klövahallar</ns0:name>
+    <ns0:desc>Längs led: Nej (närhet till skåneled ås-ås etapp 3
+Totalbetyg (1-10): 3
+Känns inte speciellt fräscht och inte speciellt lätt tillgängligt och ingen mobiltäckning .</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3142">
+      <ns0:text>Vindskydd Klövahallar</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.800478" lon="14.013931">
+    <ns0:name>Bräkentorparsjön</ns0:name>
+    <ns0:desc>Shelter for 4-6 people. 
+Lake 50 meters, beach within walking distance. 1.16km from car park , drivable all the way with Mc.
+Finnstugan at Bräkentorpssjön.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3143">
+      <ns0:text>Bräkentorparsjön</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.695474" lon="14.163568">
+    <ns0:name>Marsholm Vindskydden</ns0:name>
+    <ns0:desc>Located along the canoe trail. Needs to pay a fee of 50,-SEK. 
+Located in a nature reserve and at a boat landing site, hiking trail around the island.
+Unfortunately, I forgot to check out the outhouse that exists, so I can't give any update regarding the badger.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fee Required:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3148">
+      <ns0:text>Marsholm Vindskydden</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.903364" lon="12.787243">
+    <ns0:name>Vindskydd Knobesholm</ns0:name>
+    <ns0:desc>Located really nice.
+NOTE! To avoid irritation and possibly nagging about the evening's "right of possession", it is good to call Tina on 070-213 72 44 and book a shelter so no one has had time before. There is a roadblock that may be closed.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3149">
+      <ns0:text>Vindskydd Knobesholm</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.348298" lon="13.684201">
+    <ns0:name>Vittsjö</ns0:name>
+    <ns0:desc>Går att köra fram med MC men ej med bil.</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3150">
+      <ns0:text>Vittsjö</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.690903" lon="13.494022">
+    <ns0:name>Krankesjön Vindskydd</ns0:name>
+    <ns0:desc>Windbreaks along Skåneleden. Campsite next to bird lake. Water is available (rickepump, should be boiled before consumption). Next to the Krankesjön there are two shelters with barbecue area for overnight stay and next to it there are shelters for barbecuing (picture). Well with pump, but don't know if the water is drinkable, but for dishes etc. Within a hundred yards there is a bird tower overlooking the lake and a wooden walkway to a viewing area in the lake. Toilet. Unfortunately no sea view from the shelters. Nicely constructed and in fine condition. You come down by car to unload directly next to the shelter and can park 3 minutes walk away. It is suitable for the disabled, strollers, etc.
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3151">
+      <ns0:text>Krankesjön Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.6073186" lon="13.2452202">
+    <ns0:name>Vindskydd Mästocka</ns0:name>
+    <ns0:desc>Public swimingarea
+Barier need to be passed to get there. Not much wood. 3-4 sleeping in shelter.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3152">
+      <ns0:text>Vindskydd Mästocka</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.1522639" lon="13.7455863">
+    <ns0:name>Vindskydd Häslleholmsgården</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/3153">
+      <ns0:text>Vindskydd Häslleholmsgården</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.4184118" lon="12.8585261">
+    <ns0:name>Vindskydd Korröd</ns0:name>
+    <ns0:desc>Beautifully situated on the hillside with nice views. It says there is room for 4-6 people. 4 is probably correct. Barbecue area with water and toilet available. Along Skåneleden. A bit of an urban feel.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3154">
+      <ns0:text>Vindskydd Korröd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.7995925" lon="13.4961677">
+    <ns0:name>Rövarkulan vindskydd</ns0:name>
+    <ns0:desc>Längs led: Skåneleden SL 2-3
+Ved finns i förråd. Dass finns. 50 meter från parkering. Det finns en brunn i naturreservatet, okänd vattenkvalitet.</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3155">
+      <ns0:text>Rövarkulan vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.6915199" lon="13.3573151">
+    <ns0:name>Skryllegården Frilufsare Vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/3156">
+      <ns0:text>Skryllegården Frilufsare Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.5561018" lon="13.3774477">
+    <ns0:name>Glamberga Vindskydd</ns0:name>
+    <ns0:desc>Along the trail: skåneleden
+Overall rating (1-10): 8
+Number of persons (sleeping in shelter): 5pcs
+Access: road (private last part)
+Nearest town: Svedala (15km) Located cozy by a small lake.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3157">
+      <ns0:text>Glamberga Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.5867071" lon="13.5858285">
+    <ns0:name>Simontorp Vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/3158">
+      <ns0:text>Simontorp Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.050333" lon="13.1689719999999">
+    <ns0:name>Mölledammen vindskydd</ns0:name>
+    <ns0:desc>The shelter is owned and maintained by Limhamn Scout Union.
+It is not possible to swim in the Mölledammen; washing facilities are available in the drainage basin.
+Number of persons (sleeping in shelters): (6)
+Access: parking with probably best at the parking lot to Tranerödsmossen 1. 5km from the shelter. By bike you can get past the barriers and reach the shelter.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3207">
+      <ns0:text>Mölledammen vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.30301" lon="14.277726">
+    <ns0:name>Farlången Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3264">
+      <ns0:text>Farlången Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.25458" lon="13.22817">
+    <ns0:name>Grytåsa Vindskydd</ns0:name>
+    <ns0:desc>Vindskydd i mkt bra skick. 
+Plats för 6 personer, med lite vilja kan du även få upp ett litet tält i anslutning
+Ved: Ja, mkt 3/9-16
+Toalett : Ja 200 m vid parkeringen</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3493">
+      <ns0:text>Grytåsa Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.932022" lon="13.591716">
+    <ns0:name>Vindskydd Fogdarödsområdet</ns0:name>
+    <ns0:desc>Stort vindskydd
+Ingen eldplats
+Ingen toalett.
+Körbar på mc (dock på privat väg)</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3550">
+      <ns0:text>Vindskydd Fogdarödsområdet</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2588" lon="12.6156">
+    <ns0:name>Skäret Vindskydd</ns0:name>
+    <ns0:desc>Parking 250 m away but drivable road up to the shelter in the forest
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3574">
+      <ns0:text>Skäret Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.296612" lon="12.481894">
+    <ns0:name>Mölle Vindskydd</ns0:name>
+    <ns0:desc>Municipality advocates charcoal, charcoal available on site
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Weather Shelter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3575">
+      <ns0:text>Mölle Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.7163207" lon="13.9818025">
+    <ns0:name>Verkasjön Vindskydd</ns0:name>
+    <ns0:desc>A few 100m away along the road is a toilet.
+according to the sign there is water along the trail 500m away
+a tent can easily be placed a few metres away.
+The shelter is located in a very densely vegetated area. Instead, we chose to camp at a barbecue area closer to the water. Unclear whether it is considered permissible within the nature reserve.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3656">
+      <ns0:text>Verkasjön Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.241789" lon="12.944554">
+    <ns0:name>1 Rönne å, Höja Vindskydd</ns0:name>
+    <ns0:desc>Along the trail: along the Rönne river canoe trail
+Overall rating (1-10): 7
+Firewood: No, there is little forest/wood nearby. Wood may be brought by yourself.
+Number of persons (sleeping in shelter): ~6 places x 2
+Fresh water: from tap (2020.05.07)
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3698">
+      <ns0:text>1 Rönne å, Höja Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.099772" lon="13.754209">
+    <ns0:name>1 Göingeåsen Vindskydd</ns0:name>
+    <ns0:desc>There is an axe/saw behind and logs
+Barbecue facilities: yes
+Number of people (sleeping in shelter): 5-8
+Access: gravel road, low traffic 150 meters away
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3736">
+      <ns0:text>1 Göingeåsen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.112611" lon="13.744748">
+    <ns0:name>1 Tormestorp Vindskydd</ns0:name>
+    <ns0:desc>Number of people (sleeping in shelter): 4-6 
+Located on public land. However, about 50 meters to a school and located in the middle of a small community. There is also a hut 5 meters away where animals/children/baggage can easily be. There is no firewood and not in the vicinity, probably need to walk a few 100 meters. Difficult with toilet facilities for the same reason.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3737">
+      <ns0:text>1 Tormestorp Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.467293" lon="12.7049">
+    <ns0:name>Hovs Hallar Vindskydd</ns0:name>
+    <ns0:desc>Access: parking is 300 m away, large
+Completely newly built shelter in Skåne 2020, right next to the nature area Hovs Hallar. Toilet is available, water toilet adjacent to the parking lot. Tap water in the same place. Trash can right next to the shelter. Relatively close to the sea.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3790">
+      <ns0:text>Hovs Hallar Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.259995" lon="14.461135">
+    <ns0:name>1 Alltidhult Vindskydd</ns0:name>
+    <ns0:desc>Cosy area with 2 shelters, along the paddling trail in Halen/Raslången. Located at a "lift" of 800 meters for canoes. Easily accessible by car, about 100 m from road with parking. Drinkable water 500 metres away. There are two toilets and waste sorting. Shelter #2 has a table. There is room for the occasional tent in the area. 
+Number of persons (sleeping in shelter): 6
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3813">
+      <ns0:text>1 Alltidhult Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.765064" lon="14.01221">
+    <ns0:name>Agusa Vindskydd</ns0:name>
+    <ns0:desc>Firewood, outhouses and garbage bins are located near the shelter.
+There are two more barbecue areas in addition to the one next to the shelter.
+Didn't see if it's suitable for pitching tents, but there are open spaces.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3862">
+      <ns0:text>Agusa Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.7800555555556" lon="13.0933888888889">
+    <ns0:name>Furulund Vindskydd</ns0:name>
+    <ns0:desc>Wooden shelter, without fireplace in front. However, there are several barbecue areas behind the shelter, in the Scout Farm "yard". In front of the shelter is a climbing wall (which normally has no handholds that can be reached from the ground).
+There is no public toilet. There is no drinking water.
+It is very close to the village streets and the illuminated exercise trail.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3864">
+      <ns0:text>Furulund Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.90106" lon="13.719898">
+    <ns0:name>1 Ekeröd Vindskydd</ns0:name>
+    <ns0:desc>Max 6 persons.
+Firewood is at the place.
+Water, toilet and a parking spot is 200m away to the north: https://maps.app.goo.gl/ZX1SNykE2V8xFG879
+Entrance to the parking spot is here: 
+https://maps.app.goo.gl/n56zM42ptvCifGyd6
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3865">
+      <ns0:text>1 Ekeröd Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.6886624" lon="13.3586298">
+    <ns0:name>Skryllegårde Vindskydd</ns0:name>
+    <ns0:desc>Sleeps 5. Fireplace available. There is a shower at the reception for a fee of 20:-SEK, water and toilet near the Naturum.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shower:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3867">
+      <ns0:text>Skryllegårde Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.559211" lon="13.205044">
+    <ns0:name>1 Mattestigens Vindskydd</ns0:name>
+    <ns0:desc>Room for two to sleep. No water. Parking 300m Kesjarvägen. 700m Lyckevägen
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3868">
+      <ns0:text>1 Mattestigens Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.67491" lon="13.06778">
+    <ns0:name>1 Stora Skärsjön Vindskydd</ns0:name>
+    <ns0:desc>Seating for about 20 people. There are reports that the shelters have burned down. But it's still a great place to camp. Hope they build up again.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Bivouac&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3888">
+      <ns0:text>1 Stora Skärsjön Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.606429" lon="14.020216">
+    <ns0:name>Bäckaholmen Vindskydd</ns0:name>
+    <ns0:desc>Lying nicely by running water. Tables and benches inside the shelter. Barbecue area and toilet available. Place for tents. Sparsely trafficked dirt road 100 meters from the shelter.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3925">
+      <ns0:text>Bäckaholmen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.5995" lon="14.0024">
+    <ns0:name>Fredriksfors Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4163">
+      <ns0:text>Fredriksfors Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.734008" lon="13.152134">
+    <ns0:name>Nöbbelövs Mosse Vindskydd</ns0:name>
+    <ns0:desc>Access: gravel road, 150 metres.
+Subject to weather protection, no benches but wooden floors. Some graffiti. Unless there is a strong wind, up to 3 can be brought in on the floor rainproof. No toilet, rubbish bin available. Plenty of tent pitches. Water is running, not drinkable but of course washable.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4200">
+      <ns0:text>Nöbbelövs Mosse Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.738935" lon="13.163666">
+    <ns0:name>Vallkärra Vindskydd</ns0:name>
+    <ns0:desc>Access: gravel road, 50 metres.
+Rest area with 2 longer benches on the outskirts of Lund, Skåne County in Nöbbelövs Mosse nature reserve. Designed for seating with 2 longer benches, but can fit 2 people rainproof on the benches with some difficulty. No toilet, rubbish can available. Plenty of tent pitches. Water is running, not drinkable but of course washable.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4203">
+      <ns0:text>Vallkärra Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.8144166666667" lon="13.4279166666667">
+    <ns0:name>Askaken Vindskydd</ns0:name>
+    <ns0:desc>Shelter with seating by gravel road
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4209">
+      <ns0:text>Askaken Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.7682228" lon="14.131165">
+    <ns0:name>Kumlan Vindskydd</ns0:name>
+    <ns0:desc>Simple shelter with benches. No fireplace. Located in a nature reserve. Next door to the Drakmöllan nature reserve which is really beautiful.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4217">
+      <ns0:text>Kumlan Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.690427" lon="13.3581094">
+    <ns0:name>Skryllegården Vindskydd</ns0:name>
+    <ns0:desc>A roof over your head. There is a shower at the reception for a fee of 20:-SEK, water and toilet near the Naturum.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Basic Shelter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shower:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4265">
+      <ns0:text>Skryllegården Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.6902574" lon="13.3613764">
+    <ns0:name>Skryllgården Koja</ns0:name>
+    <ns0:desc>Small cosy cottage with benches. There is a shower at the reception for a fee of 20:-SEK and water and toilet at the Naturum.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shower:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4453">
+      <ns0:text>Skryllgården Koja</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.595398" lon="14.179326">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/7929">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.8755655" lon="13.5973212">
+    <ns0:name>Fulltofta strand</ns0:name>
+    <ns0:desc>There is a parking lot 100 meters away from the spot if you arrive from north.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Bivouac&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/1">
+      <ns0:text>Fulltofta strand</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.711367" lon="13.795158">
+    <ns0:name>Glamberga</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/7946">
+      <ns0:text>Glamberga</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.950215" lon="13.586697">
+    <ns0:name>Shelter</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/7947">
+      <ns0:text>Shelter</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.91499" lon="12.687533">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/7948">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.2521297" lon="14.4301987">
+    <ns0:name>Vindskydd107</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/7955">
+      <ns0:text>Vindskydd107</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.935857" lon="13.579449">
+    <ns0:name>Vindskydd Fogdarödsområdet</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/7965">
+      <ns0:text>Vindskydd Fogdarödsområdet</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="55.6836408" lon="13.9096463">
+    <ns0:name>Vindskydd 99</ns0:name>
+    <ns0:desc>Fin vindskydd som ligger mellan en brant skog och ängsmark. Ved finns, men inte vatten. 2 grillplatser.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/7967">
+      <ns0:text>Vindskydd 99</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="56.86110555555555" lon="12.60526388888889">
+    <ns0:name>Vindskydd Dala/Suseån</ns0:name>
+    <ns0:desc>At the Dala forest just beside the river Suseån
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/9311">
+      <ns0:text>Vindskydd Dala/Suseån</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:rte><ns0:name>Bounds r1 c1</ns0:name><ns0:rtept lat="54.27989212883871" lon="9.493691744019566" /><ns0:rtept lat="54.27989212883871" lon="14.635452967758535" /><ns0:rtept lat="56.90716475836223" lon="14.635452967758535" /><ns0:rtept lat="56.90716475836223" lon="9.493691744019566" /><ns0:rtept lat="54.27989212883871" lon="9.493691744019566" /></ns0:rte></gpx>

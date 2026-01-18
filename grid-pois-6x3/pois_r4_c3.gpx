@@ -1,0 +1,854 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://map.campwild.org" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:name>CampWild Places</ns0:name>
+    <ns0:desc>Generated 2022-02-20 16:41:09.524083
+Cell r4 c3 · waypoints: 116</ns0:desc>
+    <ns0:author>
+      <ns0:name>gpx.studio</ns0:name>
+      <ns0:link href="https://gpx.studio" />
+    </ns0:author>
+  <ns0:keywords>CampWild Places.gpx</ns0:keywords></ns0:metadata>
+  <ns0:wpt lat="64.1204288" lon="20.9093173">
+    <ns0:name>Vindskydd Rickleå</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/6985">
+      <ns0:text>Vindskydd Rickleå</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.738656" lon="20.568413">
+    <ns0:name>Tavaste kojan</ns0:name>
+    <ns0:desc>Shelter with windows and an open fireplace. + outdoor fireplace. Three benches inside, overnighting is possible.
+
+2,5 kms to the shelter, trail is hardly bike-able
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Weather Shelter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Heating:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/8228">
+      <ns0:text>Tavaste kojan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.5366262" lon="21.3421955">
+    <ns0:name>shelter</ns0:name>
+    <ns0:desc>a shelter with a bench outside, next to the road, but with a nice view
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/7393">
+      <ns0:text>shelter</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.3241884" lon="21.186686">
+    <ns0:name>No Name</ns0:name>
+    <ns0:desc>parking area with toilets and a picnic area with one simple shelter
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Basic Shelter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/7394">
+      <ns0:text>No Name</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.027911" lon="19.904921">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8011">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.850767" lon="20.281697">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8223">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.71061" lon="20.326072">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8270">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.877016" lon="20.019753">
+    <ns0:name>Laxstugan</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8292">
+      <ns0:text>Laxstugan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.026092" lon="20.486451">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8317">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.699976" lon="20.385398">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8443">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.910671" lon="20.028249">
+    <ns0:name>Vindskydd Brännland</ns0:name>
+    <ns0:desc>A fresh and neat shelter next to the road between Brännland and Tavelsjö. A nice fireplace with a well-built chimney, no graffiti on the walls.
+Wind shelter: between Brännland and Tavelsjö
+Along trail: no, but the shelter is next to the road
+Overall rating (1-10): 8
+Wood: kindling available
+Barbecue area: yes, inside the shelter with chimney
+Benches/Tables (seats): yes (4)
+Number of people (sleeping in shelter): 4 (narrow benches!)
+Access: road (parking)
+Nearest town/city: Umeå (15km)
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3491">
+      <ns0:text>Vindskydd Brännland</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.667154" lon="20.234052">
+    <ns0:name>Långreven Vindskydd</ns0:name>
+    <ns0:desc>Along the trail.
+Number of persons (sleeping in shelter 2 spacious in width along the long side and two more that will be narrower and 1. 85m long along the short sides
+Access: road (with boom) and path.
+Parking spaces are available at several locations on the periphery of the nature reserve.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3837">
+      <ns0:text>Långreven Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.0132666666667" lon="20.0155666666667">
+    <ns0:name>1 Tavelsjöberget Vindskydd</ns0:name>
+    <ns0:desc>I think there are three shelters (but maybe I missed one). In addition, a large woodshed, several toilets, picnic tables, barbecue areas, etc.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3903">
+      <ns0:text>1 Tavelsjöberget Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.59152" lon="20.94">
+    <ns0:name>Hjoggböle Vindskydd</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4214">
+      <ns0:text>Hjoggböle Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.8105078" lon="20.1087268">
+    <ns0:name>Hässningberget Vindskydd</ns0:name>
+    <ns0:desc>Shelter with seating and fireplace. Firewood is available next to the parking lot, at the beginning of the hiking trail (3km) on Hässningberget. Nice view, nice walk. Nature reserve 6km from Umeå city centre
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4232">
+      <ns0:text>Hässningberget Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.657761" lon="20.232213">
+    <ns0:name>Strömbäck Vindskydd</ns0:name>
+    <ns0:desc>Short walk from the nearest road. 
+Close connection to nice kippor with view to the sea.
+30min drive from central Umeå
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4241">
+      <ns0:text>Strömbäck Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.800865" lon="20.185137">
+    <ns0:name>Röbäcks Vindskydd</ns0:name>
+    <ns0:desc>Unmaintained shelter but with seating. 
+In close proximity to nice trails and light trails.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4243">
+      <ns0:text>Röbäcks Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.787458" lon="20.122681">
+    <ns0:name>Skravelsjötjärnen Vindskydd</ns0:name>
+    <ns0:desc>Close to the road right on the lakeshore. There is plenty of seating and a fireplace both inside and outside the shelter. No firewood or trash can is available.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4244">
+      <ns0:text>Skravelsjötjärnen Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.655248" lon="20.230931">
+    <ns0:name>Strömbäck Vindskydd</ns0:name>
+    <ns0:desc>Short walk from the nearest road.
+30min drive from central Umeå
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4245">
+      <ns0:text>Strömbäck Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.835127" lon="20.127031">
+    <ns0:name>Notvarpsstugan Vindskydd</ns0:name>
+    <ns0:desc>Fireplace both inside and outside the shelter. Seating at both fireplaces.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Heating:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4247">
+      <ns0:text>Notvarpsstugan Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.829629" lon="20.139774">
+    <ns0:name>Baggböleören Vindskydd</ns0:name>
+    <ns0:desc>Shelter with seats inside and outside. Wood storage is available on site. Located close to the water with a view of the bridge construction. Fireplace outside the shelter.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4248">
+      <ns0:text>Baggböleören Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.9428666666667" lon="20.3767333333333">
+    <ns0:name>Backsjön Svartviken Vindskydd</ns0:name>
+    <ns0:desc>Large shelter, woodshed available but on occasion not much wood, several picnic tables and barbecue areas, including an indoor barbecue area. View on the back lake, parking at 100 meters distance.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Road:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Heating:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4284">
+      <ns0:text>Backsjön Svartviken Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.66145" lon="20.2191166666667">
+    <ns0:name>Hatten Vindskydd</ns0:name>
+    <ns0:desc>Located in the nature reserve Strömbäck Kont, part of the archipelago around Umeå. 
+View of the Hatten.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can Swim:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4285">
+      <ns0:text>Hatten Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.788194" lon="20.151967">
+    <ns0:name>Skoterklubbens vindskydd samt kåta</ns0:name>
+    <ns0:desc>There is a fireplace in both. Large number of seats but worn. Located along the snowmobile trail but there is a logging road up to the site.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Heating:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4447">
+      <ns0:text>Skoterklubbens vindskydd samt kåta</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.93461" lon="20.385876">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8224">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.769103" lon="19.782128">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8418">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.536617" lon="21.342368">
+    <ns0:name>No Name</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8601">
+      <ns0:text>No Name</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.79056" lon="20.327245">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/7996">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.800141" lon="20.33162">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/7997">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.782368" lon="20.350749">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/7998">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.873078" lon="20.219088">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/7999">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.872557" lon="20.218823">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8000">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.90777" lon="20.168655">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8001">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.873135" lon="20.219894">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8002">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.822126" lon="20.332169">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8003">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.990153" lon="20.008892">
+    <ns0:name>Stortavelsjön</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8007">
+      <ns0:text>Stortavelsjön</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.564525" lon="19.872712">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8008">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.04044" lon="19.911165">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8009">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.030349" lon="19.906784">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8010">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.02533" lon="19.901762">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8012">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.984532" lon="20.067115">
+    <ns0:name>Hemberget</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8014">
+      <ns0:text>Hemberget</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.938431" lon="20.387609">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8068">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.843142" lon="20.175436">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8175">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.93736" lon="20.142843">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8188">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.898173" lon="20.239392">
+    <ns0:name>Stenlys Camp</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8192">
+      <ns0:text>Stenlys Camp</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.061312" lon="19.817012">
+    <ns0:name>Gullhösen</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8199">
+      <ns0:text>Gullhösen</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.000405" lon="20.065475">
+    <ns0:name>Sofiastuun</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8201">
+      <ns0:text>Sofiastuun</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.078191" lon="19.829315">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8205">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.044651" lon="19.915553">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8206">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.996812" lon="20.022601">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8211">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.016175" lon="19.9017">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8213">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.013205" lon="19.904962">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8214">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.183819" lon="20.594583">
+    <ns0:name>pickustjärn</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8217">
+      <ns0:text>pickustjärn</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.996875" lon="20.02303">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8220">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.93822" lon="20.387152">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8225">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.722265" lon="20.57389">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8227">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.748501" lon="20.566888">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8229">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.84042" lon="20.272028">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8231">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.841681" lon="20.271973">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8232">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.15726" lon="20.361842">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8233">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.213894" lon="20.264349">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8234">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.23096" lon="20.266462">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8235">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.867456" lon="20.06521">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8237">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.727473" lon="20.409051">
+    <ns0:name>Kasavikens vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8238">
+      <ns0:text>Kasavikens vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.76284" lon="20.370436">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8239">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.742594" lon="20.311754">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8248">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.279021" lon="20.305017">
+    <ns0:name>Loberget</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8249">
+      <ns0:text>Loberget</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.297242" lon="20.165297">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8250">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.873146" lon="20.44235">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8254">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.880103" lon="20.024958">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8266">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.9221" lon="20.536723">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8267">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.929507" lon="20.107916">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8269">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.98752" lon="20.50801">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8283">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.896365" lon="20.702011">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8286">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.903162" lon="20.524084">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8287">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.845168" lon="20.106654">
+    <ns0:name>Jägarstugan</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8289">
+      <ns0:text>Jägarstugan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.846432" lon="20.099854">
+    <ns0:name>Kåddisstugan</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8290">
+      <ns0:text>Kåddisstugan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.898334" lon="19.890005">
+    <ns0:name>Grillkåtan i Brattby</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8291">
+      <ns0:text>Grillkåtan i Brattby</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.794124" lon="20.576942">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8293">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.094206" lon="20.433127">
+    <ns0:name>Donnaberget</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8296">
+      <ns0:text>Donnaberget</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.267609" lon="19.808108">
+    <ns0:name>Vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8298">
+      <ns0:text>Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.00608" lon="20.394396">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8303">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.975405" lon="20.213551">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8304">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.944673" lon="20.56378">
+    <ns0:name>svartbergsforsen</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8305">
+      <ns0:text>svartbergsforsen</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.951652" lon="20.466973">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8309">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.908849" lon="20.33726">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8320">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.967109" lon="20.362838">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8322">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.137927" lon="20.737466">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8334">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.883825" lon="19.910208">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8371">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.823644" lon="19.904695">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8372">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.848399" lon="20.098708">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8373">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.82852" lon="19.892992">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8374">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.844433" lon="20.104469">
+    <ns0:name>Kåddisholmen</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8394">
+      <ns0:text>Kåddisholmen</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.197112" lon="20.226875">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8396">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.135163" lon="19.942823">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8397">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.258958" lon="20.23016">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8398">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.838117" lon="20.142173">
+    <ns0:name>Tvätthällsstugan</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8401">
+      <ns0:text>Tvätthällsstugan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.440415" lon="20.142906">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8403">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.204969" lon="20.271662">
+    <ns0:name>Svartidsforsen</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8405">
+      <ns0:text>Svartidsforsen</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.030604" lon="20.482566">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8419">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.682405" lon="20.389614">
+    <ns0:name>Kroktjärns Vindskydd</ns0:name>
+    <ns0:desc>benches, uncovered fireplace, windshelter, firewood
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Lean To&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drinkable Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/8478">
+      <ns0:text>Kroktjärns Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.053391" lon="19.92787">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8471">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.75879" lon="20.368751">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8480">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.834332" lon="20.495039">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8501">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.928216" lon="20.572776">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8502">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="63.980699" lon="20.115293">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8503">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.763428" lon="20.948219">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8516">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.752472" lon="20.871689">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8517">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.763467" lon="20.947925">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8518">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.74832" lon="20.918479">
+    <ns0:name>Obekräftade3</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8537">
+      <ns0:text>Obekräftade3</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.769397" lon="20.96518">
+    <ns0:name>Obekräftade3</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8582">
+      <ns0:text>Obekräftade3</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.769604" lon="20.977929">
+    <ns0:name>Obekräftade3</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8583">
+      <ns0:text>Obekräftade3</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.762876" lon="20.974902">
+    <ns0:name>Obekräftade3</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8584">
+      <ns0:text>Obekräftade3</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.775248" lon="20.990603">
+    <ns0:name>Obekräftade3</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8600">
+      <ns0:text>Obekräftade3</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.761202" lon="20.995486">
+    <ns0:name>Obekräftade3</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8606">
+      <ns0:text>Obekräftade3</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.753143" lon="20.487719">
+    <ns0:name>Obekräftade3</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8631">
+      <ns0:text>Obekräftade3</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:rte><ns0:name>Bounds r4 c3</ns0:name><ns0:rtept lat="62.16171001740926" lon="19.777214191497503" /><ns0:rtept lat="62.16171001740926" lon="24.918975415236474" /><ns0:rtept lat="64.78898264693278" lon="24.918975415236474" /><ns0:rtept lat="64.78898264693278" lon="19.777214191497503" /><ns0:rtept lat="62.16171001740926" lon="19.777214191497503" /></ns0:rte></gpx>

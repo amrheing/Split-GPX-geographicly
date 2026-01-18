@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://map.campwild.org" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:name>CampWild Places</ns0:name>
+    <ns0:desc>Generated 2022-02-20 16:41:09.524083
+Cell r5 c1 · waypoints: 7</ns0:desc>
+    <ns0:author>
+      <ns0:name>gpx.studio</ns0:name>
+      <ns0:link href="https://gpx.studio" />
+    </ns0:author>
+  <ns0:keywords>CampWild Places.gpx</ns0:keywords></ns0:metadata>
+  <ns0:wpt lat="64.918938" lon="14.102725">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8523">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="65.719011" lon="14.612949">
+    <ns0:name>Obekräftade3</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8557">
+      <ns0:text>Obekräftade3</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.818607" lon="14.23502">
+    <ns0:name>Vindskydd</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8560">
+      <ns0:text>Vindskydd</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.860744" lon="14.130248">
+    <ns0:name>Danielstugan</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8568">
+      <ns0:text>Danielstugan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.882799" lon="14.398774">
+    <ns0:name>Tjärnbäcken</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8572">
+      <ns0:text>Tjärnbäcken</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="64.8042297" lon="14.6261501">
+    <ns0:name>Vindskydd, Ej I Anslutning Till Vägkarteleder84</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8861">
+      <ns0:text>Vindskydd, Ej I Anslutning Till Vägkarteleder84</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="65.0475597" lon="14.3338966">
+    <ns0:name>Vindskydd623</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9165">
+      <ns0:text>Vindskydd623</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:rte><ns0:name>Bounds r5 c1</ns0:name><ns0:rtept lat="64.78898264693278" lon="9.493691744019566" /><ns0:rtept lat="64.78898264693278" lon="14.635452967758535" /><ns0:rtept lat="67.4162552764563" lon="14.635452967758535" /><ns0:rtept lat="67.4162552764563" lon="9.493691744019566" /><ns0:rtept lat="64.78898264693278" lon="9.493691744019566" /></ns0:rte></gpx>

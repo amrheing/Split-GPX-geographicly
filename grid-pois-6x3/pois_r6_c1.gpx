@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://map.campwild.org" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:name>CampWild Places</ns0:name>
+    <ns0:desc>Generated 2022-02-20 16:41:09.524083
+Cell r6 c1 · waypoints: 0</ns0:desc>
+    <ns0:author>
+      <ns0:name>gpx.studio</ns0:name>
+      <ns0:link href="https://gpx.studio" />
+    </ns0:author>
+  <ns0:keywords>CampWild Places.gpx</ns0:keywords></ns0:metadata>
+  <ns0:rte><ns0:name>Bounds r6 c1</ns0:name><ns0:rtept lat="67.4162552764563" lon="9.493691744019566" /><ns0:rtept lat="67.4162552764563" lon="14.635452967758535" /><ns0:rtept lat="70.04352790597981" lon="14.635452967758535" /><ns0:rtept lat="70.04352790597981" lon="9.493691744019566" /><ns0:rtept lat="67.4162552764563" lon="9.493691744019566" /></ns0:rte></gpx>

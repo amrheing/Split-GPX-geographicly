@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://map.campwild.org" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:name>CampWild Places</ns0:name>
+    <ns0:desc>Generated 2022-02-20 16:41:09.524083
+Cell r6 c2 · waypoints: 37</ns0:desc>
+    <ns0:author>
+      <ns0:name>gpx.studio</ns0:name>
+      <ns0:link href="https://gpx.studio" />
+    </ns0:author>
+  <ns0:keywords>CampWild Places.gpx</ns0:keywords></ns0:metadata>
+  <ns0:wpt lat="68.4373353" lon="18.1304613">
+    <ns0:name>Riksgränsen</ns0:name>
+    <ns0:desc>Weird design, never seen before.
+Place for  2 or 3 people.
+Fireplace inside and outside.
+In June still quite difficult to reach because of the snow.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/6865">
+      <ns0:text>Riksgränsen</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.469216" lon="18.825738">
+    <ns0:name>Snurijåkkåtan</ns0:name>
+    <ns0:desc>There is information that it belongs to STF and the fee has to be paid but in the Abisko reception they did not know about the building, we had to explain on the map. 
+Insulation in poor condition (snow coming through the wall), no firewood, guestbook since 1986? 
+Great view of Lapporten
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fee Required:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/307">
+      <ns0:text>Snurijåkkåtan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.407819" lon="18.668144">
+    <ns0:name>Björkliden stuga</ns0:name>
+    <ns0:desc>Small cottage with electricity and heating. 
+Water is close by
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Electricity:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/348">
+      <ns0:text>Björkliden stuga</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.25847836304244" lon="19.48761654232788">
+    <ns0:name>Stenbacken Raststuga</ns0:name>
+    <ns0:desc>&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4420">
+      <ns0:text>Stenbacken Raststuga</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.30328" lon="19.231895">
+    <ns0:name>Bessijåkka Raststuga</ns0:name>
+    <ns0:desc>Cottage with table and benches. Possibility of one night's accommodation in case of emergency. Proximity to barbecue toilet and beach.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Firewood:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fireplace:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grill:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rubbish Bin:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table &amp; Bench:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4421">
+      <ns0:text>Bessijåkka Raststuga</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.1943147" lon="18.5056467">
+    <ns0:name>Rádunjárga Raststuga</ns0:name>
+    <ns0:desc>Rest cabin that can be used for overnight stays in an emergency. 
+Water is nearby. 
+Fire possibilities are available
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4431">
+      <ns0:text>Rádunjárga Raststuga</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.0196672" lon="18.2471175">
+    <ns0:name>Tjäktapasset Raststuga</ns0:name>
+    <ns0:desc>Rest cabin that can be used for overnight stays in an emergency. Located high up along the royal trail.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Near Water:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4432">
+      <ns0:text>Tjäktapasset Raststuga</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.8916928" lon="18.3228281">
+    <ns0:name>Kuoperjåkka Raststuga</ns0:name>
+    <ns0:desc>Rest cottage with the possibility of overnight accommodation in an emergency. 
+There is wood stove
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toilet:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4433">
+      <ns0:text>Kuoperjåkka Raststuga</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.8645019" lon="19.059706">
+    <ns0:name>Nikkaluokta Stugan</ns0:name>
+    <ns0:desc>A slightly larger rest cabin that can be spent overnight in an emergency. 
+There is a stove and fireplace. 
+500 meters to water.
+&lt;p&gt;&lt;strong&gt;Object Type:&lt;/strong&gt; Hut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Heating:&lt;/strong&gt; Yes&lt;/p&gt;</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4434">
+      <ns0:text>Nikkaluokta Stugan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.982818" lon="18.46303">
+    <ns0:name>Unna Reitas</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8553">
+      <ns0:text>Unna Reitas</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.89307" lon="18.510834">
+    <ns0:name>Kebnekaise Toppstugan New</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8514">
+      <ns0:text>Kebnekaise Toppstugan New</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.892495" lon="18.514178">
+    <ns0:name>Kebnekaise Toppstugan Old</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8515">
+      <ns0:text>Kebnekaise Toppstugan Old</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.421215" lon="18.623231">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8519">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.364692" lon="18.78459">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8520">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.333529" lon="18.12676">
+    <ns0:name>Obekräftade2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8522">
+      <ns0:text>Obekräftade2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.714567" lon="19.049442">
+    <ns0:name>Vuoktatjåkka</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8542">
+      <ns0:text>Vuoktatjåkka</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.095787" lon="18.765442">
+    <ns0:name>Mårma</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8591">
+      <ns0:text>Mårma</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.528365" lon="17.384527">
+    <ns0:name>Kisuriskåtan</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8594">
+      <ns0:text>Kisuriskåtan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.892776" lon="18.515046">
+    <ns0:name>Gamla Toppstugan</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8617">
+      <ns0:text>Gamla Toppstugan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.5920105" lon="19.7050953">
+    <ns0:name>Rastskydd, Raststuga11</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8637">
+      <ns0:text>Rastskydd, Raststuga11</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.371852" lon="18.5444552">
+    <ns0:name>Rastskydd, Raststuga1</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8638">
+      <ns0:text>Rastskydd, Raststuga1</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.6891708" lon="18.1389427">
+    <ns0:name>Rastskydd, Raststuga13</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8639">
+      <ns0:text>Rastskydd, Raststuga13</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.5829983" lon="19.6752262">
+    <ns0:name>Rastskydd, Raststuga12</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8641">
+      <ns0:text>Rastskydd, Raststuga12</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.2848358" lon="18.5871506">
+    <ns0:name>Rastskydd, Raststuga2</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8645">
+      <ns0:text>Rastskydd, Raststuga2</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.2967502" lon="18.7504381">
+    <ns0:name>Rastskydd, Raststuga3</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8651">
+      <ns0:text>Rastskydd, Raststuga3</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.6205063" lon="17.1347237">
+    <ns0:name>Rastskydd, Raststuga32</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8654">
+      <ns0:text>Rastskydd, Raststuga32</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.1839848" lon="18.6672306">
+    <ns0:name>Rastskydd, Raststuga5</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8659">
+      <ns0:text>Rastskydd, Raststuga5</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.8448677" lon="18.8863564">
+    <ns0:name>Rastskydd, Raststuga7</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8661">
+      <ns0:text>Rastskydd, Raststuga7</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.8666687" lon="19.2690754">
+    <ns0:name>Rastskydd, Raststuga9</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8665">
+      <ns0:text>Rastskydd, Raststuga9</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.9712963" lon="18.6612225">
+    <ns0:name>Rastskydd, Raststuga6</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8666">
+      <ns0:text>Rastskydd, Raststuga6</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="67.416404" lon="18.081408">
+    <ns0:name>Nientostugan</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8667">
+      <ns0:text>Nientostugan</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.0679417" lon="19.4034863">
+    <ns0:name>Vindskydd, Ej I Anslutning Till Vägkarteleder8</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/8856">
+      <ns0:text>Vindskydd, Ej I Anslutning Till Vägkarteleder8</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.0101776" lon="19.6481895">
+    <ns0:name>Vindskydd497</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9062">
+      <ns0:text>Vindskydd497</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.3804512" lon="18.6613083">
+    <ns0:name>Vindskydd498</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9063">
+      <ns0:text>Vindskydd498</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.3984756" lon="18.4654427">
+    <ns0:name>Vindskydd499</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9064">
+      <ns0:text>Vindskydd499</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.4437084" lon="18.1707001">
+    <ns0:name>Vindskydd535</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9095">
+      <ns0:text>Vindskydd535</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:wpt lat="68.2626915" lon="18.2091522">
+    <ns0:name>Rastskydd, Raststuga</ns0:name>
+    <ns0:link href="https://map.campwild.org/places/9204">
+      <ns0:text>Rastskydd, Raststuga</ns0:text>
+    </ns0:link>
+  </ns0:wpt>
+  <ns0:rte><ns0:name>Bounds r6 c2</ns0:name><ns0:rtept lat="67.4162552764563" lon="14.635452967758535" /><ns0:rtept lat="67.4162552764563" lon="19.777214191497503" /><ns0:rtept lat="70.04352790597981" lon="19.777214191497503" /><ns0:rtept lat="70.04352790597981" lon="14.635452967758535" /><ns0:rtept lat="67.4162552764563" lon="14.635452967758535" /></ns0:rte></gpx>
