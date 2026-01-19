@@ -15,7 +15,7 @@ Unified tooling to partition a KML-defined area into a grid and split GPX POIs i
 Generate both KML and per-cell GPX for a 6×3 grid over your polygon, using CampWild POIs, with a rectangle route drawn in each output:
 
 ```bash
-python3 grid_partition.py --rows 6 --cols 3 --input-kml "Unbenannte Karte.kml" --input-gpx "CampWild Places.gpx" --emit-kml --emit-gpx --draw-rect
+python3 grid_partition.py --rows 6 --cols 3 --input-kml "sweden_arounds.kml" --input-gpx "CampWild Places.gpx" --emit-kml --emit-gpx --draw-rect
 ```
 
 Outputs:
@@ -37,11 +37,11 @@ Outputs:
 Examples:
 - KML only (7×3):
 ```bash
-python3 grid_partition.py --rows 7 --cols 3 --input-kml "Unbenannte Karte.kml" --emit-kml
+python3 grid_partition.py --rows 7 --cols 3 --input-kml "sweden_arounds.kml" --emit-kml
 ```
 - GPX only (6×3), multiple sources, rectangles on:
 ```bash
-python3 grid_partition.py --rows 6 --cols 3 --input-kml "Unbenannte Karte.kml" --input-gpx "CampWild Places.gpx" "TET/N.gpx" "TET/S.gpx" --emit-gpx --draw-rect
+python3 grid_partition.py --rows 6 --cols 3 --input-kml "sweden_arounds.kml" --input-gpx "CampWild Places.gpx" "TET/N.gpx" "TET/S.gpx" --emit-gpx --draw-rect
 ```
 
 ## Behavior & Assumptions
