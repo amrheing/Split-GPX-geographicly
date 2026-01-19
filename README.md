@@ -1,4 +1,4 @@
-# Sweden Trip Grid Tools
+# Parting GPX POIs in regions
 
 Unified tooling to partition a KML-defined area into a grid and split GPX POIs into per-cell files. It preserves original GPX metadata and adds optional visual rectangles.
 
