@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" version="1.1" creator="Garmin Desktop App" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:link href="http://www.garmin.com">
+      <ns0:text>Garmin International</ns0:text>
+    </ns0:link>
+    <ns0:time>2026-01-02T09:14:53Z</ns0:time>
+    <ns0:bounds maxlat="67.943594455718994" maxlon="24.038901329040527" minlat="55.337739139795303" minlon="11.169615872204304" />
+  <ns0:desc>Cell r6 c1 · waypoints: 0</ns0:desc><ns0:keywords>S.gpx</ns0:keywords></ns0:metadata>
+
+  <ns0:rte><ns0:name>Bounds r6 c1</ns0:name><ns0:rtept lat="67.4162552764563" lon="9.493691744019566" /><ns0:rtept lat="67.4162552764563" lon="14.635452967758535" /><ns0:rtept lat="70.04352790597981" lon="14.635452967758535" /><ns0:rtept lat="70.04352790597981" lon="9.493691744019566" /><ns0:rtept lat="67.4162552764563" lon="9.493691744019566" /></ns0:rte></gpx>

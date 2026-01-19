@@ -1,0 +1,3359 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" xmlns:ns1="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ns2="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" version="1.1" creator="Garmin Desktop App" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:link href="http://www.garmin.com">
+      <ns0:text>Garmin International</ns0:text>
+    </ns0:link>
+    <ns0:time>2026-01-02T09:14:53Z</ns0:time>
+    <ns0:bounds maxlat="67.943594455718994" maxlon="24.038901329040527" minlat="55.337739139795303" minlon="11.169615872204304" />
+  <ns0:desc>Cell r4 c2 · waypoints: 119</ns0:desc><ns0:keywords>S.gpx</ns0:keywords></ns0:metadata>
+
+  <ns0:wpt lat="62.248818716034293" lon="17.249965947121382">
+    <ns0:time>2025-09-27T16:01:46Z</ns0:time>
+    <ns0:name>! NoGo !!! -S11</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T16:01:46Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.733748216181993" lon="18.955195164307952">
+    <ns0:time>2025-06-12T20:05:53Z</ns0:time>
+    <ns0:name>! Slippery When Wet -S06</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-06-12T20:05:53Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.176256461068988" lon="17.931672753766179">
+    <ns0:ele>400.4296875</ns0:ele>
+    <ns0:time>2022-06-06T08:05:44Z</ns0:time>
+    <ns0:name>Camp Abborrvattnet -S04</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2022-06-06T08:05:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.058540737256408" lon="18.057382274419069">
+    <ns0:time>2025-08-17T06:15:30Z</ns0:time>
+    <ns0:name>Camp Almsjöbadet -S11</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-17T06:15:30Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.123181890696287" lon="18.049558941274881">
+    <ns0:ele>268.0625</ns0:ele>
+    <ns0:time>2025-08-17T06:20:41Z</ns0:time>
+    <ns0:name>Camp Almsjönäs -S11</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-17T06:20:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.953963167965412" lon="16.664568968117237">
+    <ns0:time>2020-06-30T06:34:53Z</ns0:time>
+    <ns0:name>Camp Hölleforsen -S10</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-06-30T06:34:53Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.819677224382758" lon="19.34023498557508">
+    <ns0:time>2025-09-15T06:14:52Z</ns0:time>
+    <ns0:name>Camp tent and Hammock with Shelter Öreälven -S06</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T06:14:52Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.450398961082101" lon="14.899598071351647">
+    <ns0:time>2024-09-28T14:31:36Z</ns0:time>
+    <ns0:name>Camp Överturing -S04</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-28T14:31:36Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.631351845338941" lon="17.09690049290657">
+    <ns0:ele>197.5703125</ns0:ele>
+    <ns0:time>2025-08-09T05:45:48Z</ns0:time>
+    <ns0:name>CampBjässjön -S11</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-09T05:45:48Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.863640785217285" lon="18.396391868591309">
+    <ns0:ele>6.93359375</ns0:ele>
+    <ns0:time>2025-07-29T08:19:20Z</ns0:time>
+    <ns0:name>Camping Barsta -S11</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/MvopaSayfGVr2nup6" />
+    <ns0:link href="https://www.barstacamping.com/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T08:19:20Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.828208804130554" lon="18.178612589836121">
+    <ns0:ele>6.765625</ns0:ele>
+    <ns0:time>2025-07-29T08:14:28Z</ns0:time>
+    <ns0:name>Camping Hörsångs -S11</ns0:name>
+    <ns0:cmt>Hörsångs Havsbad</ns0:cmt>
+    <ns0:desc>Hörsångs Havsbad</ns0:desc>
+    <ns0:link href="https://www.horsangscamping.se/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Kramfors</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>872 98</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>+46 70 347 70 42</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Kramfors</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>872 98</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>+46 70 347 70 42</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T08:14:28Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.649670626968145" lon="16.590349478647113">
+    <ns0:time>2019-04-15T20:33:32Z</ns0:time>
+    <ns0:name>Camping Kolgården -S09</ns0:name>
+    <ns0:cmt>Lövliden 16
+912 92, Vilhelmina, Västerbottens län, SWE</ns0:cmt>
+    <ns0:desc>Lövliden 16
+912 92, Vilhelmina, Västerbottens län, SWE</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/DxtAzbvq5HWLVjwG6" />
+    <ns0:link href="http://www.kolgarden.se/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Lövliden 16</ns1:StreetAddress>
+          <ns1:City>Vilhelmina</ns1:City>
+          <ns1:State>Västerbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>912 92</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Lövliden 16</ns2:StreetAddress>
+          <ns2:City>Vilhelmina</ns2:City>
+          <ns2:State>Västerbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>912 92</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-04-15T20:33:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.973664663732052" lon="18.526190165430307">
+    <ns0:time>2025-07-29T08:21:14Z</ns0:time>
+    <ns0:name>Camping Norrfällsviken -S11</ns0:name>
+    <ns0:cmt>Norrfällsvikens Turism</ns0:cmt>
+    <ns0:desc>Norrfällsvikens Turism</ns0:desc>
+    <ns0:link href="https://www.norrfallsvikenscamping.com/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>21 Harstigen</ns1:StreetAddress>
+          <ns1:City>Norrfällsviken</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>870 31</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>21 Harstigen</ns2:StreetAddress>
+          <ns2:City>Norrfällsviken</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>870 31</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T08:21:14Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.051746558398008" lon="19.552854700013995">
+    <ns0:time>2025-07-09T05:49:32Z</ns0:time>
+    <ns0:name>Camping Ramsele -S06</ns0:name>
+    <ns0:link href="https://ramsele.net/about" />
+    <ns0:link href="https://maps.app.goo.gl/SvkdCqx2DmU79Bcx5" />
+    <ns0:link href="https://www.visitvindeln.se/sv/almagrundets-camping-ramsele" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-09T05:49:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.697317004203796" lon="16.393420100212097">
+    <ns0:ele>205.48828125</ns0:ele>
+    <ns0:time>2021-04-26T05:59:48Z</ns0:time>
+    <ns0:name>Camping Sandnäsbaden -S06</ns0:name>
+    <ns0:cmt>Sandnäsbaden camping
+124 Sandnäset
+Sundsvall, Västernorrlands län, 860 41, SWE
+069251027</ns0:cmt>
+    <ns0:desc>Sandnäsbaden camping
+124 Sandnäset
+Sundsvall, Västernorrlands län, 860 41, SWE
+069251027</ns0:desc>
+    <ns0:link href="https://sandnasetcamping.com/" />
+    <ns0:link href="https://maps.app.goo.gl/bcVtRT369yUY5gLi8" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>124 Sandnäset</ns1:StreetAddress>
+          <ns1:City>Sundsvall</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>860 41</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>069251027</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>124 Sandnäset</ns2:StreetAddress>
+          <ns2:City>Sundsvall</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>860 41</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>069251027</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-04-26T05:59:48Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.171614646911621" lon="17.362604141235352">
+    <ns0:time>2025-09-15T07:01:18Z</ns0:time>
+    <ns0:name>Camping Åsele -S04</ns0:name>
+    <ns0:cmt>Åsele camping</ns0:cmt>
+    <ns0:desc>Åsele camping</ns0:desc>
+    <ns0:link href="https://aselecamping.com/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Värdshusvägen 21</ns1:StreetAddress>
+          <ns1:City>Åsele</ns1:City>
+          <ns1:State>Västerbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>919 32</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0722470581</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Värdshusvägen 21</ns2:StreetAddress>
+          <ns2:City>Åsele</ns2:City>
+          <ns2:State>Västerbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>919 32</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0722470581</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T07:01:18Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.689975738525391" lon="18.86502742767334">
+    <ns0:time>2025-07-09T05:52:52Z</ns0:time>
+    <ns0:name>CampingTrehorningsjö -S06</ns0:name>
+    <ns0:cmt>Trehorningsjo camping</ns0:cmt>
+    <ns0:desc>Trehorningsjo camping</ns0:desc>
+    <ns0:link href="https://trehorningsjocamping.se/" />
+    <ns0:link href="https://maps.app.goo.gl/jYi94SYMkfBMTEkg7" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Strandvägen 18</ns1:StreetAddress>
+          <ns1:City>Trehörningsjö</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>897 92</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>066250000</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Strandvägen 18</ns2:StreetAddress>
+          <ns2:City>Trehörningsjö</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>897 92</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>066250000</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-09T05:52:52Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.646236896514893" lon="16.615126132965088">
+    <ns0:time>2021-05-09T12:35:06Z</ns0:time>
+    <ns0:name>Food Bergmans Fisk &amp; Vilt -S09</ns0:name>
+    <ns0:cmt>Bergmans Fisk &amp; Vilt
+Sagavägen 1
+912 92, Vilhelmina, AC, SWE
+04694025090</ns0:cmt>
+    <ns0:desc>Bergmans Fisk &amp; Vilt
+Sagavägen 1
+912 92, Vilhelmina, AC, SWE
+04694025090</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Sagavägen 1</ns1:StreetAddress>
+          <ns1:City>Vilhelmina</ns1:City>
+          <ns1:State>AC</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>912 92</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>04694025090</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Sagavägen 1</ns2:StreetAddress>
+          <ns2:City>Vilhelmina</ns2:City>
+          <ns2:State>AC</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>912 92</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>04694025090</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-09T12:35:06Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.911277739331126" lon="18.302876148372889">
+    <ns0:time>2020-04-12T05:18:12Z</ns0:time>
+    <ns0:name>Food Café Mannaminne -S11</ns0:name>
+    <ns0:cmt>Café Mannaminne
+Häggvik 144
+870 30, Kramfors, Vasternorrland County, SWE
+061320290</ns0:cmt>
+    <ns0:desc>Café Mannaminne
+Häggvik 144
+870 30, Kramfors, Vasternorrland County, SWE
+061320290</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/vof74nqAxoRwTQ3j6" />
+    <ns0:link href="http://www.mannaminne.se/" />
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Häggvik 144</ns1:StreetAddress>
+          <ns1:City>Kramfors</ns1:City>
+          <ns1:State>Vasternorrland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>870 30</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>061320290</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Häggvik 144</ns2:StreetAddress>
+          <ns2:City>Kramfors</ns2:City>
+          <ns2:State>Vasternorrland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>870 30</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>061320290</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-04-12T05:18:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.917659888044" lon="18.357444182038307">
+    <ns0:time>2025-08-05T17:40:32Z</ns0:time>
+    <ns0:name>Food Gårdsbutiken S-11</ns0:name>
+    <ns0:cmt>Gårdsbutiken</ns0:cmt>
+    <ns0:desc>Gårdsbutiken</ns0:desc>
+    <ns0:link href="https://www.gardsbutiken.net/" />
+    <ns0:link href="https://maps.app.goo.gl/QVMp8sug91geAZbM7" />
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Själand 109</ns1:StreetAddress>
+          <ns1:City>Kramfors</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>873 98</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>061320424</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Själand 109</ns2:StreetAddress>
+          <ns2:City>Kramfors</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>873 98</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>061320424</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-05T17:40:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.57612943649292" lon="17.099447250366211">
+    <ns0:time>2025-08-05T18:02:25Z</ns0:time>
+    <ns0:name>Food Pizzeria Polo Indal -S11</ns0:name>
+    <ns0:cmt>Pizzeria Polo</ns0:cmt>
+    <ns0:desc>Pizzeria Polo</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Härevägen 2</ns1:StreetAddress>
+          <ns1:City>Indal</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>855 97</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>06092257</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Härevägen 2</ns2:StreetAddress>
+          <ns2:City>Indal</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>855 97</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>06092257</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-05T18:02:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.515998836606741" lon="16.065857922658324">
+    <ns0:ele>179.96875</ns0:ele>
+    <ns0:time>2025-09-27T15:42:48Z</ns0:time>
+    <ns0:name>Fun Trickey track   -S06</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T15:42:48Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.822419531643391" lon="19.340121410787106">
+    <ns0:time>2025-09-27T15:36:25Z</ns0:time>
+    <ns0:name>Fun Trickey track -S06</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T15:36:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.894117888063192" lon="16.562209669500589">
+    <ns0:time>2025-09-27T15:49:16Z</ns0:time>
+    <ns0:name>Fun Trickey track -S10</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T15:49:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.393996715545654" lon="17.333271503448486">
+    <ns0:time>2025-07-30T06:03:19Z</ns0:time>
+    <ns0:name>Garage Tyres - Däckhuset i Sundsvall -S11</ns0:name>
+    <ns0:cmt>Vianor</ns0:cmt>
+    <ns0:desc>Vianor</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/4NkEMT5kudEwpnmV9" />
+    <ns0:link href="http://www.dackhuset.net/" />
+    <ns0:sym>ATV</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Heffners allé</ns1:StreetAddress>
+          <ns1:City>Sundsvall</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>856 33</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>060172535</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Heffners allé</ns2:StreetAddress>
+          <ns2:City>Sundsvall</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>856 33</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>060172535</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T06:03:19Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.805181980133057" lon="16.43329381942749">
+    <ns0:time>2025-09-15T07:08:12Z</ns0:time>
+    <ns0:name>Gas Backe -S04</ns0:name>
+    <ns0:cmt>Skelleftebränslen</ns0:cmt>
+    <ns0:desc>Skelleftebränslen</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Stationsvägen 27</ns1:StreetAddress>
+          <ns1:City>Strömsund</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>883 72</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Stationsvägen 27</ns2:StreetAddress>
+          <ns2:City>Strömsund</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>883 72</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T07:08:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.537162303924561" lon="15.919725894927979">
+    <ns0:time>2021-05-20T08:28:37Z</ns0:time>
+    <ns0:name>Gas Borgsjö -S06</ns0:name>
+    <ns0:cmt>Ingo
+Borgsjöbyn
+841 97, Ånge, Y, SWE
+04620788008</ns0:cmt>
+    <ns0:desc>Ingo
+Borgsjöbyn
+841 97, Ånge, Y, SWE
+04620788008</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Borgsjöbyn</ns1:StreetAddress>
+          <ns1:City>Ånge</ns1:City>
+          <ns1:State>Y</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>841 97</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>04620788008</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Borgsjöbyn</ns2:StreetAddress>
+          <ns2:City>Ånge</ns2:City>
+          <ns2:State>Y</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>841 97</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>04620788008</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-20T08:28:37Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.424201011657715" lon="15.822780132293701">
+    <ns0:ele>382.65234375</ns0:ele>
+    <ns0:time>2023-07-21T08:12:09Z</ns0:time>
+    <ns0:name>Gas Borgvattnet -S04</ns0:name>
+    <ns0:cmt>Gas station &amp; Cafe</ns0:cmt>
+    <ns0:desc>Gas station &amp; Cafe</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2023-07-21T08:12:09Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.449220657348633" lon="18.116970062255859">
+    <ns0:time>2025-09-27T15:52:47Z</ns0:time>
+    <ns0:name>Gas Bredbyn -S06</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Bondegatan 8</ns1:StreetAddress>
+          <ns1:City>Bredbyn</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>895 30</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0738441252</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Bondegatan 8</ns2:StreetAddress>
+          <ns2:City>Bredbyn</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>895 30</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0738441252</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T15:52:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.747018337249756" lon="15.421543121337891">
+    <ns0:time>2024-09-28T14:35:42Z</ns0:time>
+    <ns0:name>Gas Bräcke -S04</ns0:name>
+    <ns0:cmt>Qstar
+Riksvägen 35
+843 31, Bräcke, Jämtlands län, SWE
+011280000</ns0:cmt>
+    <ns0:desc>Qstar
+Riksvägen 35
+843 31, Bräcke, Jämtlands län, SWE
+011280000</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Riksvägen 35</ns1:StreetAddress>
+          <ns1:City>Bräcke</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>843 31</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>011280000</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Riksvägen 35</ns2:StreetAddress>
+          <ns2:City>Bräcke</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>843 31</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>011280000</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-28T14:35:42Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.500448226928711" lon="16.177647113800049">
+    <ns0:time>2024-09-14T05:48:39Z</ns0:time>
+    <ns0:name>Gas Fränsta -S06</ns0:name>
+    <ns0:cmt>Gulf Fränsta
+Gissjögatan 514
+841 71, Fränsta, Västernorrlands län, SWE
+069130500</ns0:cmt>
+    <ns0:desc>Gulf Fränsta
+Gissjögatan 514
+841 71, Fränsta, Västernorrlands län, SWE
+069130500</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Gissjögatan 514</ns1:StreetAddress>
+          <ns1:City>Fränsta</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>841 71</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>069130500</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Gissjögatan 514</ns2:StreetAddress>
+          <ns2:City>Fränsta</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>841 71</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>069130500</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-14T05:48:39Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.698797583580017" lon="16.800708174705505">
+    <ns0:ele>128.8671875</ns0:ele>
+    <ns0:time>2025-09-15T06:44:44Z</ns0:time>
+    <ns0:name>Gas Liden -S06</ns0:name>
+    <ns0:cmt>Qstar</ns0:cmt>
+    <ns0:desc>Qstar</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>75 Lidenvägen</ns1:StreetAddress>
+          <ns1:City>Liden</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>860 41</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>75 Lidenvägen</ns2:StreetAddress>
+          <ns2:City>Liden</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>860 41</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T06:44:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.985970973968506" lon="18.43207698315382">
+    <ns0:time>2025-08-10T16:08:36Z</ns0:time>
+    <ns0:name>GAS Mjällom</ns0:name>
+    <ns0:cmt>Petsamovägen 2
+873 97, Mjällom, Västernorrlands län, SWE</ns0:cmt>
+    <ns0:desc>Petsamovägen 2
+873 97, Mjällom, Västernorrlands län, SWE</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Petsamovägen 2</ns1:StreetAddress>
+          <ns1:City>Mjällom</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>873 97</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Petsamovägen 2</ns2:StreetAddress>
+          <ns2:City>Mjällom</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>873 97</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-10T16:08:36Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.770018219947815" lon="18.991852998733521">
+    <ns0:ele>125.40234375</ns0:ele>
+    <ns0:time>2024-09-16T07:40:54Z</ns0:time>
+    <ns0:name>Gas Norrfors -S06</ns0:name>
+    <ns0:cmt>Alltank
+Parkvägen
+Norrfors, Västerbottens län, 914 93, SWE</ns0:cmt>
+    <ns0:desc>Alltank
+Parkvägen
+Norrfors, Västerbottens län, 914 93, SWE</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Parkvägen</ns1:StreetAddress>
+          <ns1:City>Norrfors</ns1:City>
+          <ns1:State>Västerbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>914 93</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Parkvägen</ns2:StreetAddress>
+          <ns2:City>Norrfors</ns2:City>
+          <ns2:State>Västerbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>914 93</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-16T07:40:54Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.00534725189209" lon="17.75590181350708">
+    <ns0:time>2025-09-27T15:50:54Z</ns0:time>
+    <ns0:name>Gas Nyland -S06</ns0:name>
+    <ns0:cmt>Ingo</ns0:cmt>
+    <ns0:desc>Ingo</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Storgatan 17</ns1:StreetAddress>
+          <ns1:City>Nyland</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>873 71</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>020788008</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Storgatan 17</ns2:StreetAddress>
+          <ns2:City>Nyland</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>873 71</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>020788008</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T15:50:54Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.384930873289704" lon="17.85403897985816">
+    <ns0:ele>154.7578125</ns0:ele>
+    <ns0:time>2025-09-15T06:29:44Z</ns0:time>
+    <ns0:name>Gas Skorped -S06</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T06:29:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.848505020141602" lon="15.537757873535156">
+    <ns0:time>2020-05-28T18:01:07Z</ns0:time>
+    <ns0:name>Gas Strömsund -S10</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>E45</ns1:StreetAddress>
+          <ns1:City>Näsviken</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>833 35</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0670611505</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>E45</ns2:StreetAddress>
+          <ns2:City>Näsviken</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>833 35</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0670611505</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-05-28T18:01:07Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.165850639343262" lon="15.599319934844971">
+    <ns0:time>2025-09-15T07:06:54Z</ns0:time>
+    <ns0:name>Gas Stugun -S04</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Stuguvägen 1</ns1:StreetAddress>
+          <ns1:City>Stugun</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>844 51</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>020656565</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Stuguvägen 1</ns2:StreetAddress>
+          <ns2:City>Stugun</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>844 51</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>020656565</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T07:06:54Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.482139468193054" lon="17.314361929893494">
+    <ns0:ele>48.96484375</ns0:ele>
+    <ns0:time>2025-09-15T06:58:45Z</ns0:time>
+    <ns0:name>Gas Timrå -S11</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Frölandsvägen</ns1:StreetAddress>
+          <ns1:City>Timrå</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>861 34</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Frölandsvägen</ns2:StreetAddress>
+          <ns2:City>Timrå</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>861 34</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T06:58:45Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.69323194026947" lon="18.86577308177948">
+    <ns0:ele>185.17578125</ns0:ele>
+    <ns0:time>2025-09-15T06:26:53Z</ns0:time>
+    <ns0:name>Gas Trehörningsjö -S06</ns0:name>
+    <ns0:cmt>Tre-Sjö Macken</ns0:cmt>
+    <ns0:desc>Tre-Sjö Macken</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Centralgatan</ns1:StreetAddress>
+          <ns1:City>Trehörningsjö</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>890 54</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Centralgatan</ns2:StreetAddress>
+          <ns2:City>Trehörningsjö</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>890 54</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T06:26:53Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.010690212249756" lon="18.188509941101074">
+    <ns0:time>2025-08-10T16:16:41Z</ns0:time>
+    <ns0:name>GAS Ullånger</ns0:name>
+    <ns0:cmt>Okq8
+Centrumvägen 38
+873 72, Ullånger, Västernorrlands län, SWE
+061310239</ns0:cmt>
+    <ns0:desc>Okq8
+Centrumvägen 38
+873 72, Ullånger, Västernorrlands län, SWE
+061310239</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Centrumvägen 38</ns1:StreetAddress>
+          <ns1:City>Ullånger</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>873 72</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>061310239</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Centrumvägen 38</ns2:StreetAddress>
+          <ns2:City>Ullånger</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>873 72</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>061310239</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-10T16:16:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.778813242912292" lon="17.421768307685852">
+    <ns0:ele>120.8671875</ns0:ele>
+    <ns0:time>2025-08-05T18:01:04Z</ns0:time>
+    <ns0:name>Gas Viksjö S11</ns0:name>
+    <ns0:cmt>Gulf
+237 Gammelgården
+Viksjö, Västernorrlands län, 871 94, SWE
+061131300</ns0:cmt>
+    <ns0:desc>Gulf
+237 Gammelgården
+Viksjö, Västernorrlands län, 871 94, SWE
+061131300</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>237 Gammelgården</ns1:StreetAddress>
+          <ns1:City>Viksjö</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>871 94</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>061131300</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>237 Gammelgården</ns2:StreetAddress>
+          <ns2:City>Viksjö</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>871 94</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>061131300</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-05T18:01:04Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.62383508682251" lon="16.663191318511963">
+    <ns0:time>2020-05-28T18:06:26Z</ns0:time>
+    <ns0:name>Gas Vilhelmina -S09</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Volgsjövägen 41</ns1:StreetAddress>
+          <ns1:City>Vilhelmina</ns1:City>
+          <ns1:State>Västerbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>912 32</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>094055610</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Volgsjövägen 41</ns2:StreetAddress>
+          <ns2:City>Vilhelmina</ns2:City>
+          <ns2:State>Västerbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>912 32</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>094055610</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-05-28T18:06:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.171008586883545" lon="14.951003193855286">
+    <ns0:ele>272.7578125</ns0:ele>
+    <ns0:time>2025-09-15T07:20:40Z</ns0:time>
+    <ns0:name>Gas Ytterhogdal -S04</ns0:name>
+    <ns0:cmt>Statoil 1-2-3</ns0:cmt>
+    <ns0:desc>Statoil 1-2-3</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Östansjö</ns1:StreetAddress>
+          <ns1:City>Ytterhogdal</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>840 90</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>068060369</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Östansjö</ns2:StreetAddress>
+          <ns2:City>Ytterhogdal</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>840 90</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>068060369</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T07:20:40Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.162189615890384" lon="17.352959420531988">
+    <ns0:time>2018-12-05T15:47:54Z</ns0:time>
+    <ns0:name>Gas Åsele -S04</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2018-12-05T15:47:54Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.450768183916807" lon="14.916048562154174">
+    <ns0:ele>268.328125</ns0:ele>
+    <ns0:time>2025-09-15T07:18:11Z</ns0:time>
+    <ns0:name>Gas Överturing -S04</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T07:18:11Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.408072948455811" lon="17.303810119628906">
+    <ns0:time>2025-07-29T07:21:58Z</ns0:time>
+    <ns0:name>Hospital CALL 112 Sundsvalls sjukhus-Akutmottagning -S11</ns0:name>
+    <ns0:cmt>Sundsvalls sjukhus-Akutmottagning
+Lasarettsvägen
+856 40, Sundsvall, Västernorrlands län, SWE
+060181000</ns0:cmt>
+    <ns0:desc>Sundsvalls sjukhus-Akutmottagning
+Lasarettsvägen
+856 40, Sundsvall, Västernorrlands län, SWE
+060181000</ns0:desc>
+    <ns0:sym>Medical Facility</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Lasarettsvägen</ns1:StreetAddress>
+          <ns1:City>Sundsvall</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>856 40</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>060181000</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Lasarettsvägen</ns2:StreetAddress>
+          <ns2:City>Sundsvall</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>856 40</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>060181000</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T07:21:58Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.424887657165527" lon="15.845932960510254">
+    <ns0:ele>465.4296875</ns0:ele>
+    <ns0:time>2025-03-15T11:39:09Z</ns0:time>
+    <ns0:name>Hostel Borgvattnets Gamla Prästgård B&amp;B -S04</ns0:name>
+    <ns0:cmt>Borgvattnets Gamla Prästgård B&amp;B and Cafe
+
+Swedens most hounted house - Do you dare ?
+
+NO CAMPING - COOL PLACE TO VISIT...
+Open durign summer 11:00-16:00  28 juni to 17 August
+
+Discount code: TET2025  = 20%
+
+Borgvattnets Prästgård och Historik:
+
+Den hemsökta prästgården i Borgvattnet (Borgvattnets Prästgård)
+Borgvattnet är en liten by i Jämtland, belägen cirka 100 kilometer nordost om Östersund. I byn hittar du den gamla prästgården, som blivit känd som Sveriges mest spökhus på grund av en lång rad mystiska och skrämmande händelser.
+1876 ​​stod prästgården färdig och den förste prästen, Per Johan Strindberg, flyttade in med sin familj. Efter Strindberg har många präster avlöst varandra, men det var först 1927 som den första märkliga händelsen inträffade. Då vittnade prästen Nils Hedlund om hur hans tvätt plötsligt rycktes från klädstrecket på vinden. Många tror att det kan ha varit Nils avlidna mor, Märta, som orsakat den mystiska aktiviteten. Märta dog tragiskt vid 30 års ålder efter att ha fött barn i prästgården. Eftersom marken var för frusen för att gräva en grav, förvarades hennes kropp en tid i Gula rummet. Det sägs också att Nils far, Per Hedlund, inte kunde släppa sin älskade hustru och behöll hennes kropp i huset långt efter hennes död.
+
+1930 berättade prästen Rudolf Tängdén om en skrämmande upplevelse han haft på prästgården. Han såg en grå kvinnofigur i matsalen på nedervåningen, en figur han senare kallade "den grå damen". Åren gick och 1936 rapporterade även prästen Otto Lindgren om steg och dörrar som öppnades på gården – trots att han var där ensam. Spöken fortsatte och blev mer skrämmande för varje år. Trots dessa händelser valde både prästerna och Svenska kyrkan att tiga och förneka alla rykten om spöken.
+
+Tystnaden bröts 1947 när en journalist på Östersunds länstidning fick nys om hemligheterna. Journalisten kontaktade prästen Erik Lindgren, som då var präst i Borgvattnet. Han tackade ja till en intervju och berättade om sina egna upplevelser på prästgården. Det var sensationellt att en präst skulle tala öppet om spöken – speciellt eftersom ordet "spöken" inte var vanligt på den tiden, då man istället talade om själar och andar.
+
+Erik Lindgren berättade hur han hörde ljud som lät som att någon drar tunga föremål över golvet, trots att han inte hade några möbler i sitt hem och övervåningen var tom. Strax därefter hörde han steg och stamp på bron utanför gården, men när han gick för att öppna dörren var det helt tomt utanför. Han kände sig ofta bevakad och kände att någon satt bredvid honom. Han började noggrant dokumentera alla märkliga händelser på gården. En gång, när han satt och läste en bok, ryckte något plötsligt till i hans gungstol, vilket gjorde att han kastades framåt och föll till golvet. Han satte sig i stolen igen, men samma kraft upprepades och han föll till golvet igen. Så småningom blev spökena så vanliga att Erik inte längre skrev ner alla händelser. Biskop Torsten Bohlin bekräftade senare prästens uppgifter. Efter flera års erfarenheter beställdes en vetenskaplig undersökning av prästgården, vilket bidrog till att huset fick sitt rykte som "Sveriges mest hemsökta hus".
+
+Nyheten om Erik Lindgrens erfarenheter spreds snabbt och Spökprästgården väckte stor uppmärksamhet både i Sverige och internationellt. Flera präster och gäster som varit på gården började nu berätta om sina egna upplevelser. Tidningar publicerade vittnesmål om fotsteg, osynliga figurer och konstiga lampor som tänds och släcktes av sig själva. Bland annat berättade stiftssekreteraren Inga Flodin om en händelse i lokalen som i dag heter Gråterskornas Rum. Under en affärsresa vaknade Inga mitt i natten och kände sig bevakad. Hon såg tre gestalter sitta och stirra på henne från en soffa mitt emot sängen. När hon tände ljuset stod de kvar och hon såg att det var tre ledsna damer klädda i svart, lila och grått. Den gråklädda kvinnan såg djupt ledsen ut, med svullna, rödkantade ögon. Det var samma figur som prästen Rudolf Tängdén hade sett flera år tidigare, men på nedervåningen.
+
+Gungstolen som Erik Lindgren använde blev senare rikskänd genom SVT:s populära program Hylands Hörna, där kända personer som Sickan Karlsson och Simon Brehm provade stolen. Senare köpte Povel Ramel gungstolen, men 1981 köptes den tillbaka till Borgvattnet av köpmannen Erik Brännholm, som ägt prästgården sedan 1970 och menade att stolen hörde dit. Brännholm gjorde om prästgården till hotell och införde diplom för de som vågade övernatta. Första sommaren, när prästgården öppnades för allmänheten, besöktes den av 5 000 personer.
+
+I över 50 år har Borgvattnets Prästgård varit en välkänd attraktion i Jämtland som lockar både svenska och utländska besökare. Än idag kan du boka ett rum eller hela huset för en övernattning och få diplom – om du vågar. Prästgården erbjuder också möjlighet att gå på guidade turer, daginträdesbesök och delta i minievenemang och digitala spökjakter. Här finns också ett populärt sommarcafé där den populära spökvåfflan serveras, en liten butik med souvenirer och hantverk samt loppmarknad på gården.
+
+Sedan 2018 ägs prästgården av LaxTon Ghost Sweden, en svensk paranormal undersökning
+
+Ha en fortsatt fin lördag!
+
+
+
+Med vänliga hälsningar, 
+
+Tony
+
+</ns0:cmt>
+    <ns0:desc>Borgvattnets Gamla Prästgård B&amp;B and Cafe
+
+Swedens most hounted house - Do you dare ?
+
+NO CAMPING - COOL PLACE TO VISIT...
+Open durign summer 11:00-16:00  28 juni to 17 August
+
+Discount code: TET2025  = 20%
+
+Borgvattnets Prästgård och Historik:
+
+Den hemsökta prästgården i Borgvattnet (Borgvattnets Prästgård)
+Borgvattnet är en liten by i Jämtland, belägen cirka 100 kilometer nordost om Östersund. I byn hittar du den gamla prästgården, som blivit känd som Sveriges mest spökhus på grund av en lång rad mystiska och skrämmande händelser.
+1876 ​​stod prästgården färdig och den förste prästen, Per Johan Strindberg, flyttade in med sin familj. Efter Strindberg har många präster avlöst varandra, men det var först 1927 som den första märkliga händelsen inträffade. Då vittnade prästen Nils Hedlund om hur hans tvätt plötsligt rycktes från klädstrecket på vinden. Många tror att det kan ha varit Nils avlidna mor, Märta, som orsakat den mystiska aktiviteten. Märta dog tragiskt vid 30 års ålder efter att ha fött barn i prästgården. Eftersom marken var för frusen för att gräva en grav, förvarades hennes kropp en tid i Gula rummet. Det sägs också att Nils far, Per Hedlund, inte kunde släppa sin älskade hustru och behöll hennes kropp i huset långt efter hennes död.
+
+1930 berättade prästen Rudolf Tängdén om en skrämmande upplevelse han haft på prästgården. Han såg en grå kvinnofigur i matsalen på nedervåningen, en figur han senare kallade "den grå damen". Åren gick och 1936 rapporterade även prästen Otto Lindgren om steg och dörrar som öppnades på gården – trots att han var där ensam. Spöken fortsatte och blev mer skrämmande för varje år. Trots dessa händelser valde både prästerna och Svenska kyrkan att tiga och förneka alla rykten om spöken.
+
+Tystnaden bröts 1947 när en journalist på Östersunds länstidning fick nys om hemligheterna. Journalisten kontaktade prästen Erik Lindgren, som då var präst i Borgvattnet. Han tackade ja till en intervju och berättade om sina egna upplevelser på prästgården. Det var sensationellt att en präst skulle tala öppet om spöken – speciellt eftersom ordet "spöken" inte var vanligt på den tiden, då man istället talade om själar och andar.
+
+Erik Lindgren berättade hur han hörde ljud som lät som att någon drar tunga föremål över golvet, trots att han inte hade några möbler i sitt hem och övervåningen var tom. Strax därefter hörde han steg och stamp på bron utanför gården, men när han gick för att öppna dörren var det helt tomt utanför. Han kände sig ofta bevakad och kände att någon satt bredvid honom. Han började noggrant dokumentera alla märkliga händelser på gården. En gång, när han satt och läste en bok, ryckte något plötsligt till i hans gungstol, vilket gjorde att han kastades framåt och föll till golvet. Han satte sig i stolen igen, men samma kraft upprepades och han föll till golvet igen. Så småningom blev spökena så vanliga att Erik inte längre skrev ner alla händelser. Biskop Torsten Bohlin bekräftade senare prästens uppgifter. Efter flera års erfarenheter beställdes en vetenskaplig undersökning av prästgården, vilket bidrog till att huset fick sitt rykte som "Sveriges mest hemsökta hus".
+
+Nyheten om Erik Lindgrens erfarenheter spreds snabbt och Spökprästgården väckte stor uppmärksamhet både i Sverige och internationellt. Flera präster och gäster som varit på gården började nu berätta om sina egna upplevelser. Tidningar publicerade vittnesmål om fotsteg, osynliga figurer och konstiga lampor som tänds och släcktes av sig själva. Bland annat berättade stiftssekreteraren Inga Flodin om en händelse i lokalen som i dag heter Gråterskornas Rum. Under en affärsresa vaknade Inga mitt i natten och kände sig bevakad. Hon såg tre gestalter sitta och stirra på henne från en soffa mitt emot sängen. När hon tände ljuset stod de kvar och hon såg att det var tre ledsna damer klädda i svart, lila och grått. Den gråklädda kvinnan såg djupt ledsen ut, med svullna, rödkantade ögon. Det var samma figur som prästen Rudolf Tängdén hade sett flera år tidigare, men på nedervåningen.
+
+Gungstolen som Erik Lindgren använde blev senare rikskänd genom SVT:s populära program Hylands Hörna, där kända personer som Sickan Karlsson och Simon Brehm provade stolen. Senare köpte Povel Ramel gungstolen, men 1981 köptes den tillbaka till Borgvattnet av köpmannen Erik Brännholm, som ägt prästgården sedan 1970 och menade att stolen hörde dit. Brännholm gjorde om prästgården till hotell och införde diplom för de som vågade övernatta. Första sommaren, när prästgården öppnades för allmänheten, besöktes den av 5 000 personer.
+
+I över 50 år har Borgvattnets Prästgård varit en välkänd attraktion i Jämtland som lockar både svenska och utländska besökare. Än idag kan du boka ett rum eller hela huset för en övernattning och få diplom – om du vågar. Prästgården erbjuder också möjlighet att gå på guidade turer, daginträdesbesök och delta i minievenemang och digitala spökjakter. Här finns också ett populärt sommarcafé där den populära spökvåfflan serveras, en liten butik med souvenirer och hantverk samt loppmarknad på gården.
+
+Sedan 2018 ägs prästgården av LaxTon Ghost Sweden, en svensk paranormal undersökning
+
+Ha en fortsatt fin lördag!
+
+
+
+Med vänliga hälsningar, 
+
+Tony
+
+</ns0:desc>
+    <ns0:link href="https://www.borgvattnet.eu/" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Ragunda Kommun</ns1:City>
+          <ns1:State>Jämtland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Ragunda Kommun</ns2:City>
+          <ns2:State>Jämtland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-15T11:39:09Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.971830368041992" lon="18.409867286682129">
+    <ns0:time>2025-08-05T17:46:10Z</ns0:time>
+    <ns0:name>Hostel Mjällomsvikens vandrarhem &amp; Motormuseum S-11</ns0:name>
+    <ns0:cmt>Mjällomsvikens vandrarhem &amp; Motormuseum</ns0:cmt>
+    <ns0:desc>Mjällomsvikens vandrarhem &amp; Motormuseum</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/YqbMZTueGw8qPeUz7" />
+    <ns0:link href="https://mjallomsvikens.com/om-vandrarhemmet/" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Kustvägen 32</ns1:StreetAddress>
+          <ns1:City>Kramfors</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>873 97</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>+4676 771 83 34</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Kustvägen 32</ns2:StreetAddress>
+          <ns2:City>Kramfors</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>873 97</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>+4676 771 83 34</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-05T17:46:10Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.400777339935303" lon="17.310440540313721">
+    <ns0:time>2025-07-29T07:17:41Z</ns0:time>
+    <ns0:name>Hostel Stf Sundsvall -S11</ns0:name>
+    <ns0:cmt>Stf Youth Hostel Sundsvall</ns0:cmt>
+    <ns0:desc>Stf Youth Hostel Sundsvall</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Gaffelbyvägen</ns1:StreetAddress>
+          <ns1:City>Sundsvall</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>856 40</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>060612119</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Gaffelbyvägen</ns2:StreetAddress>
+          <ns2:City>Sundsvall</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>856 40</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>060612119</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T07:17:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.369019985198975" lon="17.320911884307861">
+    <ns0:time>2025-08-05T18:05:16Z</ns0:time>
+    <ns0:name>Hotel Hotell södra Berget</ns0:name>
+    <ns0:cmt>Hotell södra Berget</ns0:cmt>
+    <ns0:desc>Hotell södra Berget</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/smNhSQMNkfkBwiUE9" />
+    <ns0:link href="https://sodraberget.se/" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Södra Stadsberget 1</ns1:StreetAddress>
+          <ns1:City>Sundsvall</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>852 38</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>060671000</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Södra Stadsberget 1</ns2:StreetAddress>
+          <ns2:City>Sundsvall</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>852 38</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>060671000</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-05T18:05:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.549972534179688" lon="17.164356708526611">
+    <ns0:time>2025-08-05T18:03:16Z</ns0:time>
+    <ns0:name>Hotel Östanskärs Jakt o konferens</ns0:name>
+    <ns0:cmt>Östanskärs Jakt o konferens
+Östanskär 153
+855 97, Östanskär, Västernorrlands län, SWE
+06092100</ns0:cmt>
+    <ns0:desc>Östanskärs Jakt o konferens
+Östanskär 153
+855 97, Östanskär, Västernorrlands län, SWE
+06092100</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/YJiqugwekEqN7qDd9" />
+    <ns0:link href="http://www.ostanskar.se/" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Östanskär 153</ns1:StreetAddress>
+          <ns1:City>Östanskär</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>855 97</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>06092100</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Östanskär 153</ns2:StreetAddress>
+          <ns2:City>Östanskär</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>855 97</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>06092100</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-05T18:03:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.679074965417385" lon="15.460254019126296">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T20:51:46Z</ns0:time>
+    <ns0:name>Hut Bräcke Skoterklubbstuga -S04</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T20:51:46Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.070236090570688" lon="14.843109659850597">
+    <ns0:time>2025-07-30T05:54:17Z</ns0:time>
+    <ns0:name>MC Dealer Motorhuset -S04</ns0:name>
+    <ns0:link href="https://motorhuset.com/" />
+    <ns0:link href="https://maps.app.goo.gl/8wgkQWayCjf9MJM67" />
+    <ns0:sym>ATV</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T05:54:17Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.381422519683838" lon="17.358484268188477">
+    <ns0:time>2022-02-14T12:17:59Z</ns0:time>
+    <ns0:name>MC Dealer Northbike Sundsvall -S11</ns0:name>
+    <ns0:cmt>Northbike Sweden Ab</ns0:cmt>
+    <ns0:desc>Northbike Sweden Ab</ns0:desc>
+    <ns0:link href="https://www.northbike.se/" />
+    <ns0:link href="https://maps.app.goo.gl/WCehEj7iFUgVoMJa8" />
+    <ns0:sym>ATV</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Kontorsvägen 8</ns1:StreetAddress>
+          <ns1:City>Sundsvall</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>852 29</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>060613315</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Kontorsvägen 8</ns2:StreetAddress>
+          <ns2:City>Sundsvall</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>852 29</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>060613315</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2022-02-14T12:17:59Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.393010584637523" lon="17.260047867894173">
+    <ns0:time>2025-07-29T07:07:33Z</ns0:time>
+    <ns0:name>MC Dealer Powersport Center -S11</ns0:name>
+    <ns0:cmt>Axvägen 12
+853 50, Sundsvall, Västernorrlands län, SWE</ns0:cmt>
+    <ns0:desc>Axvägen 12
+853 50, Sundsvall, Västernorrlands län, SWE</ns0:desc>
+    <ns0:link href="https://powersport.se/" />
+    <ns0:link href="https://maps.app.goo.gl/7fcggpD2B3Xozqyt5" />
+    <ns0:sym>ATV</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Axvägen 12</ns1:StreetAddress>
+          <ns1:City>Sundsvall</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>853 50</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>+46 6020211</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Axvägen 12</ns2:StreetAddress>
+          <ns2:City>Sundsvall</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>853 50</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>+46 6020211</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T07:07:33Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.396648498252034" lon="17.348730163648725">
+    <ns0:time>2025-07-29T07:00:32Z</ns0:time>
+    <ns0:name>MC Dealer Yamaha Center Sundsvall -S11</ns0:name>
+    <ns0:link href="https://sundsvall.yamahacenter.com/butiken/" />
+    <ns0:link href="https://maps.app.goo.gl/EM2ZwcKSRoc3KZcG9" />
+    <ns0:sym>ATV</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Marinvägen 1</ns1:StreetAddress>
+          <ns1:City>Sundsvall</ns1:City>
+          <ns1:Country>Sweden</ns1:Country>
+          <ns1:PostalCode>856 33</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>+46 60641580</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Marinvägen 1</ns2:StreetAddress>
+          <ns2:City>Sundsvall</ns2:City>
+          <ns2:Country>Sweden</ns2:Country>
+          <ns2:PostalCode>856 33</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>+46 60641580</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T07:00:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.39884614944458" lon="17.293939590454102">
+    <ns0:time>2020-02-16T13:40:16Z</ns0:time>
+    <ns0:name>Museum Hantverks- och friluftsmuseum -S11</ns0:name>
+    <ns0:cmt>Hantverks- och friluftsmuseum
+Gustav Adolfsvägen
+856 40, Sundsvall, Vasternorrland County, SWE
+060611748</ns0:cmt>
+    <ns0:desc>Hantverks- och friluftsmuseum
+Gustav Adolfsvägen
+856 40, Sundsvall, Vasternorrland County, SWE
+060611748</ns0:desc>
+    <ns0:sym>Museum</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Gustav Adolfsvägen</ns1:StreetAddress>
+          <ns1:City>Sundsvall</ns1:City>
+          <ns1:State>Vasternorrland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>856 40</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>060611748</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Gustav Adolfsvägen</ns2:StreetAddress>
+          <ns2:City>Sundsvall</ns2:City>
+          <ns2:State>Vasternorrland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>856 40</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>060611748</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-16T13:40:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.693185899406672" lon="18.102348335087299">
+    <ns0:time>2025-07-27T12:40:56Z</ns0:time>
+    <ns0:name>Museum Hemsö fästning -S11</ns0:name>
+    <ns0:cmt>Dravle 220
+871 96, Härnösand, Västernorrlands län, SWE</ns0:cmt>
+    <ns0:desc>Dravle 220
+871 96, Härnösand, Västernorrlands län, SWE</ns0:desc>
+    <ns0:link href="https://se.hemsofastning.se/" />
+    <ns0:sym>Museum</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Dravle 220</ns1:StreetAddress>
+          <ns1:City>Härnösand</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>871 96</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Dravle 220</ns2:StreetAddress>
+          <ns2:City>Härnösand</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>871 96</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T12:40:56Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.63681173324585" lon="17.934494018554687">
+    <ns0:time>2025-07-27T12:39:09Z</ns0:time>
+    <ns0:name>Museum Härnösands Bilmuseum -S11</ns0:name>
+    <ns0:cmt>Härnösands Bilmuseum
+Djuphamnsvägen 4
+871 45, Härnösand, Västernorrlands län, SWE
+0702134445</ns0:cmt>
+    <ns0:desc>Härnösands Bilmuseum
+Djuphamnsvägen 4
+871 45, Härnösand, Västernorrlands län, SWE
+0702134445</ns0:desc>
+    <ns0:sym>Museum</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Djuphamnsvägen 4</ns1:StreetAddress>
+          <ns1:City>Härnösand</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>871 45</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0702134445</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Djuphamnsvägen 4</ns2:StreetAddress>
+          <ns2:City>Härnösand</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>871 45</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0702134445</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T12:39:09Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.010206492617726" lon="17.795117469504476">
+    <ns0:time>2020-02-17T20:53:47Z</ns0:time>
+    <ns0:name>Museum in timber rafting, Sandslån -S06</ns0:name>
+    <ns0:sym>Museum</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-17T20:53:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.047763956710696" lon="17.690717345103621">
+    <ns0:time>2020-02-16T14:46:26Z</ns0:time>
+    <ns0:name>Parking Häxberget -S06</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-16T14:46:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.983886981382966" lon="18.411531765013933">
+    <ns0:time>2025-08-10T16:05:24Z</ns0:time>
+    <ns0:name>Parking Högklinten -S11</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-10T16:05:24Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.39047396928072" lon="17.30857933871448">
+    <ns0:time>2025-07-29T07:20:28Z</ns0:time>
+    <ns0:name>Parking MC Sundsvall C -S11</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T07:20:28Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.851049406453967" lon="18.380082445219159">
+    <ns0:ele>19.67578125</ns0:ele>
+    <ns0:time>2022-02-16T16:58:42Z</ns0:time>
+    <ns0:name>Parking Rotsidan -S11</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2022-02-16T16:58:42Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.775705400854349" lon="17.728258883580565">
+    <ns0:ele>215.57421875</ns0:ele>
+    <ns0:time>2025-08-09T05:43:43Z</ns0:time>
+    <ns0:name>Rest Area Abbortjärn micro shelter -S11</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-09T05:43:43Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.422756977379322" lon="15.53026202134788">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Rest Area Shelter Ammerån -S04</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0o-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/4raaksq2kd2fjeipj3vmueptlg/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrIMBRDOhmAm9qUW0JDS8zkE-0pd1EphWY7fKrukgI9IFzwU-D5GqIzXWevPo-hXGp_o4-CPVj2VZ26tW7Blvt36YtoDEdPJEyAz_20FNJpI_b_v9FLOIbnykTzlEOQ_29SBzKRqkABC6VG2_65erC0-FwHOscmGwMvudORatdkNMf4ovSPMUDmtXd_eA3Ue4NSZJwb29Dumy1KjFS9CGabfmArbyR7gVXHC51dlkH6kzmJjiJ_uiWUgRj46qGAs14hY-0vT8K5Ho88ogmQOQTYMkn5jQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger utmed vägen med utsikt över vattendraget. Övernattning i jämte i nödfall&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/nu5bhu54tct2b2qpca6a58jh98/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqJLFJc256O9tAty1WB0VeJrfIaV6dZptODtM41fgcHqJfQccIopKZy0VMRrchP2bSbe_IzazagrWZQVrLvBOcsMNajQ8LPu9xf9FH49b0UiuceMO0BqWXwBiW-gfCujwO5x_fdoTXc7a02dvhPSVtS0GvwXPfFAiYWFlQd0_zBTjNq4I9wtxd7HGmmuuHUBp5_7Or46FaPu0TW_FqvLsS1KS6BaMIbhnM1CagM2daoMaV3bwM2GDL59b6O_fyzWctBjiqDmoP_y27ehAADYnrDhT8QtA?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0o-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/4raaksq2kd2fjeipj3vmueptlg/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrIMBRDOhmAm9qUW0JDS8zkE-0pd1EphWY7fKrukgI9IFzwU-D5GqIzXWevPo-hXGp_o4-CPVj2VZ26tW7Blvt36YtoDEdPJEyAz_20FNJpI_b_v9FLOIbnykTzlEOQ_29SBzKRqkABC6VG2_65erC0-FwHOscmGwMvudORatdkNMf4ovSPMUDmtXd_eA3Ue4NSZJwb29Dumy1KjFS9CGabfmArbyR7gVXHC51dlkH6kzmJjiJ_uiWUgRj46qGAs14hY-0vT8K5Ho88ogmQOQTYMkn5jQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger utmed vägen med utsikt över vattendraget. Övernattning i jämte i nödfall&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/nu5bhu54tct2b2qpca6a58jh98/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqJLFJc256O9tAty1WB0VeJrfIaV6dZptODtM41fgcHqJfQccIopKZy0VMRrchP2bSbe_IzazagrWZQVrLvBOcsMNajQ8LPu9xf9FH49b0UiuceMO0BqWXwBiW-gfCujwO5x_fdoTXc7a02dvhPSVtS0GvwXPfFAiYWFlQd0_zBTjNq4I9wtxd7HGmmuuHUBp5_7Or46FaPu0TW_FqvLsS1KS6BaMIbhnM1CagM2daoMaV3bwM2GDL59b6O_fyzWctBjiqDmoP_y27ehAADYnrDhT8QtA?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.777468223124743" lon="19.137834990397096">
+    <ns0:time>2025-09-15T06:13:12Z</ns0:time>
+    <ns0:name>Rest Area Shelter Brattsbacka -S06</ns0:name>
+    <ns0:cmt>Brattsbacka 91
+914 94, Nordmaling, Västerbottens län, SWE</ns0:cmt>
+    <ns0:desc>Brattsbacka 91
+914 94, Nordmaling, Västerbottens län, SWE</ns0:desc>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Brattsbacka 91</ns1:StreetAddress>
+          <ns1:City>Nordmaling</ns1:City>
+          <ns1:State>Västerbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>914 94</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Brattsbacka 91</ns2:StreetAddress>
+          <ns2:City>Nordmaling</ns2:City>
+          <ns2:State>Västerbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>914 94</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T06:13:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.637288998812437" lon="15.022178962826729">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Rest Area Shelter Fisktjärn -S04</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/1lkeakis19gar4mo940tv1m9go/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrqQTGGvSwOZJ8l_8r-dAtHg5mn5fMwOsBPhYDcvMSMyDGqi_NuUh8Rt5MgCZnN7fCdiEUdCAxshDDMc15A7Gpuf5B1ubHi7U_wvYapTtwPK631ny5q3_ligA7DXGgDBJB-3riaJSiE5G5QN0grEEf4k6MuOhvTTsu-pCEesQMeHd70BIvLrdaZUvCEtS9ejo3BVoIXxcGixpRXhyxxCuNO30geWepIUk_DzvcoXudg-BBHaTH_aA8lL_hdRfT4Hrem7LaG-FkfKwsba_Di9rvTuf5-Dg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Inte roligt men det är tak över huvudet. Dass finns</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/1lkeakis19gar4mo940tv1m9go/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrqQTGGvSwOZJ8l_8r-dAtHg5mn5fMwOsBPhYDcvMSMyDGqi_NuUh8Rt5MgCZnN7fCdiEUdCAxshDDMc15A7Gpuf5B1ubHi7U_wvYapTtwPK631ny5q3_ligA7DXGgDBJB-3riaJSiE5G5QN0grEEf4k6MuOhvTTsu-pCEesQMeHd70BIvLrdaZUvCEtS9ejo3BVoIXxcGixpRXhyxxCuNO30geWepIUk_DzvcoXudg-BBHaTH_aA8lL_hdRfT4Hrem7LaG-FkfKwsba_Di9rvTuf5-Dg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Inte roligt men det är tak över huvudet. Dass finns</ns0:desc>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.741925936192274" lon="18.571542799472809">
+    <ns0:time>2025-09-14T23:22:46Z</ns0:time>
+    <ns0:name>Rest Area Shelter Kärrsjö -S06</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-14T23:22:46Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.224079888314009" lon="17.87944863550365">
+    <ns0:ele>200</ns0:ele>
+    <ns0:time>2025-08-17T06:42:10Z</ns0:time>
+    <ns0:name>Rest Area Shelter Lo Tjärn -S06</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-17T06:42:10Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.637959215790033" lon="16.149793211370707">
+    <ns0:ele>411.95703125</ns0:ele>
+    <ns0:time>2022-02-06T06:32:08Z</ns0:time>
+    <ns0:name>Rest Area Shelter Marktjärn -S06</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2022-02-06T06:32:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.601106777787209" lon="18.196856137365103">
+    <ns0:time>2025-09-15T06:09:33Z</ns0:time>
+    <ns0:name>Rest Area Shelter Mesjön -S06</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T06:09:33Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.370288526639342" lon="17.873880453407764">
+    <ns0:ele>125.85546875</ns0:ele>
+    <ns0:time>2025-07-15T14:42:08Z</ns0:time>
+    <ns0:name>Rest Area Shelter Skorped -S06</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-15T14:42:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.758815195411444" lon="16.976097822189331">
+    <ns0:ele>259.390625</ns0:ele>
+    <ns0:time>2022-02-05T07:25:17Z</ns0:time>
+    <ns0:name>Rest Area Shelter Skälsjön -S06</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2022-02-05T07:25:17Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.727503949776292" lon="18.303311252966523">
+    <ns0:ele>288.96484375</ns0:ele>
+    <ns0:time>2025-07-15T14:17:59Z</ns0:time>
+    <ns0:name>Rest Area Shelter Uddersjön -S06</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-15T14:17:59Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.74218225479126" lon="18.960621356964111">
+    <ns0:time>2025-09-15T06:11:32Z</ns0:time>
+    <ns0:name>Rest Area small Shelter Inre Västansjön -S06</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T06:11:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.841549716889858" lon="18.055483102798462">
+    <ns0:ele>313.61328125</ns0:ele>
+    <ns0:time>2025-07-15T14:19:06Z</ns0:time>
+    <ns0:name>Rest Area table Trollkärn -S09</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-15T14:19:06Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.261172467842698" lon="16.443496271967888">
+    <ns0:ele>372.7265625</ns0:ele>
+    <ns0:time>2022-02-06T06:28:51Z</ns0:time>
+    <ns0:name>Rest Area table Ulvsjön -S06</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2022-02-06T06:28:51Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.805483704432845" lon="18.013681378215551">
+    <ns0:ele>38.79296875</ns0:ele>
+    <ns0:time>2025-08-09T05:52:29Z</ns0:time>
+    <ns0:name>Rest Area table with flowers -S11</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-09T05:52:29Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.440343527123332" lon="17.333885226398706">
+    <ns0:time>2025-07-30T05:59:27Z</ns0:time>
+    <ns0:name>Shop Motonet -S11</ns0:name>
+    <ns0:link href="https://www.motonet.se/" />
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T05:59:27Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.990269800648093" lon="18.526420500129461">
+    <ns0:time>2025-08-10T16:07:37Z</ns0:time>
+    <ns0:name>Swim Storsand -S11</ns0:name>
+    <ns0:sym>Beach</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-10T16:07:37Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.624049663543701" lon="16.657569408416748">
+    <ns0:time>2025-09-15T08:09:27Z</ns0:time>
+    <ns0:name>Systembolag Vilhelmina -S09</ns0:name>
+    <ns0:cmt>Systembolaget Ab</ns0:cmt>
+    <ns0:desc>Systembolaget Ab</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Volgsjövägen 44</ns1:StreetAddress>
+          <ns1:City>Vilhelmina</ns1:City>
+          <ns1:State>Västerbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>912 32</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>094010880</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Volgsjövägen 44</ns2:StreetAddress>
+          <ns2:City>Vilhelmina</ns2:City>
+          <ns2:State>Västerbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>912 32</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>094010880</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T08:09:27Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.749121189117432" lon="15.41980504989624">
+    <ns0:time>2025-09-24T17:36:37Z</ns0:time>
+    <ns0:name>Systembolaget Bräcke S-04</ns0:name>
+    <ns0:cmt>Systembolaget Ab</ns0:cmt>
+    <ns0:desc>Systembolaget Ab</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Riksvägen 39</ns1:StreetAddress>
+          <ns1:City>Bräcke</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>843 31</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>069310677</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Riksvägen 39</ns2:StreetAddress>
+          <ns2:City>Bräcke</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>843 31</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>069310677</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-24T17:36:37Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.109738826751709" lon="16.353600025177002">
+    <ns0:time>2025-09-27T15:18:24Z</ns0:time>
+    <ns0:name>Systembolaget Hammarstrand -S10</ns0:name>
+    <ns0:cmt>Systembolaget Ab</ns0:cmt>
+    <ns0:desc>Systembolaget Ab</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Centralgatan 12</ns1:StreetAddress>
+          <ns1:City>Hammarstrand</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>844 31</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>069655456</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Centralgatan 12</ns2:StreetAddress>
+          <ns2:City>Hammarstrand</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>844 31</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>069655456</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T15:18:24Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.851230144500732" lon="15.55837869644165">
+    <ns0:time>2025-09-27T15:14:20Z</ns0:time>
+    <ns0:name>Systembolaget Strömsund -S10</ns0:name>
+    <ns0:cmt>Systembolaget Ab</ns0:cmt>
+    <ns0:desc>Systembolaget Ab</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Storgatan 6</ns1:StreetAddress>
+          <ns1:City>Strömsund</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>833 35</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>067010347</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Storgatan 6</ns2:StreetAddress>
+          <ns2:City>Strömsund</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>833 35</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>067010347</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T15:14:20Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.391838794574142" lon="17.30807114392519">
+    <ns0:time>2025-07-30T05:58:31Z</ns0:time>
+    <ns0:name>Systembolaget Sundsvall -S11</ns0:name>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T05:58:31Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.160993099212646" lon="17.350952625274658">
+    <ns0:time>2025-09-15T07:04:18Z</ns0:time>
+    <ns0:name>Systembolaget Åsele -S04</ns0:name>
+    <ns0:cmt>Systembolaget Ab</ns0:cmt>
+    <ns0:desc>Systembolaget Ab</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Storgatan 33</ns1:StreetAddress>
+          <ns1:City>Åsele</ns1:City>
+          <ns1:State>Västerbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>919 31</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>094110100</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Storgatan 33</ns2:StreetAddress>
+          <ns2:City>Åsele</ns2:City>
+          <ns2:State>Västerbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>919 31</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>094110100</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T07:04:18Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.386686773970723" lon="16.321387533098459">
+    <ns0:time>2016-12-04T16:04:59Z</ns0:time>
+    <ns0:name>View "Swedish center point" Flataklocken -S06</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2016-12-04T16:04:59Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.552134394645691" lon="15.919355750083923">
+    <ns0:ele>427.0859375</ns0:ele>
+    <ns0:time>2021-09-17T09:49:44Z</ns0:time>
+    <ns0:name>View Bergåsen -S06</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-09-17T09:49:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.879101037979126" lon="18.446930050849915">
+    <ns0:ele>20.90625</ns0:ele>
+    <ns0:time>2025-07-29T08:20:30Z</ns0:time>
+    <ns0:name>View Bönhamn -S11</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/QahdY6QwLdM2qnGE7" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T08:20:30Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.434592895209789" lon="16.437469599768519">
+    <ns0:ele>355.8828125</ns0:ele>
+    <ns0:time>2025-06-12T20:15:20Z</ns0:time>
+    <ns0:name>View Edselegruvan -S10</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/7qkUig72dy6HDxNL7" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-06-12T20:15:20Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.17319592833519" lon="16.510183531790972">
+    <ns0:time>2020-02-16T16:23:40Z</ns0:time>
+    <ns0:name>View Ersk-Matsgården  -S06</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/67UBAs4gyfa3tdns7" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-16T16:23:40Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.502669934183359" lon="16.086842101067305">
+    <ns0:ele>284.21484375</ns0:ele>
+    <ns0:time>2020-02-17T20:07:43Z</ns0:time>
+    <ns0:name>View Getberget -S06</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-17T20:07:43Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.659658789634705" lon="17.019461765885353">
+    <ns0:time>2020-02-17T20:44:33Z</ns0:time>
+    <ns0:name>View Gudmundstjärn -S11</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/jw5sexjqAxSPUiom8" />
+    <ns0:link href="https://www.hembygd.se/gudmundstjarn" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-17T20:44:33Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.474818259477615" lon="16.377557851374149">
+    <ns0:ele>709.3125</ns0:ele>
+    <ns0:time>2024-10-02T03:22:43Z</ns0:time>
+    <ns0:name>View Gäddsjöklumpen -S09</ns0:name>
+    <ns0:link href="https://images.app.goo.gl/UFmqm4LJwAUB8bKw7" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-02T03:22:43Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.381281787529588" lon="15.108912717550993">
+    <ns0:time>2020-05-31T07:22:41Z</ns0:time>
+    <ns0:name>View Haverö strömmar -S04</ns0:name>
+    <ns0:cmt>Strömnäset 301
+841 93, Ånge, Västernorrlands län, SWE</ns0:cmt>
+    <ns0:desc>Strömnäset 301
+841 93, Ånge, Västernorrlands län, SWE</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Strömnäset 301</ns1:StreetAddress>
+          <ns1:City>Ånge</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>841 93</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Strömnäset 301</ns2:StreetAddress>
+          <ns2:City>Ånge</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>841 93</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-05-31T07:22:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.64107602648437" lon="17.775894496589899">
+    <ns0:time>2020-02-16T14:53:16Z</ns0:time>
+    <ns0:name>View Hernö Gin Distillery -S11</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-16T14:53:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.001796258613467" lon="17.798553379252553">
+    <ns0:time>2020-02-16T14:40:34Z</ns0:time>
+    <ns0:name>View High Coast Distillery -S06</ns0:name>
+    <ns0:cmt>Box Destilleri
+Sörviken 140
+872 96, Kramfors, Vasternorrland County, SWE
+061253060</ns0:cmt>
+    <ns0:desc>Box Destilleri
+Sörviken 140
+872 96, Kramfors, Vasternorrland County, SWE
+061253060</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Sörviken 140</ns1:StreetAddress>
+          <ns1:City>Kramfors</ns1:City>
+          <ns1:State>Vasternorrland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>872 96</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>061253060</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Sörviken 140</ns2:StreetAddress>
+          <ns2:City>Kramfors</ns2:City>
+          <ns2:State>Vasternorrland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>872 96</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>061253060</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-16T14:40:34Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.802401846274734" lon="17.952292654663324">
+    <ns0:ele>54.06640625</ns0:ele>
+    <ns0:time>2020-02-18T17:01:26Z</ns0:time>
+    <ns0:name>View Hornöberget -S11</ns0:name>
+    <ns0:cmt>Höga Kustenbron</ns0:cmt>
+    <ns0:desc>Höga Kustenbron</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Hornöberget</ns1:StreetAddress>
+          <ns1:City>Kramfors</ns1:City>
+          <ns1:State>Vasternorrland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>872 94</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Hornöberget</ns2:StreetAddress>
+          <ns2:City>Kramfors</ns2:City>
+          <ns2:State>Vasternorrland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>872 94</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-18T17:01:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.049695314839482" lon="17.685564234852791">
+    <ns0:time>2020-04-12T13:52:25Z</ns0:time>
+    <ns0:name>View Häxberget -S06</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-04-12T13:52:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.985482811927795" lon="18.392679691314697">
+    <ns0:ele>280.08984375</ns0:ele>
+    <ns0:time>2025-07-29T08:31:09Z</ns0:time>
+    <ns0:name>View Högklinten -S11</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T08:31:09Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.39861011505127" lon="17.29473352432251">
+    <ns0:time>2025-07-29T07:14:58Z</ns0:time>
+    <ns0:name>View Norra Berget -S11</ns0:name>
+    <ns0:cmt>Utkikstornet Norra Berget</ns0:cmt>
+    <ns0:desc>Utkikstornet Norra Berget</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/GCMVfh2TtkRv12fv8" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Gustav Adolfsvägen 21</ns1:StreetAddress>
+          <ns1:City>Sundsvall</ns1:City>
+          <ns1:State>Västernorrlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>856 40</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Gustav Adolfsvägen 21</ns2:StreetAddress>
+          <ns2:City>Sundsvall</ns2:City>
+          <ns2:State>Västernorrlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>856 40</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T07:14:58Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.972679035738111" lon="18.521125316619873">
+    <ns0:time>2025-08-10T16:03:37Z</ns0:time>
+    <ns0:name>View Norrfällsviken -S11</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-10T16:03:37Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.070085048675537" lon="18.374322652816772">
+    <ns0:ele>187.26171875</ns0:ele>
+    <ns0:time>2025-08-05T17:31:05Z</ns0:time>
+    <ns0:name>View Predikstolen (Getsvedjeberget) S-11</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/4Dz8z4DqEf98Tudu9" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-05T17:31:05Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.847783230245113" lon="18.378472030162811">
+    <ns0:ele>9.95703125</ns0:ele>
+    <ns0:time>2019-12-14T16:03:12Z</ns0:time>
+    <ns0:name>View Rotsidan -S11</ns0:name>
+    <ns0:cmt>Rotsidan 101
+870 30, Kramfors, Vasternorrland County, SWE</ns0:cmt>
+    <ns0:desc>Rotsidan 101
+870 30, Kramfors, Vasternorrland County, SWE</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/V2zEVLe48VCeWocx9" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Rotsidan 101</ns1:StreetAddress>
+          <ns1:City>Kramfors</ns1:City>
+          <ns1:State>Vasternorrland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>870 30</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Rotsidan 101</ns2:StreetAddress>
+          <ns2:City>Kramfors</ns2:City>
+          <ns2:State>Vasternorrland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>870 30</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-14T16:03:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.906379271298647" lon="18.252268731594086">
+    <ns0:ele>106.1796875</ns0:ele>
+    <ns0:time>2025-08-05T17:27:57Z</ns0:time>
+    <ns0:name>View Rödklitten S-11</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/j25t1T2H1G89ygm27" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-05T17:27:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.244428107514977" lon="14.967274395748973">
+    <ns0:ele>358.94140625</ns0:ele>
+    <ns0:time>2025-09-15T07:15:32Z</ns0:time>
+    <ns0:name>View Sveriges geografiska mittpunkt -S04</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/PyefXQY1qRuD8awY6" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T07:15:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.368824686855078" lon="17.322459183633327">
+    <ns0:time>2025-07-29T07:15:48Z</ns0:time>
+    <ns0:name>View Södraberget -S11</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/EYXCNv2ZcZstQUU99" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T07:15:48Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.794536292552948" lon="19.350424194708467">
+    <ns0:ele>77.39453125</ns0:ele>
+    <ns0:time>2025-09-15T05:57:41Z</ns0:time>
+    <ns0:name>View Tallbergsbroarna -S06</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/2qGD65Bmzi2Rdmr9A" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T05:57:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.955951690673828" lon="16.675229072570801">
+    <ns0:time>2014-01-17T17:30:29Z</ns0:time>
+    <ns0:name>View Thai Pavilion -S10</ns0:name>
+    <ns0:cmt>Thailändska Paviljongen
+Kung Chulalongkorns Väg
+840 73, Ragunda, Jämtlands Län, Sverige</ns0:cmt>
+    <ns0:desc>Thailändska Paviljongen
+Kung Chulalongkorns Väg
+840 73, Ragunda, Jämtlands Län, Sverige</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Kung Chulalongkorns Väg</ns1:StreetAddress>
+          <ns1:City>Ragunda</ns1:City>
+          <ns1:State>Jämtlands Län</ns1:State>
+          <ns1:Country>Sverige</ns1:Country>
+          <ns1:PostalCode>840 73</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Kung Chulalongkorns Väg</ns2:StreetAddress>
+          <ns2:City>Ragunda</ns2:City>
+          <ns2:State>Jämtlands Län</ns2:State>
+          <ns2:Country>Sverige</ns2:Country>
+          <ns2:PostalCode>840 73</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2014-01-17T17:30:29Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.615761337801814" lon="16.003397991880774">
+    <ns0:ele>289.44921875</ns0:ele>
+    <ns0:time>2023-04-27T07:56:08Z</ns0:time>
+    <ns0:name>View Timmerännan -S06</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2023-04-27T07:56:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.840533746406436" lon="18.055617464706302">
+    <ns0:ele>310.63671875</ns0:ele>
+    <ns0:time>2025-07-15T14:19:57Z</ns0:time>
+    <ns0:name>View Trolltjärn Naturreservat -S09</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/2vYSuLKM3m2A9zag9" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-15T14:19:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.494053840637207" lon="16.139495372772217">
+    <ns0:time>2019-06-13T19:12:26Z</ns0:time>
+    <ns0:name>View Vikbron -S06</ns0:name>
+    <ns0:cmt>Vikbron</ns0:cmt>
+    <ns0:desc>Vikbron</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/Zk94GTZvjtX1oWaq7" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Ånge</ns1:City>
+          <ns1:State>Vasternorrland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>840 12</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Ånge</ns2:City>
+          <ns2:State>Vasternorrland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>840 12</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-06-13T19:12:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.735897898674011" lon="17.418576814234257">
+    <ns0:time>2020-02-17T20:41:24Z</ns0:time>
+    <ns0:name>View Västanåfallet -S11</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/b1PcYAXoqc2gqMW66" />
+    <ns0:link href="http://www.vastanafallet.se/" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-17T20:41:24Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.694925395771861" lon="16.772427801042795">
+    <ns0:time>2019-06-15T12:51:04Z</ns0:time>
+    <ns0:name>View Vättaberget -S06</ns0:name>
+    <ns0:cmt>Åsen 127
+860 41, Sundsvall, Vasternorrland County, SWE</ns0:cmt>
+    <ns0:desc>Åsen 127
+860 41, Sundsvall, Vasternorrland County, SWE</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Åsen 127</ns1:StreetAddress>
+          <ns1:City>Sundsvall</ns1:City>
+          <ns1:State>Vasternorrland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>860 41</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Åsen 127</ns2:StreetAddress>
+          <ns2:City>Sundsvall</ns2:City>
+          <ns2:State>Vasternorrland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>860 41</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-06-15T12:51:04Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.248535623773932" lon="18.876283736899495">
+    <ns0:ele>199.1015625</ns0:ele>
+    <ns0:time>2022-06-02T19:15:39Z</ns0:time>
+    <ns0:name>View Öreälv Storforsen -S04</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2022-06-02T19:15:39Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.088397160172462" lon="18.037325805053115">
+    <ns0:ele>200.27734375</ns0:ele>
+    <ns0:time>2025-09-15T05:52:34Z</ns0:time>
+    <ns0:name>Water well Anderssjöhöjden -S11</ns0:name>
+    <ns0:sym>Drinking Water</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T05:52:34Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.841344946995378" lon="18.05573171004653">
+    <ns0:ele>312.796875</ns0:ele>
+    <ns0:time>2025-07-15T14:22:12Z</ns0:time>
+    <ns0:name>Water well Trollkärn -S09</ns0:name>
+    <ns0:sym>Drinking Water</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-15T14:22:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:rte><ns0:name>Bounds r4 c2</ns0:name><ns0:rtept lat="62.16171001740926" lon="14.635452967758535" /><ns0:rtept lat="62.16171001740926" lon="19.777214191497503" /><ns0:rtept lat="64.78898264693278" lon="19.777214191497503" /><ns0:rtept lat="64.78898264693278" lon="14.635452967758535" /><ns0:rtept lat="62.16171001740926" lon="14.635452967758535" /></ns0:rte></gpx>

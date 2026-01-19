@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" xmlns:ns1="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ns2="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" version="1.1" creator="Garmin Desktop App" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:link href="http://www.garmin.com">
+      <ns0:text>Garmin International</ns0:text>
+    </ns0:link>
+    <ns0:time>2026-01-02T09:14:53Z</ns0:time>
+    <ns0:bounds maxlat="67.943594455718994" maxlon="24.038901329040527" minlat="55.337739139795303" minlon="11.169615872204304" />
+  <ns0:desc>Cell r5 c1 · waypoints: 8</ns0:desc><ns0:keywords>S.gpx</ns0:keywords></ns0:metadata>
+
+  <ns0:wpt lat="64.980548350140452" lon="14.213588833808899">
+    <ns0:ele>570.03515625</ns0:ele>
+    <ns0:time>2024-09-29T16:28:15Z</ns0:time>
+    <ns0:name>! Road only open 6 june to 15 october -S16</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-29T16:28:15Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="65.119024179875851" lon="14.509298522025347">
+    <ns0:ele>743.01171875</ns0:ele>
+    <ns0:time>2024-09-29T16:23:08Z</ns0:time>
+    <ns0:name>! Road only open 6 june to 15 october. -S16</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-29T16:23:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.836223125457764" lon="14.083893299102783">
+    <ns0:time>2021-07-01T05:02:05Z</ns0:time>
+    <ns0:name>Gas Stor-Blåsjön -S16</ns0:name>
+    <ns0:cmt>Ica Supermarket</ns0:cmt>
+    <ns0:desc>Ica Supermarket</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/6QusnDSr69Ei9rDZ9" />
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Stora Blåsjön 230</ns1:StreetAddress>
+          <ns1:City>Strömsund</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>833 99</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>067221027</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Stora Blåsjön 230</ns2:StreetAddress>
+          <ns2:City>Strömsund</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>833 99</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>067221027</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-07-01T05:02:05Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="65.047591924667358" lon="14.33390200138092">
+    <ns0:ele>783.3125</ns0:ele>
+    <ns0:time>2024-09-29T16:56:45Z</ns0:time>
+    <ns0:name>Rest Area Concrete bunker Stekenjokk -S16</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/6Fk2xM9dhWMr9CTRA" />
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-29T16:56:45Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.817412625998259" lon="14.239015337079763">
+    <ns0:time>2020-04-05T15:46:50Z</ns0:time>
+    <ns0:name>View Ankarede Kapell &amp; Kyrkstad -S16</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/f56AouyGVydeZdX17" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-04-05T15:46:50Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.931426793336868" lon="14.159540059044957">
+    <ns0:time>2020-04-12T17:22:04Z</ns0:time>
+    <ns0:name>View Bjurälven -S16</ns0:name>
+    <ns0:cmt>Strandvägen 32
+833 99, Strömsund, Jamtland County, SWE</ns0:cmt>
+    <ns0:desc>Strandvägen 32
+833 99, Strömsund, Jamtland County, SWE</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/fjAbVaFS2JGTFW986" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Strandvägen 32</ns1:StreetAddress>
+          <ns1:City>Strömsund</ns1:City>
+          <ns1:State>Jamtland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>833 99</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Strandvägen 32</ns2:StreetAddress>
+          <ns2:City>Strömsund</ns2:City>
+          <ns2:State>Jamtland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>833 99</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-04-12T17:22:04Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.798592990264297" lon="14.055669670924544">
+    <ns0:time>2020-04-05T15:10:38Z</ns0:time>
+    <ns0:name>View Brakkåfallet -S16</ns0:name>
+    <ns0:cmt>Sör-Blåsjön 185
+833 98, Strömsund, Jamtland County, SWE</ns0:cmt>
+    <ns0:desc>Sör-Blåsjön 185
+833 98, Strömsund, Jamtland County, SWE</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/cdNN4R4zxMMv7pN67" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Sör-Blåsjön 185</ns1:StreetAddress>
+          <ns1:City>Strömsund</ns1:City>
+          <ns1:State>Jamtland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>833 98</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Sör-Blåsjön 185</ns2:StreetAddress>
+          <ns2:City>Strömsund</ns2:City>
+          <ns2:State>Jamtland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>833 98</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-04-05T15:10:38Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.967069998383522" lon="14.201679993420839">
+    <ns0:time>2020-04-12T15:28:10Z</ns0:time>
+    <ns0:name>View Gaustafallet</ns0:name>
+    <ns0:cmt>N64° 58.024' E14° 12.101'</ns0:cmt>
+    <ns0:desc>N64° 58.024' E14° 12.101'</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/yRtBZRDYb8V6TCdv5" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-04-12T15:28:10Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:rte><ns0:name>Bounds r5 c1</ns0:name><ns0:rtept lat="64.78898264693278" lon="9.493691744019566" /><ns0:rtept lat="64.78898264693278" lon="14.635452967758535" /><ns0:rtept lat="67.4162552764563" lon="14.635452967758535" /><ns0:rtept lat="67.4162552764563" lon="9.493691744019566" /><ns0:rtept lat="64.78898264693278" lon="9.493691744019566" /></ns0:rte></gpx>

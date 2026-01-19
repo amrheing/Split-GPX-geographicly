@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" xmlns:ns1="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ns2="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" version="1.1" creator="Garmin Desktop App" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:link href="http://www.garmin.com">
+      <ns0:text>Garmin International</ns0:text>
+    </ns0:link>
+    <ns0:time>2026-01-02T09:14:53Z</ns0:time>
+    <ns0:bounds maxlat="67.943594455718994" maxlon="24.038901329040527" minlat="55.337739139795303" minlon="11.169615872204304" />
+  <ns0:desc>Cell r4 c3 · waypoints: 11</ns0:desc><ns0:keywords>S.gpx</ns0:keywords></ns0:metadata>
+
+  <ns0:wpt lat="64.308472266420722" lon="20.074744848534465">
+    <ns0:ele>269.51171875</ns0:ele>
+    <ns0:time>2025-09-14T23:32:49Z</ns0:time>
+    <ns0:name>Camp Nedre Vorrstjärn -S08</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-14T23:32:49Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.517319202423096" lon="20.666913986206055">
+    <ns0:time>2025-07-09T05:34:07Z</ns0:time>
+    <ns0:name>Camping Burträsk -S06</ns0:name>
+    <ns0:cmt>Burträsk camping</ns0:cmt>
+    <ns0:desc>Burträsk camping</ns0:desc>
+    <ns0:link href="https://burtraskcamping.se/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Långåkersgatan 16</ns1:StreetAddress>
+          <ns1:City>Burträsk</ns1:City>
+          <ns1:State>Västerbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>937 31</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>+4676-777 14 07</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Långåkersgatan 16</ns2:StreetAddress>
+          <ns2:City>Burträsk</ns2:City>
+          <ns2:State>Västerbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>937 31</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>+4676-777 14 07</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-09T05:34:07Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.006648063659668" lon="20.399272441864014">
+    <ns0:time>2025-09-14T23:40:08Z</ns0:time>
+    <ns0:name>Gas Bodbyn -S08</ns0:name>
+    <ns0:cmt>Din-X
+Bodbyn 23
+905 95, Umeå, Västerbottens län, SWE</ns0:cmt>
+    <ns0:desc>Din-X
+Bodbyn 23
+905 95, Umeå, Västerbottens län, SWE</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Bodbyn 23</ns1:StreetAddress>
+          <ns1:City>Umeå</ns1:City>
+          <ns1:State>Västerbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>905 95</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Bodbyn 23</ns2:StreetAddress>
+          <ns2:City>Umeå</ns2:City>
+          <ns2:State>Västerbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>905 95</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-14T23:40:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.259631084278226" lon="20.225104540586472">
+    <ns0:time>2025-09-15T06:22:11Z</ns0:time>
+    <ns0:name>Gas Botsmark -S08</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T06:22:11Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.521288871765137" lon="20.659832954406738">
+    <ns0:time>2025-09-27T15:28:30Z</ns0:time>
+    <ns0:name>Gas Burträsk -S06</ns0:name>
+    <ns0:cmt>Okq8 Burträsk</ns0:cmt>
+    <ns0:desc>Okq8 Burträsk</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Sundbrogatan 7</ns1:StreetAddress>
+          <ns1:City>Burträsk</ns1:City>
+          <ns1:State>Västerbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>937 31</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>091410221</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Sundbrogatan 7</ns2:StreetAddress>
+          <ns2:City>Burträsk</ns2:City>
+          <ns2:State>Västerbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>937 31</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>091410221</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T15:28:30Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.707528114318848" lon="20.369253158569336">
+    <ns0:time>2025-09-15T06:17:44Z</ns0:time>
+    <ns0:name>Gas Holmsund -S08</ns0:name>
+    <ns0:cmt>Circle K
+Holmsundsvägen 111
+913 32, Holmsund, Västerbottens län, SWE</ns0:cmt>
+    <ns0:desc>Circle K
+Holmsundsvägen 111
+913 32, Holmsund, Västerbottens län, SWE</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Holmsundsvägen 111</ns1:StreetAddress>
+          <ns1:City>Holmsund</ns1:City>
+          <ns1:State>Västerbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>913 32</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Holmsundsvägen 111</ns2:StreetAddress>
+          <ns2:City>Holmsund</ns2:City>
+          <ns2:State>Västerbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>913 32</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T06:17:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.088401794433594" lon="19.954197406768799">
+    <ns0:time>2025-09-27T15:31:41Z</ns0:time>
+    <ns0:name>Gas Rödåsel -S06</ns0:name>
+    <ns0:cmt>Qstar</ns0:cmt>
+    <ns0:desc>Qstar</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Rödåsel</ns1:StreetAddress>
+          <ns1:City>Rödåsel</ns1:City>
+          <ns1:State>Västerbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>922 65</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>011280000</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Rödåsel</ns2:StreetAddress>
+          <ns2:City>Rödåsel</ns2:City>
+          <ns2:State>Västerbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>922 65</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>011280000</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T15:31:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.297125348821282" lon="20.164577392861247">
+    <ns0:time>2025-09-14T23:41:32Z</ns0:time>
+    <ns0:name>Rest Area Shelter Jättekastet -S08</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-14T23:41:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.190291622653604" lon="20.284797856584191">
+    <ns0:time>2025-09-14T23:28:27Z</ns0:time>
+    <ns0:name>Rest Area Shelter Stenfors -S08</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-14T23:28:27Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.751384686678648" lon="20.484396452084184">
+    <ns0:time>2021-05-10T11:34:25Z</ns0:time>
+    <ns0:name>View Krångfors - ramsåg -S06</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-10T11:34:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.190176539123058" lon="20.293392492458224">
+    <ns0:ele>160.68359375</ns0:ele>
+    <ns0:time>2025-09-15T04:55:05Z</ns0:time>
+    <ns0:name>View SAAB entusiast -S08</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T04:55:05Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:rte><ns0:name>Bounds r4 c3</ns0:name><ns0:rtept lat="62.16171001740926" lon="19.777214191497503" /><ns0:rtept lat="62.16171001740926" lon="24.918975415236474" /><ns0:rtept lat="64.78898264693278" lon="24.918975415236474" /><ns0:rtept lat="64.78898264693278" lon="19.777214191497503" /><ns0:rtept lat="62.16171001740926" lon="19.777214191497503" /></ns0:rte></gpx>

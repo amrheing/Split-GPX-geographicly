@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" xmlns:ns1="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ns2="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" version="1.1" creator="Garmin Desktop App" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:link href="http://www.garmin.com">
+      <ns0:text>Garmin International</ns0:text>
+    </ns0:link>
+    <ns0:time>2026-01-02T09:14:53Z</ns0:time>
+    <ns0:bounds maxlat="67.943594455718994" maxlon="24.038901329040527" minlat="55.337739139795303" minlon="11.169615872204304" />
+  <ns0:desc>Cell r6 c3 · waypoints: 7</ns0:desc><ns0:keywords>S.gpx</ns0:keywords></ns0:metadata>
+
+  <ns0:wpt lat="67.766786925494671" lon="22.345699723809958">
+    <ns0:time>2025-05-27T20:18:45Z</ns0:time>
+    <ns0:name>! Ferry for crossing the river is only operational from 1st or 2nd week of June till middle of October  -S16</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-05-27T20:18:45Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="67.899606227874756" lon="23.564085960388184">
+    <ns0:time>2025-07-29T22:46:54Z</ns0:time>
+    <ns0:name>Camping Rajamaa -S16</ns0:name>
+    <ns0:cmt>Rajamaa
+Muonionalusta 25
+984 95, Pajala, Norrbottens län, SWE
+097843040</ns0:cmt>
+    <ns0:desc>Rajamaa
+Muonionalusta 25
+984 95, Pajala, Norrbottens län, SWE
+097843040</ns0:desc>
+    <ns0:link href="https://rajamaa.com/" />
+    <ns0:link href="https://maps.app.goo.gl/hDVNx7DhkAjZqFFPA" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Muonionalusta 25</ns1:StreetAddress>
+          <ns1:City>Pajala</ns1:City>
+          <ns1:State>Norrbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>984 95</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>097843040</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Muonionalusta 25</ns2:StreetAddress>
+          <ns2:City>Pajala</ns2:City>
+          <ns2:State>Norrbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>984 95</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>097843040</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T22:46:54Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="67.767301825806499" lon="22.346962122246623">
+    <ns0:time>2024-08-18T18:56:46Z</ns0:time>
+    <ns0:name>Ferry E Lainio -S16</ns0:name>
+    <ns0:sym>Ferry</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-18T18:56:46Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="67.766826068982482" lon="22.343723438680172">
+    <ns0:time>2024-08-18T18:54:47Z</ns0:time>
+    <ns0:name>Ferry V Lainio -S16</ns0:name>
+    <ns0:sym>Ferry</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-18T18:54:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="67.481739521026611" lon="22.656662464141846">
+    <ns0:time>2024-08-18T19:12:08Z</ns0:time>
+    <ns0:name>Gas Kangos -S16</ns0:name>
+    <ns0:cmt>Holmas Lanthandel i Kangos</ns0:cmt>
+    <ns0:desc>Holmas Lanthandel i Kangos</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Norra Byavägen 1</ns1:StreetAddress>
+          <ns1:City>Kangos</ns1:City>
+          <ns1:State>Norrbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>980 63</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>097832004</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Norra Byavägen 1</ns2:StreetAddress>
+          <ns2:City>Kangos</ns2:City>
+          <ns2:State>Norrbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>980 63</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>097832004</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-18T19:12:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="67.82109260559082" lon="23.152892589569092">
+    <ns0:time>2021-05-17T17:04:00Z</ns0:time>
+    <ns0:name>Gas Kitkiöjärvi -S16</ns0:name>
+    <ns0:cmt>Handlar'n</ns0:cmt>
+    <ns0:desc>Handlar'n</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Kitkiöjärvi 20</ns1:StreetAddress>
+          <ns1:City>Pajala</ns1:City>
+          <ns1:State>BD</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>984 99</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>097842038</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Kitkiöjärvi 20</ns2:StreetAddress>
+          <ns2:City>Pajala</ns2:City>
+          <ns2:State>BD</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>984 99</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>097842038</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-17T17:04:00Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="67.540318965911865" lon="22.637007236480713">
+    <ns0:time>2024-08-15T21:34:23Z</ns0:time>
+    <ns0:name>Hotel Pintree Lodge -S16</ns0:name>
+    <ns0:cmt>Pintree Lodge</ns0:cmt>
+    <ns0:desc>Pintree Lodge</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/wwrLjrKaPfzrgYmW9" />
+    <ns0:link href="https://explorethenorth.se/our-lodges/Pinetree-Lodge" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Särkimukka 27</ns1:StreetAddress>
+          <ns1:City>Pajala</ns1:City>
+          <ns1:State>Norrbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>980 63</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0703824852</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Särkimukka 27</ns2:StreetAddress>
+          <ns2:City>Pajala</ns2:City>
+          <ns2:State>Norrbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>980 63</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0703824852</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-15T21:34:23Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:rte><ns0:name>Bounds r6 c3</ns0:name><ns0:rtept lat="67.4162552764563" lon="19.777214191497503" /><ns0:rtept lat="67.4162552764563" lon="24.918975415236474" /><ns0:rtept lat="70.04352790597981" lon="24.918975415236474" /><ns0:rtept lat="70.04352790597981" lon="19.777214191497503" /><ns0:rtept lat="67.4162552764563" lon="19.777214191497503" /></ns0:rte></gpx>

@@ -1,0 +1,713 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" xmlns:ns1="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ns2="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" version="1.1" creator="Garmin Desktop App" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:link href="http://www.garmin.com">
+      <ns0:text>Garmin International</ns0:text>
+    </ns0:link>
+    <ns0:time>2026-01-02T09:14:53Z</ns0:time>
+    <ns0:bounds maxlat="67.943594455718994" maxlon="24.038901329040527" minlat="55.337739139795303" minlon="11.169615872204304" />
+  <ns0:desc>Cell r4 c1 · waypoints: 22</ns0:desc><ns0:keywords>S.gpx</ns0:keywords></ns0:metadata>
+
+  <ns0:wpt lat="63.1884740665555" lon="13.442003214731812">
+    <ns0:ele>498.6171875</ns0:ele>
+    <ns0:time>2025-06-14T20:59:26Z</ns0:time>
+    <ns0:name>Camp Shelter Håckrenmagasinet -S15</ns0:name>
+    <ns0:cmt>Brilliant new shelter, incl. BBQ place and toilet</ns0:cmt>
+    <ns0:desc>Brilliant new shelter, incl. BBQ place and toilet</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-06-14T20:59:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.784937564283609" lon="13.245754614472389">
+    <ns0:ele>565</ns0:ele>
+    <ns0:time>2024-09-29T05:57:22Z</ns0:time>
+    <ns0:name>Camp Shelter Sölvbacka strömmar -S15</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/nZVfpbX9PAzutvoc6" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-29T05:57:22Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.842183113098145" lon="13.826079368591309">
+    <ns0:time>2025-07-09T05:08:39Z</ns0:time>
+    <ns0:name>Camping Galå Fjällgård -S15</ns0:name>
+    <ns0:cmt>Galå Fjällgård
+Galåbodarna 810
+845 62, Berg, Jämtlands län, SWE
+068714008
+
+
+kontakt@gala-fjallgard.com</ns0:cmt>
+    <ns0:desc>Galå Fjällgård
+Galåbodarna 810
+845 62, Berg, Jämtlands län, SWE
+068714008
+
+
+kontakt@gala-fjallgard.com</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/cG79x9aYx4ZygcMy8" />
+    <ns0:link href="http://www.gala-fjallgard.com/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Galåbodarna 810</ns1:StreetAddress>
+          <ns1:City>Berg</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>845 62</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>+4670-2082209</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Galåbodarna 810</ns2:StreetAddress>
+          <ns2:City>Berg</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>845 62</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>+4670-2082209</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-09T05:08:39Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.50498104095459" lon="14.149425029754639">
+    <ns0:time>2021-05-09T12:28:41Z</ns0:time>
+    <ns0:name>Camping Gäddede -S15</ns0:name>
+    <ns0:cmt>Gäddede camping &amp; stugby
+Sagavägen
+833 61, Gäddede, Z, SWE
+067210035</ns0:cmt>
+    <ns0:desc>Gäddede camping &amp; stugby
+Sagavägen
+833 61, Gäddede, Z, SWE
+067210035</ns0:desc>
+    <ns0:link href="http://www.gaddedecamping.com/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Sagavägen</ns1:StreetAddress>
+          <ns1:City>Gäddede</ns1:City>
+          <ns1:State>Z</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>833 61</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>067210035</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Sagavägen</ns2:StreetAddress>
+          <ns2:City>Gäddede</ns2:City>
+          <ns2:State>Z</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>833 61</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>067210035</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-09T12:28:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.549972534179688" lon="12.517333030700684">
+    <ns0:time>2018-08-06T18:34:51Z</ns0:time>
+    <ns0:name>Gas Funäsdalen -S15</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Rörosvägen 47</ns1:StreetAddress>
+          <ns1:City>Funäsdalen</ns1:City>
+          <ns1:State>Jamtland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>840 95</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Rörosvägen 47</ns2:StreetAddress>
+          <ns2:City>Funäsdalen</ns2:City>
+          <ns2:State>Jamtland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>840 95</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2018-08-06T18:34:51Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.671339750289917" lon="14.620737433433533">
+    <ns0:ele>320.3671875</ns0:ele>
+    <ns0:time>2021-05-18T07:55:36Z</ns0:time>
+    <ns0:name>Gas Föllinge -S15</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Långgatan</ns1:StreetAddress>
+          <ns1:City>Föllinge</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>830 60</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>064510091</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Långgatan</ns2:StreetAddress>
+          <ns2:City>Föllinge</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>830 60</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>064510091</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-18T07:55:36Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.499659538269043" lon="14.141829013824463">
+    <ns0:time>2018-07-22T10:17:23Z</ns0:time>
+    <ns0:name>Gas Gäddede -S15</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Norgevägen 2</ns1:StreetAddress>
+          <ns1:City>Gäddede</ns1:City>
+          <ns1:State>Jamtland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>830 90</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>020656565</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Norgevägen 2</ns2:StreetAddress>
+          <ns2:City>Gäddede</ns2:City>
+          <ns2:State>Jamtland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>830 90</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>020656565</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2018-07-22T10:17:23Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.999451756477356" lon="14.340451955795288">
+    <ns0:ele>316.5703125</ns0:ele>
+    <ns0:time>2024-03-31T15:36:13Z</ns0:time>
+    <ns0:name>Gas Myrviken -S15</ns0:name>
+    <ns0:cmt>ingo
+28 Myrviksvägen
+Myrviken, Jämtlands län, 830 24, SWE
+020788008</ns0:cmt>
+    <ns0:desc>ingo
+28 Myrviksvägen
+Myrviken, Jämtlands län, 830 24, SWE
+020788008</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>28 Myrviksvägen</ns1:StreetAddress>
+          <ns1:City>Myrviken</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>830 24</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>020788008</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>28 Myrviksvägen</ns2:StreetAddress>
+          <ns2:City>Myrviken</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>830 24</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>020788008</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-03-31T15:36:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.310368061065674" lon="13.683128356933594">
+    <ns0:time>2021-05-18T07:53:10Z</ns0:time>
+    <ns0:name>Gas Mörsil -S15</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Åsanvägen 25</ns1:StreetAddress>
+          <ns1:City>Åre</ns1:City>
+          <ns1:State>Z</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>837 41</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0647660214</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Åsanvägen 25</ns2:StreetAddress>
+          <ns2:City>Åre</ns2:City>
+          <ns2:State>Z</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>837 41</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0647660214</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-18T07:53:10Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.66901159286499" lon="14.607846736907959">
+    <ns0:time>2025-07-09T04:56:23Z</ns0:time>
+    <ns0:name>Hostel Föllinge B&amp;B -S15</ns0:name>
+    <ns0:cmt>Föllinge Bed and Breakfast, Café och Kakeria
+Backvägen 3
+835 61, Föllinge, Jämtlands län, SWE
+064551002</ns0:cmt>
+    <ns0:desc>Föllinge Bed and Breakfast, Café och Kakeria
+Backvägen 3
+835 61, Föllinge, Jämtlands län, SWE
+064551002</ns0:desc>
+    <ns0:link href="https://follingebandbcafekakeria.se/" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Backvägen 3</ns1:StreetAddress>
+          <ns1:City>Föllinge</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>835 61</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>064551002</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Backvägen 3</ns2:StreetAddress>
+          <ns2:City>Föllinge</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>835 61</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>064551002</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-09T04:56:23Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.603171348571777" lon="13.790180683135986">
+    <ns0:time>2024-09-29T16:45:01Z</ns0:time>
+    <ns0:name>Hostel Stf Björkvattnet -S15</ns0:name>
+    <ns0:cmt>Stf vandrarhem Björkvattnet
+Björkvattnet 360
+833 98, Strömsund, Jämtlands län, SWE
+067223024</ns0:cmt>
+    <ns0:desc>Stf vandrarhem Björkvattnet
+Björkvattnet 360
+833 98, Strömsund, Jämtlands län, SWE
+067223024</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/gjKBr1PjMuFCDbUu6" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Björkvattnet 360</ns1:StreetAddress>
+          <ns1:City>Strömsund</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>833 98</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>067223024</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Björkvattnet 360</ns2:StreetAddress>
+          <ns2:City>Strömsund</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>833 98</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>067223024</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-29T16:45:01Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.728435873985291" lon="13.972179293632507">
+    <ns0:ele>360.890625</ns0:ele>
+    <ns0:time>2024-09-29T16:47:19Z</ns0:time>
+    <ns0:name>Hotel Jormlien Fjällgård -S16</ns0:name>
+    <ns0:cmt>Westbergs Mat</ns0:cmt>
+    <ns0:desc>Westbergs Mat</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/dZDjkffypMHbn1c29" />
+    <ns0:link href="http://www.jormlien.com/" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>320 Jormlien</ns1:StreetAddress>
+          <ns1:City>Strömsund</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>830 90</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>067220190</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>320 Jormlien</ns2:StreetAddress>
+          <ns2:City>Strömsund</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>830 90</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>067220190</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-29T16:47:19Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.506654739379883" lon="14.14440393447876">
+    <ns0:time>2021-05-09T12:29:01Z</ns0:time>
+    <ns0:name>Hotel Pilgrimshotellet -S15</ns0:name>
+    <ns0:cmt>Pilgrimshotellet
+Hotellplan 2
+833 61, Gäddede, Z, SWE
+04667210420</ns0:cmt>
+    <ns0:desc>Pilgrimshotellet
+Hotellplan 2
+833 61, Gäddede, Z, SWE
+04667210420</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Hotellplan 2</ns1:StreetAddress>
+          <ns1:City>Gäddede</ns1:City>
+          <ns1:State>Z</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>833 61</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>04667210420</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Hotellplan 2</ns2:StreetAddress>
+          <ns2:City>Gäddede</ns2:City>
+          <ns2:State>Z</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>833 61</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>04667210420</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-09T12:29:01Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.386135520413518" lon="13.929031854495406">
+    <ns0:time>2017-05-09T19:23:26Z</ns0:time>
+    <ns0:name>MC Dealer Event-MC -S15</ns0:name>
+    <ns0:cmt>Norther sweden mc tyre shop.</ns0:cmt>
+    <ns0:desc>Norther sweden mc tyre shop.</ns0:desc>
+    <ns0:link href="https://eventmc.weebly.com/" />
+    <ns0:sym>ATV</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Alsen 148</ns1:StreetAddress>
+          <ns1:City>Alsen</ns1:City>
+          <ns1:Country>Sweden</ns1:Country>
+          <ns1:PostalCode>835 93</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>+46 70-878 01 39</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Alsen 148</ns2:StreetAddress>
+          <ns2:City>Alsen</ns2:City>
+          <ns2:Country>Sweden</ns2:Country>
+          <ns2:PostalCode>835 93</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>+46 70-878 01 39</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2017-05-09T19:23:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.038071626797318" lon="14.033905975520611">
+    <ns0:ele>499.0390625</ns0:ele>
+    <ns0:time>2024-09-29T06:08:45Z</ns0:time>
+    <ns0:name>Swim Häggsåssjön Beach -S15</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/2fRYyXcvNcpU8F4e7" />
+    <ns0:sym>Beach</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-29T06:08:45Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.548449039459229" lon="12.532589435577393">
+    <ns0:time>2025-09-27T15:12:00Z</ns0:time>
+    <ns0:name>Systembolaget Funäsdalen -S15</ns0:name>
+    <ns0:cmt>Systembolaget Ab
+Sjöängsvägen 2
+846 72, Funäsdalen, Jämtlands län, SWE
+0684668200</ns0:cmt>
+    <ns0:desc>Systembolaget Ab
+Sjöängsvägen 2
+846 72, Funäsdalen, Jämtlands län, SWE
+0684668200</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Sjöängsvägen 2</ns1:StreetAddress>
+          <ns1:City>Funäsdalen</ns1:City>
+          <ns1:State>Jämtlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>846 72</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0684668200</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Sjöängsvägen 2</ns2:StreetAddress>
+          <ns2:City>Funäsdalen</ns2:City>
+          <ns2:State>Jämtlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>846 72</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0684668200</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T15:12:00Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.740055322647095" lon="12.741056084632874">
+    <ns0:ele>963</ns0:ele>
+    <ns0:time>2024-09-15T04:51:00Z</ns0:time>
+    <ns0:name>View Flatruet -S15</ns0:name>
+    <ns0:link href="https://ljungdalsfjallen.se/sevardheter/flatruet-sveriges-hogsta-allmanna-vag/" />
+    <ns0:link href="https://maps.app.goo.gl/shuzYccDs1SZYoCZ9" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-15T04:51:00Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.761140586808324" lon="13.717226106673479">
+    <ns0:time>2024-09-29T06:00:35Z</ns0:time>
+    <ns0:name>View Flåsjöns kraftverk -S15</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/ZmNC5D4rY3LR5KtV8" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-29T06:00:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="64.348794920369983" lon="14.380496246740222">
+    <ns0:time>2020-04-05T11:42:42Z</ns0:time>
+    <ns0:name>View Hällingsåfallet -S15</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/fPs4mnJcrwC4YbHq8" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-04-05T11:42:42Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.16897826269269" lon="13.581761056557298">
+    <ns0:ele>480.99609375</ns0:ele>
+    <ns0:time>2024-09-29T07:37:13Z</ns0:time>
+    <ns0:name>View Håckrenfoss -S15</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/1cPDiS7Hj3kSqZ4UA" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-29T07:37:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.853484516963363" lon="13.905397653579712">
+    <ns0:ele>669.95040000000006</ns0:ele>
+    <ns0:time>2024-09-29T06:07:26Z</ns0:time>
+    <ns0:name>View Långbodarna -S15</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/q6XKwG8hFeGvNXMM6" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-29T06:07:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="63.445489285513759" lon="12.739177364856005">
+    <ns0:ele>407.9609375</ns0:ele>
+    <ns0:time>2024-09-29T15:24:33Z</ns0:time>
+    <ns0:name>View Tännforsen -S15</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/spUYf2WgGgzsV7eG9" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-29T15:24:33Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:rte><ns0:name>Bounds r4 c1</ns0:name><ns0:rtept lat="62.16171001740926" lon="9.493691744019566" /><ns0:rtept lat="62.16171001740926" lon="14.635452967758535" /><ns0:rtept lat="64.78898264693278" lon="14.635452967758535" /><ns0:rtept lat="64.78898264693278" lon="9.493691744019566" /><ns0:rtept lat="62.16171001740926" lon="9.493691744019566" /></ns0:rte></gpx>

@@ -1,0 +1,824 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" xmlns:ns1="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ns2="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" version="1.1" creator="Garmin Desktop App" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:link href="http://www.garmin.com">
+      <ns0:text>Garmin International</ns0:text>
+    </ns0:link>
+    <ns0:time>2026-01-02T09:14:53Z</ns0:time>
+    <ns0:bounds maxlat="67.943594455718994" maxlon="24.038901329040527" minlat="55.337739139795303" minlon="11.169615872204304" />
+  <ns0:desc>Cell r5 c3 · waypoints: 32</ns0:desc><ns0:keywords>S.gpx</ns0:keywords></ns0:metadata>
+
+  <ns0:wpt lat="66.162149850279093" lon="20.012508127838373">
+    <ns0:time>2025-06-11T19:23:51Z</ns0:time>
+    <ns0:name>! Tough and steep road! -S16</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-06-11T19:23:51Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.147002074867487" lon="20.048419637605548">
+    <ns0:time>2025-06-11T19:25:10Z</ns0:time>
+    <ns0:name>! Tough and steep road!! -S16</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-06-11T19:25:10Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="65.774405021220446" lon="20.334056792780757">
+    <ns0:ele>254.8359375</ns0:ele>
+    <ns0:time>2021-06-08T07:14:19Z</ns0:time>
+    <ns0:name>Camp East of Laverst  -S06</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-06-08T07:14:19Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.718859765678644" lon="21.147200390696526">
+    <ns0:ele>436.80859375</ns0:ele>
+    <ns0:time>2025-06-08T17:18:13Z</ns0:time>
+    <ns0:name>Camp Siekajärvi -S16</ns0:name>
+    <ns0:cmt>Nice Camp spot for Tent and Hammock.</ns0:cmt>
+    <ns0:desc>Nice Camp spot for Tent and Hammock.</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-06-08T17:18:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.657872200012207" lon="21.241410970687866">
+    <ns0:ele>380</ns0:ele>
+    <ns0:time>2021-06-02T08:38:21Z</ns0:time>
+    <ns0:name>Camping Vildmarksbyn Solberget -S16</ns0:name>
+    <ns0:cmt>Vildmarksbyn Solberget</ns0:cmt>
+    <ns0:desc>Vildmarksbyn Solberget</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/gstVmaSrnQ1Fxa4u9" />
+    <ns0:link href="https://solberget.com/sv/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Solberget</ns1:StreetAddress>
+          <ns1:City>Gällivare</ns1:City>
+          <ns1:State>Norrbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>982 06</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>097040144</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Solberget</ns2:StreetAddress>
+          <ns2:City>Gällivare</ns2:City>
+          <ns2:State>Norrbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>982 06</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>097040144</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-06-02T08:38:21Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.608422994613647" lon="19.828530550003052">
+    <ns0:ele>251</ns0:ele>
+    <ns0:time>2024-09-28T11:20:38Z</ns0:time>
+    <ns0:name>Gas Circle K Jokkmokk -S16</ns0:name>
+    <ns0:cmt>Circle K</ns0:cmt>
+    <ns0:desc>Circle K</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>18 Klippgatan</ns1:StreetAddress>
+          <ns1:City>Jokkmokk</ns1:City>
+          <ns1:State>Norrbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>962 32</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber />
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>18 Klippgatan</ns2:StreetAddress>
+          <ns2:City>Jokkmokk</ns2:City>
+          <ns2:State>Norrbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>962 32</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber />
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-28T11:20:38Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.904491679742932" lon="21.589939473196864">
+    <ns0:time>2024-09-16T06:41:44Z</ns0:time>
+    <ns0:name>Gas Hakkas -S16</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-16T06:41:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.085124015808105" lon="20.952472686767578">
+    <ns0:time>2024-01-30T05:30:58Z</ns0:time>
+    <ns0:name>Gas Harads -S06</ns0:name>
+    <ns0:cmt>Gulf</ns0:cmt>
+    <ns0:desc>Gulf</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Edeforsvägen 41</ns1:StreetAddress>
+          <ns1:City>Harads</ns1:City>
+          <ns1:State>Norrbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>960 24</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>092810075</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Edeforsvägen 41</ns2:StreetAddress>
+          <ns2:City>Harads</ns2:City>
+          <ns2:State>Norrbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>960 24</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>092810075</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-01-30T05:30:58Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.146133542060852" lon="19.9893718957901">
+    <ns0:ele>339</ns0:ele>
+    <ns0:time>2024-09-28T10:24:57Z</ns0:time>
+    <ns0:name>Gas Kåbdalis -S16</ns0:name>
+    <ns0:cmt>Qstar</ns0:cmt>
+    <ns0:desc>Qstar</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>402 Kåbdalis</ns1:StreetAddress>
+          <ns1:City>Kåbdalis</ns1:City>
+          <ns1:State>Norrbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>962 05</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>011280000</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>402 Kåbdalis</ns2:StreetAddress>
+          <ns2:City>Kåbdalis</ns2:City>
+          <ns2:State>Norrbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>962 05</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>011280000</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-28T10:24:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.069567203521729" lon="22.709619998931885">
+    <ns0:time>2024-09-11T07:29:02Z</ns0:time>
+    <ns0:name>Gas Morjärv -S06</ns0:name>
+    <ns0:cmt>Okq8
+Pionjärgatan 1
+950 42, Morjärv, Norrbottens län, SWE
+092350032</ns0:cmt>
+    <ns0:desc>Okq8
+Pionjärgatan 1
+950 42, Morjärv, Norrbottens län, SWE
+092350032</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Pionjärgatan 1</ns1:StreetAddress>
+          <ns1:City>Morjärv</ns1:City>
+          <ns1:State>Norrbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>950 42</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>092350032</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Pionjärgatan 1</ns2:StreetAddress>
+          <ns2:City>Morjärv</ns2:City>
+          <ns2:State>Norrbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>950 42</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>092350032</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-11T07:29:02Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.756282448768616" lon="20.951442718505859">
+    <ns0:ele>320</ns0:ele>
+    <ns0:time>2024-09-28T11:06:33Z</ns0:time>
+    <ns0:name>Gas Nattavaara -S16</ns0:name>
+    <ns0:cmt>Qstar</ns0:cmt>
+    <ns0:desc>Qstar</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>3 Majas väg</ns1:StreetAddress>
+          <ns1:City>Nattavaara</ns1:City>
+          <ns1:State>Norrbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>982 06</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>011280000</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>3 Majas väg</ns2:StreetAddress>
+          <ns2:City>Nattavaara</ns2:City>
+          <ns2:State>Norrbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>982 06</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>011280000</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-28T11:06:33Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.605730056762695" lon="19.824099540710449">
+    <ns0:time>2024-09-28T10:33:56Z</ns0:time>
+    <ns0:name>Gas OKQ8 Jokkmokk -S16</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Klockarvägen 17</ns1:StreetAddress>
+          <ns1:City>Jokkmokk</ns1:City>
+          <ns1:State>Norrbottens Län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>962 32</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>097110234</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Klockarvägen 17</ns2:StreetAddress>
+          <ns2:City>Jokkmokk</ns2:City>
+          <ns2:State>Norrbottens Län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>962 32</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>097110234</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-28T10:33:56Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="65.835464000701904" lon="20.511817932128906">
+    <ns0:time>2017-06-25T16:31:09Z</ns0:time>
+    <ns0:name>Gas Vidsel -S06</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Hantverksgatan 1</ns1:StreetAddress>
+          <ns1:City>Vidsel</ns1:City>
+          <ns1:State>Norrbotten County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>942 95</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Hantverksgatan 1</ns2:StreetAddress>
+          <ns2:City>Vidsel</ns2:City>
+          <ns2:State>Norrbotten County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>942 95</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2017-06-25T16:31:09Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="65.962600708007813" lon="24.038901329040527">
+    <ns0:time>2024-09-11T07:26:22Z</ns0:time>
+    <ns0:name>Hotel Kukkolaforsen -S06</ns0:name>
+    <ns0:cmt>Kukkolaforsen
+Kukkolaforsen 184
+953 91, Kukkola, Norrbottens län, SWE
+092231000</ns0:cmt>
+    <ns0:desc>Kukkolaforsen
+Kukkolaforsen 184
+953 91, Kukkola, Norrbottens län, SWE
+092231000</ns0:desc>
+    <ns0:link href="https://www.kukkolaforsen.se/" />
+    <ns0:link href="https://maps.app.goo.gl/thWwe94kqvvWqt4v6" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Kukkolaforsen 184</ns1:StreetAddress>
+          <ns1:City>Kukkola</ns1:City>
+          <ns1:State>Norrbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>953 91</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>092231000</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Kukkolaforsen 184</ns2:StreetAddress>
+          <ns2:City>Kukkola</ns2:City>
+          <ns2:State>Norrbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>953 91</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>092231000</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-11T07:26:22Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.420958042144775" lon="22.018940448760986">
+    <ns0:time>2024-09-11T07:40:44Z</ns0:time>
+    <ns0:name>Hut Rikti-Dockas -S06</ns0:name>
+    <ns0:cmt>Rikti-Dockas 3
+955 99, Överkalix, Norrbottens län, SWE</ns0:cmt>
+    <ns0:desc>Rikti-Dockas 3
+955 99, Överkalix, Norrbottens län, SWE</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Rikti-Dockas 3</ns1:StreetAddress>
+          <ns1:City>Överkalix</ns1:City>
+          <ns1:State>Norrbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>955 99</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Rikti-Dockas 3</ns2:StreetAddress>
+          <ns2:City>Överkalix</ns2:City>
+          <ns2:State>Norrbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>955 99</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-11T07:40:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.625167019665241" lon="20.233067013323307">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T20:50:34Z</ns0:time>
+    <ns0:name>Hut Sierrejaure -S16</ns0:name>
+    <ns0:cmt>Ved och skithus finns men vatten får man nog leta rätt på. I byggnaden med toa finns vedbod och ett oanvänt rum man kan stänga om sig, ryms nog 2 att sova där</ns0:cmt>
+    <ns0:desc>Ved och skithus finns men vatten får man nog leta rätt på. I byggnaden med toa finns vedbod och ett oanvänt rum man kan stänga om sig, ryms nog 2 att sova där</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T20:50:34Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.651359628885984" lon="20.133121451362967">
+    <ns0:ele>304</ns0:ele>
+    <ns0:time>2024-09-28T11:05:14Z</ns0:time>
+    <ns0:name>Swim Fatjas beach -S16</ns0:name>
+    <ns0:sym>Beach</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-28T11:05:14Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.606802940368652" lon="19.82882022857666">
+    <ns0:time>2025-09-15T08:06:14Z</ns0:time>
+    <ns0:name>Systembolag Jokkmokk -S16</ns0:name>
+    <ns0:cmt>Systembolaget Ab</ns0:cmt>
+    <ns0:desc>Systembolaget Ab</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Berggatan 9</ns1:StreetAddress>
+          <ns1:City>Jokkmokk</ns1:City>
+          <ns1:State>Norrbottens län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>962 32</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>097110850</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Berggatan 9</ns2:StreetAddress>
+          <ns2:City>Jokkmokk</ns2:City>
+          <ns2:State>Norrbottens län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>962 32</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>097110850</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T08:06:14Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.631522178649902" lon="19.819894591346383">
+    <ns0:time>2021-05-09T19:41:02Z</ns0:time>
+    <ns0:name>View Akkats kraftverk -S16</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-09T19:41:02Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.631548246368766" lon="19.819878749549389">
+    <ns0:ele>249</ns0:ele>
+    <ns0:time>2024-09-28T11:21:53Z</ns0:time>
+    <ns0:name>View Akkatsdammen -S16</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-28T11:21:53Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.550633292645216" lon="19.793599974364042">
+    <ns0:ele>365</ns0:ele>
+    <ns0:time>2019-04-14T09:35:43Z</ns0:time>
+    <ns0:name>View Arctic CircleTET -S16</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-04-14T09:35:43Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="65.907832765951753" lon="19.980509877204895">
+    <ns0:time>2017-06-24T19:17:38Z</ns0:time>
+    <ns0:name>View Benbryteforsen -S06</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2017-06-24T19:17:38Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.61535918712616" lon="19.84903872013092">
+    <ns0:ele>230</ns0:ele>
+    <ns0:time>2024-09-28T11:01:59Z</ns0:time>
+    <ns0:name>View Kaitumfallet (Spegeldamm) -S16</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-28T11:01:59Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.614132495597005" lon="19.860364431515336">
+    <ns0:ele>217</ns0:ele>
+    <ns0:time>2024-09-28T11:10:38Z</ns0:time>
+    <ns0:name>View Kaitumfallet -S16</ns0:name>
+    <ns0:cmt>Impressive when Akkats spills water</ns0:cmt>
+    <ns0:desc>Impressive when Akkats spills water</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-28T11:10:38Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="65.77415943145752" lon="20.234112739562988">
+    <ns0:ele>372.08984375</ns0:ele>
+    <ns0:time>2024-08-10T16:31:31Z</ns0:time>
+    <ns0:name>View Laver -S06</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-10T16:31:31Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.812258809804916" lon="22.160279117524624">
+    <ns0:time>2021-05-31T12:49:21Z</ns0:time>
+    <ns0:name>View Linafallet -S16</ns0:name>
+    <ns0:cmt>https://goo.gl/maps/B4QMHKNLuRPVzxhh9</ns0:cmt>
+    <ns0:desc>https://goo.gl/maps/B4QMHKNLuRPVzxhh9</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-31T12:49:21Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.596079552546144" lon="21.322350986301899">
+    <ns0:ele>357.01171875</ns0:ele>
+    <ns0:time>2021-06-02T09:00:33Z</ns0:time>
+    <ns0:name>View Pellokielas primeval forest reserve -S16</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-06-02T09:00:33Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.756239533424377" lon="21.446793079376221">
+    <ns0:ele>318.0625</ns0:ele>
+    <ns0:time>2021-06-02T08:39:51Z</ns0:time>
+    <ns0:name>View Sarvisvaara -S16</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-06-02T08:39:51Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.159625640138984" lon="20.005109254270792">
+    <ns0:ele>536</ns0:ele>
+    <ns0:time>2024-09-28T11:19:13Z</ns0:time>
+    <ns0:name>View Snödrömmen -S16</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-28T11:19:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.441194890066981" lon="20.611946219578385">
+    <ns0:time>2021-05-09T19:38:42Z</ns0:time>
+    <ns0:name>View Spegeldamm Vuollerim -S16</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-09T19:38:42Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="65.849776268005371" lon="20.406908942386508">
+    <ns0:time>2017-06-07T12:58:47Z</ns0:time>
+    <ns0:name>View Storforsen Södra sida</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2017-06-07T12:58:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="66.588389072567225" lon="19.857604689896107">
+    <ns0:ele>326.296875</ns0:ele>
+    <ns0:time>2024-09-15T20:13:47Z</ns0:time>
+    <ns0:name>View Storknabben -S16</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/jVgbDwr3uHGDJcR27" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-15T20:13:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:rte><ns0:name>Bounds r5 c3</ns0:name><ns0:rtept lat="64.78898264693278" lon="19.777214191497503" /><ns0:rtept lat="64.78898264693278" lon="24.918975415236474" /><ns0:rtept lat="67.4162552764563" lon="24.918975415236474" /><ns0:rtept lat="67.4162552764563" lon="19.777214191497503" /><ns0:rtept lat="64.78898264693278" lon="19.777214191497503" /></ns0:rte></gpx>

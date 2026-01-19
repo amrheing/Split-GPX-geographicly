@@ -1,0 +1,4127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" xmlns:ns1="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ns2="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" version="1.1" creator="Garmin Desktop App" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:link href="http://www.garmin.com">
+      <ns0:text>Garmin International</ns0:text>
+    </ns0:link>
+    <ns0:time>2026-01-02T09:14:53Z</ns0:time>
+    <ns0:bounds maxlat="67.943594455718994" maxlon="24.038901329040527" minlat="55.337739139795303" minlon="11.169615872204304" />
+  <ns0:desc>Cell r2 c2 · waypoints: 184</ns0:desc><ns0:keywords>S.gpx</ns0:keywords></ns0:metadata>
+
+  <ns0:wpt lat="59.200609959661961" lon="16.789543312042952">
+    <ns0:ele>61.602747836557299</ns0:ele>
+    <ns0:time>2025-07-27T16:56:32Z</ns0:time>
+    <ns0:name>! Pass Barrel -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.176489692181349" lon="17.143298014998436">
+    <ns0:ele>62.8359375</ns0:ele>
+    <ns0:time>2025-06-10T13:29:06Z</ns0:time>
+    <ns0:name>! Ride with care - Skottvång  -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-06-10T13:29:06Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.181356560438871" lon="17.145062489435077">
+    <ns0:ele>68.05078125</ns0:ele>
+    <ns0:time>2025-06-10T13:28:11Z</ns0:time>
+    <ns0:name>! Ride with care - Skottvång -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-06-10T13:28:11Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.164921408519149" lon="17.217458160594106">
+    <ns0:ele>34.25</ns0:ele>
+    <ns0:time>2025-03-31T05:50:10Z</ns0:time>
+    <ns0:name>! SL!OW HORSES AND KIDZ Lövviken  -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-31T05:50:10Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.908343305811286" lon="14.950753329321742">
+    <ns0:ele>133.35150552008963</ns0:ele>
+    <ns0:time>2025-07-27T16:56:32Z</ns0:time>
+    <ns0:name>! SLOW - Horses. askersund banvall -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.251335225999355" lon="16.98642935603857">
+    <ns0:ele>63.859375</ns0:ele>
+    <ns0:time>2025-05-17T06:46:51Z</ns0:time>
+    <ns0:name>! SLOW - House OldRailWay  -S20</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-05-17T06:46:51Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.251739401370287" lon="16.988094504922628">
+    <ns0:ele>65.94921875</ns0:ele>
+    <ns0:time>2025-05-17T06:46:51Z</ns0:time>
+    <ns0:name>! SLOW - House OldRailWay -S20</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-05-17T06:46:51Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.232037654146552" lon="16.821351125836372">
+    <ns0:ele>56.2578125</ns0:ele>
+    <ns0:time>2025-07-28T03:15:26Z</ns0:time>
+    <ns0:name>! SLOW - New section -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T03:15:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.836061041802168" lon="16.423006961122155">
+    <ns0:ele>51.596074069523205</ns0:ele>
+    <ns0:time>2025-07-27T16:56:32Z</ns0:time>
+    <ns0:name>! SLOW - Old people -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.240541011095047" lon="16.944666020572186">
+    <ns0:ele>40.505957630514459</ns0:ele>
+    <ns0:time>2025-07-27T16:56:35Z</ns0:time>
+    <ns0:name>! SLOW Byringe Station -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.1884836088866" lon="17.358927000313997">
+    <ns0:ele>62.3671875</ns0:ele>
+    <ns0:time>2024-11-03T07:47:19Z</ns0:time>
+    <ns0:name>! SLOW HORSES   -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T07:47:19Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.193307561799884" lon="17.362163504585624">
+    <ns0:ele>55.6171875</ns0:ele>
+    <ns0:time>2024-11-03T07:47:19Z</ns0:time>
+    <ns0:name>! SLOW HORSES  -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T07:47:19Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.912537442520261" lon="16.421313397586346">
+    <ns0:ele>39.89453125</ns0:ele>
+    <ns0:time>2025-07-28T03:25:12Z</ns0:time>
+    <ns0:name>! SLOW Horses and Kids -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T03:25:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.165347795933485" lon="17.220136094838381">
+    <ns0:ele>43.140625</ns0:ele>
+    <ns0:time>2025-03-31T05:50:10Z</ns0:time>
+    <ns0:name>! SLOW HORSES AND KIDZ Lövviken -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-31T05:50:10Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.901520017534494" lon="14.868428958579898">
+    <ns0:ele>111.5533052833558</ns0:ele>
+    <ns0:time>2025-07-27T16:56:32Z</ns0:time>
+    <ns0:name>! SLOW Horses askersund -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.913968987762928" lon="15.370202036574483">
+    <ns0:ele>103.56528101475999</ns0:ele>
+    <ns0:time>2025-07-27T16:56:32Z</ns0:time>
+    <ns0:name>! SLOW horses herrgarden -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.238871587440372" lon="16.918528731912374">
+    <ns0:ele>38</ns0:ele>
+    <ns0:time>2025-07-27T16:56:35Z</ns0:time>
+    <ns0:name>! Stay on track, closed roads     -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.237281540408731" lon="16.903788819909096">
+    <ns0:ele>43.37890625</ns0:ele>
+    <ns0:time>2025-07-27T16:56:35Z</ns0:time>
+    <ns0:name>! Stay on track, closed roads    -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.236334972083569" lon="16.871037958189845">
+    <ns0:ele>40.505957630514459</ns0:ele>
+    <ns0:time>2025-07-27T16:56:35Z</ns0:time>
+    <ns0:name>! Stay on track, closed roads   -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.234234970062971" lon="16.841127974912524">
+    <ns0:ele>40.505957630514459</ns0:ele>
+    <ns0:time>2025-07-27T16:56:35Z</ns0:time>
+    <ns0:name>! Stay on track, closed roads  -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.232489019632339" lon="16.833581998944283">
+    <ns0:ele>40.505957630514459</ns0:ele>
+    <ns0:time>2025-07-27T16:56:35Z</ns0:time>
+    <ns0:name>! Stay on track, closed roads -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.233271973207593" lon="16.823046030476689">
+    <ns0:ele>40.505957630514459</ns0:ele>
+    <ns0:time>2025-07-27T16:56:35Z</ns0:time>
+    <ns0:name>! ZOOM IN and don't miss track -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.892853297293186" lon="15.431113326922059">
+    <ns0:ele>128.40000000000001</ns0:ele>
+    <ns0:time>2025-07-27T16:56:27Z</ns0:time>
+    <ns0:name>Cafe Ice cream homemade Goooood -S13</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:27Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.845194969326258" lon="16.404858296737075">
+    <ns0:ele>47.075984858454177</ns0:ele>
+    <ns0:time>2025-07-27T16:56:20Z</ns0:time>
+    <ns0:name>Cafe Āngby gårdsbutik - BankID -S13</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:20Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.416091591119766" lon="14.993531797081232">
+    <ns0:ele>260.75324356199911</ns0:ele>
+    <ns0:time>2024-09-21T06:43:55Z</ns0:time>
+    <ns0:name>Camp Area Skrikarboda Nice -S19</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:43:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.837542207911611" lon="15.319797629490495">
+    <ns0:ele>116.68359375</ns0:ele>
+    <ns0:time>2024-08-13T08:53:16Z</ns0:time>
+    <ns0:name>Camp Bergön -S13</ns0:name>
+    <ns0:cmt>58.8377980,15.3203440</ns0:cmt>
+    <ns0:desc>58.8377980,15.3203440</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-13T08:53:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.39638682641089" lon="14.994426649063826">
+    <ns0:ele>259.81640625</ns0:ele>
+    <ns0:time>2024-09-12T12:36:34Z</ns0:time>
+    <ns0:name>Camp Blankhult  -S19</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3244</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3244</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3244" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-12T12:36:34Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.200130011886358" lon="17.073991326615214">
+    <ns0:ele>68.8125</ns0:ele>
+    <ns0:time>2024-08-13T09:03:35Z</ns0:time>
+    <ns0:name>Camp Bredsjön -S12</ns0:name>
+    <ns0:cmt>59.2001270,17.0740520</ns0:cmt>
+    <ns0:desc>59.2001270,17.0740520</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-13T09:03:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.762844447046518" lon="16.25136318616569">
+    <ns0:ele>93.299999999999997</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Camp Brevik -S13</ns0:name>
+    <ns0:cmt>58.7629170,16.2513610</ns0:cmt>
+    <ns0:desc>58.7629170,16.2513610</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.248248087242246" lon="16.453803079202771">
+    <ns0:ele>72.199996948242188</ns0:ele>
+    <ns0:time>2024-11-03T07:28:25Z</ns0:time>
+    <ns0:name>Camp Bälgvikens SteamBoat Place -S13</ns0:name>
+    <ns0:cmt>Not made for camping but OK, small shelter and firepit. nice place to rest,</ns0:cmt>
+    <ns0:desc>Not made for camping but OK, small shelter and firepit. nice place to rest,</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T07:28:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.889412023127079" lon="15.622665965929627">
+    <ns0:ele>92.200000000000003</ns0:ele>
+    <ns0:time>2025-07-27T16:56:24Z</ns0:time>
+    <ns0:name>Camp Cute small WC Table -S13</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:24Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.832607362419367" lon="16.349380491301417">
+    <ns0:ele>48.399999999999999</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Camp Fagerö -S13</ns0:name>
+    <ns0:cmt>58.8326410,16.3493670</ns0:cmt>
+    <ns0:desc>58.8326410,16.3493670</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.207441378384829" lon="16.960758436471224">
+    <ns0:ele>79</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Camp Finnsjön -S12</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3393</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3393</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.207441378384829" lon="16.960758436471224">
+    <ns0:ele>79</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Camp Finnsjön -S13</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3393</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3393</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.207441378384829" lon="16.960758436471224">
+    <ns0:ele>79</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Camp Finnsjön -S20</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3393</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3393</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.228165550157428" lon="14.739160649478436">
+    <ns0:ele>173.484375</ns0:ele>
+    <ns0:time>2024-09-12T12:43:54Z</ns0:time>
+    <ns0:name>Camp Fårhagen  -S19</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3450</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3450</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3450" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-12T12:43:54Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.984916098415852" lon="14.823765652254224">
+    <ns0:ele>137.125</ns0:ele>
+    <ns0:time>2024-08-13T08:48:08Z</ns0:time>
+    <ns0:name>Camp Gallabergssjön -S13</ns0:name>
+    <ns0:cmt>58.9848889,14.8236667</ns0:cmt>
+    <ns0:desc>58.9848889,14.8236667</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-13T08:48:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.941157259047031" lon="15.564260696992278">
+    <ns0:ele>146.71000000000001</ns0:ele>
+    <ns0:time>2025-09-03T15:20:16Z</ns0:time>
+    <ns0:name>Camp Glimmingen -S24</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T15:20:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.203298538923264" lon="17.111023915931582">
+    <ns0:time>2024-06-11T08:44:35Z</ns0:time>
+    <ns0:name>Camp Holmsjön  -S12</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/9768</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/9768</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-06-11T08:44:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.322521639987826" lon="15.034238342195749">
+    <ns0:ele>48.164595430250017</ns0:ele>
+    <ns0:time>2025-10-27T08:18:01Z</ns0:time>
+    <ns0:name>Camp Hut Fireplace nice view</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-10-27T08:18:01Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.201136259362102" lon="16.56691761687398">
+    <ns0:ele>60.26171875</ns0:ele>
+    <ns0:time>2024-08-13T09:08:02Z</ns0:time>
+    <ns0:name>Camp Hällaren -S13</ns0:name>
+    <ns0:cmt>59.2005120,16.5664020</ns0:cmt>
+    <ns0:desc>59.2005120,16.5664020</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-13T09:08:02Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.405532440170646" lon="15.531316800042987">
+    <ns0:ele>103.81</ns0:ele>
+    <ns0:time>2025-09-03T09:09:20Z</ns0:time>
+    <ns0:name>Camp Kungsbron -S24</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T09:09:20Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.057028293609619" lon="16.276073455810547">
+    <ns0:ele>78.9296875</ns0:ele>
+    <ns0:time>2025-07-28T03:06:39Z</ns0:time>
+    <ns0:name>Camp Lake Fire Shelter -S13</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3600</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3600</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3600" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T03:06:39Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.527996823191643" lon="15.700963670387864">
+    <ns0:ele>172.41</ns0:ele>
+    <ns0:time>2025-09-03T09:56:29Z</ns0:time>
+    <ns0:name>Camp Lönneberga naturcamping -S24</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T09:56:29Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.625236203894019" lon="15.591642279177904">
+    <ns0:ele>122.2</ns0:ele>
+    <ns0:time>2025-09-03T12:25:56Z</ns0:time>
+    <ns0:name>Camp Mariannelund vindskydd -S24</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T12:25:56Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.187925290316343" lon="17.167584495618939">
+    <ns0:ele>6.058451381522396</ns0:ele>
+    <ns0:time>2024-11-03T07:28:22Z</ns0:time>
+    <ns0:name>Camp Marvikarna -S12</ns0:name>
+    <ns0:cmt>Firepit, Firewood, benches</ns0:cmt>
+    <ns0:desc>Firepit, Firewood, benches</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T07:28:22Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.255533218383789" lon="14.648637771606445">
+    <ns0:ele>162.1875</ns0:ele>
+    <ns0:time>2024-09-12T12:45:47Z</ns0:time>
+    <ns0:name>Camp Mellanämten  -S19</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/4060</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/4060</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4060" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Lekebergs kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Lekebergs kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-12T12:45:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.807103326544166" lon="15.898846825584769">
+    <ns0:ele>64</ns0:ele>
+    <ns0:time>2024-08-13T08:45:45Z</ns0:time>
+    <ns0:name>Camp Målstorp -S13</ns0:name>
+    <ns0:cmt>58.8069611,15.8989944</ns0:cmt>
+    <ns0:desc>58.8069611,15.8989944</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-13T08:45:45Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.228857224807143" lon="14.736286327242851">
+    <ns0:ele>184.0625</ns0:ele>
+    <ns0:time>2024-09-12T12:44:29Z</ns0:time>
+    <ns0:name>Camp Nedre tältängen  -S19</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3414</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3414</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3414" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-12T12:44:29Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.183860067278147" lon="17.353023709729314">
+    <ns0:ele>48.69921875</ns0:ele>
+    <ns0:time>2025-04-08T19:01:57Z</ns0:time>
+    <ns0:name>Camp NillePilles Secret Camp - TET Favorite -S12</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-04-08T19:01:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.214393999427557" lon="16.935712639242411">
+    <ns0:ele>49.703125</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Camp Porsuddebadet -S12</ns0:name>
+    <ns0:cmt>Tens, Hammock, Firepits, Table, Toilet, Nice Swim</ns0:cmt>
+    <ns0:desc>Tens, Hammock, Firepits, Table, Toilet, Nice Swim</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.214393999427557" lon="16.935712639242411">
+    <ns0:ele>49.703125</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Camp Porsuddebadet -S13</ns0:name>
+    <ns0:cmt>Tens, Hammock, Firepits, Table, Toilet, Nice Swim</ns0:cmt>
+    <ns0:desc>Tens, Hammock, Firepits, Table, Toilet, Nice Swim</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.214393999427557" lon="16.935712639242411">
+    <ns0:ele>49.703125</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Camp Porsuddebadet -S20</ns0:name>
+    <ns0:cmt>Tens, Hammock, Firepits, Table, Toilet, Nice Swim</ns0:cmt>
+    <ns0:desc>Tens, Hammock, Firepits, Table, Toilet, Nice Swim</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.22823310829699" lon="17.095570703968406">
+    <ns0:time>2024-08-18T20:14:13Z</ns0:time>
+    <ns0:name>Camp Samdvik -S12</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-18T20:14:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.229242959991097" lon="14.731593132019043">
+    <ns0:ele>177.23828125</ns0:ele>
+    <ns0:time>2025-10-27T09:25:26Z</ns0:time>
+    <ns0:name>Camp Shelter Lillsjön Bäcken</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3437</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3437</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-10-27T09:25:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.230341911315918" lon="14.730048179626465">
+    <ns0:ele>178.6328125</ns0:ele>
+    <ns0:time>2025-10-27T09:23:15Z</ns0:time>
+    <ns0:name>Camp Shelter Lillsjön dammen</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3379</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3379</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-10-27T09:23:15Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.860739963129163" lon="15.116125009953976">
+    <ns0:ele>173.34943166883971</ns0:ele>
+    <ns0:time>2025-07-27T16:56:27Z</ns0:time>
+    <ns0:name>Camp simple Lake -S13</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:27Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.182233810424805" lon="17.13693380355835">
+    <ns0:ele>65.43359375</ns0:ele>
+    <ns0:time>2024-11-03T07:59:24Z</ns0:time>
+    <ns0:name>Camp Skottvång Öst -S12</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3346</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3346</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3346" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Gnesta kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Gnesta kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T07:59:24Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.182233810424805" lon="17.135388851165771">
+    <ns0:ele>68.96484375</ns0:ele>
+    <ns0:time>2024-11-03T08:00:07Z</ns0:time>
+    <ns0:name>Camp Skottvångs -S12</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/4140</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/4140</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4140" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Gnesta kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Gnesta kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T08:00:07Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.801467418670654" lon="15.370237827301025">
+    <ns0:ele>124.734375</ns0:ele>
+    <ns0:time>2024-08-13T08:52:04Z</ns0:time>
+    <ns0:name>Camp Skönnarbosjön -S13</ns0:name>
+    <ns0:cmt>58.8014630,15.3702370</ns0:cmt>
+    <ns0:desc>58.8014630,15.3702370</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Motala kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Motala kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-13T08:52:04Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.426229000091553" lon="15.030884742736816">
+    <ns0:ele>218.69921875</ns0:ele>
+    <ns0:time>2024-09-12T12:33:06Z</ns0:time>
+    <ns0:name>Camp Stakadammen -S19</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3002</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3002</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3002" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Örebro kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Örebro kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-12T12:33:06Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.297289848327637" lon="14.892997741699219">
+    <ns0:ele>209.359375</ns0:ele>
+    <ns0:time>2024-09-12T12:41:28Z</ns0:time>
+    <ns0:name>Camp Suttarboda -S19</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3402</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3402</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3402" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Örebro kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Örebro kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-12T12:41:28Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.830855628475547" lon="16.347965709865093">
+    <ns0:ele>52.899999999999999</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Camp Swimming and WildCamping -S13</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.823665548115969" lon="15.884429281577468">
+    <ns0:ele>65.50390625</ns0:ele>
+    <ns0:time>2024-08-13T08:44:45Z</ns0:time>
+    <ns0:name>Camp Udde vid Östjuten -S13</ns0:name>
+    <ns0:cmt>Trickey to wakt out but worth it
+Toilet where you need to park your bike
+Shelter is half destroid but works for gear.
+Camping is amazing for bote tent and hammock
+There is a firepit</ns0:cmt>
+    <ns0:desc>Trickey to wakt out but worth it
+Toilet where you need to park your bike
+Shelter is half destroid but works for gear.
+Camping is amazing for bote tent and hammock
+There is a firepit</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-13T08:44:45Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.250533580780029" lon="14.645290374755859">
+    <ns0:ele>165.03515625</ns0:ele>
+    <ns0:time>2024-09-12T12:46:57Z</ns0:time>
+    <ns0:name>Camp Ugglehöjden  -S19</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/4057</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/4057</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4057" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Lekebergs kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Lekebergs kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-12T12:46:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.251112937927246" lon="14.643251895904541">
+    <ns0:ele>167.9609375</ns0:ele>
+    <ns0:time>2024-09-12T12:47:01Z</ns0:time>
+    <ns0:name>Camp Ugglehöjden -S19</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/4049</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/4049</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4049" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Lekebergs kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Lekebergs kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-12T12:47:01Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.415714740753174" lon="15.048887729644775">
+    <ns0:ele>175.82421875</ns0:ele>
+    <ns0:time>2024-09-12T12:34:06Z</ns0:time>
+    <ns0:name>Camp Vinterhagen  -S19</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3548</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3548</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3548" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Örebro kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Örebro kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-12T12:34:06Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.212427018210292" lon="17.070436477661133">
+    <ns0:ele>71.79296875</ns0:ele>
+    <ns0:time>2024-08-13T09:04:32Z</ns0:time>
+    <ns0:name>Camp Åkers styckebruk -S12</ns0:name>
+    <ns0:cmt>59.2124860,17.0704700</ns0:cmt>
+    <ns0:desc>59.2124860,17.0704700</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-13T09:04:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.337309831753373" lon="14.93597561493516">
+    <ns0:time>2024-09-21T10:03:51Z</ns0:time>
+    <ns0:name>Camp Ånnaboda -S19</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T10:03:51Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.296130044385791" lon="17.922958005219698">
+    <ns0:time>2024-10-17T10:54:11Z</ns0:time>
+    <ns0:name>Camping Bredäng -S12</ns0:name>
+    <ns0:cmt>TENT AND CABINS</ns0:cmt>
+    <ns0:desc>TENT AND CABINS</ns0:desc>
+    <ns0:link href="http://www.bredangcamping.se/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:PhoneNumber>+46 8 97 70 71</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:PhoneNumber>+46 8 97 70 71</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-17T10:54:11Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.23300358466804" lon="17.890016455203295">
+    <ns0:time>2024-10-17T10:49:36Z</ns0:time>
+    <ns0:name>Camping Flottsbro -S12</ns0:name>
+    <ns0:cmt>TENTS AND CABINS</ns0:cmt>
+    <ns0:desc>TENTS AND CABINS</ns0:desc>
+    <ns0:link href="https://www.flottsbro.se/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Häggstavägen 20</ns1:StreetAddress>
+        </ns1:Address>
+        <ns1:PhoneNumber>+46 8 535 327 00</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Häggstavägen 20</ns2:StreetAddress>
+        </ns2:Address>
+        <ns2:PhoneNumber>+46 8 535 327 00</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-17T10:49:36Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.501690017059445" lon="18.04769086651504">
+    <ns0:time>2024-10-17T11:04:54Z</ns0:time>
+    <ns0:name>Camping Nygards - PREBOOK NEEDED -S12</ns0:name>
+    <ns0:cmt>TENT AND CABINS
+
+camp-nygard@telia.com</ns0:cmt>
+    <ns0:desc>TENT AND CABINS
+
+camp-nygard@telia.com</ns0:desc>
+    <ns0:link href="https://www.camp-nygard.se/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:PhoneNumber>0046 73 0506192</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:PhoneNumber>0046 73 0506192</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-17T11:04:54Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.438708228990436" lon="17.992047099396586">
+    <ns0:time>2024-10-17T10:44:34Z</ns0:time>
+    <ns0:name>Camping Rösjöbaden -S12</ns0:name>
+    <ns0:cmt>TENT AND CABINS
+Rösjötorp 1, Sollentuna</ns0:cmt>
+    <ns0:desc>TENT AND CABINS
+Rösjötorp 1, Sollentuna</ns0:desc>
+    <ns0:link href="https://rosjobaden.se/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:PhoneNumber>+46 8 96 21 84</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:PhoneNumber>+46 8 96 21 84</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-17T10:44:34Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.248173236846924" lon="18.16164493560791">
+    <ns0:time>2024-10-17T10:40:17Z</ns0:time>
+    <ns0:name>Camping Stockholm - First Camp Easy  -S12</ns0:name>
+    <ns0:cmt>TENT AND CABINS
+
+Flatens Skogsväg 30, 13831 Älta
+
+Stockholm blivit en First Camp Easy</ns0:cmt>
+    <ns0:desc>TENT AND CABINS
+
+Flatens Skogsväg 30, 13831 Älta
+
+Stockholm blivit en First Camp Easy</ns0:desc>
+    <ns0:link href="https://firstcamp.se/destinationer/city-stockholm" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Flatens Skogsväg 30</ns1:StreetAddress>
+          <ns1:City>Orhem</ns1:City>
+          <ns1:State>Stockholms län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>128 30</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>087730100</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Flatens Skogsväg 30</ns2:StreetAddress>
+          <ns2:City>Orhem</ns2:City>
+          <ns2:State>Stockholms län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>128 30</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>087730100</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-17T10:40:17Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.90593552030623" lon="17.959093227982521">
+    <ns0:time>2024-11-03T21:35:31Z</ns0:time>
+    <ns0:name>Ferry to Poland -S12</ns0:name>
+    <ns0:sym>Ferry</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T21:35:31Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.252271736040711" lon="14.82474172487855">
+    <ns0:ele>123.65126541252017</ns0:ele>
+    <ns0:time>2024-09-21T06:43:55Z</ns0:time>
+    <ns0:name>Food (Real food) Lekhyttan -S19</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:43:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.520385265350342" lon="15.027709007263184">
+    <ns0:time>2024-09-21T09:55:13Z</ns0:time>
+    <ns0:name>Food Amazing Beer Bryggerikrogen -S19</ns0:name>
+    <ns0:cmt>Bryggerikrogen</ns0:cmt>
+    <ns0:desc>Bryggerikrogen</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Prästgatan 42</ns1:StreetAddress>
+          <ns1:City>Nora</ns1:City>
+          <ns1:State>Örebro län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>713 31</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>058710340</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Prästgatan 42</ns2:StreetAddress>
+          <ns2:City>Nora</ns2:City>
+          <ns2:State>Örebro län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>713 31</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>058710340</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T09:55:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.999869916588068" lon="16.229797890409827">
+    <ns0:ele>53.299999999999997</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Food Claudias Kök -S13</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.706658789888024" lon="15.771493697538972">
+    <ns0:ele>42.329999999999998</ns0:ele>
+    <ns0:time>2025-09-04T09:19:34Z</ns0:time>
+    <ns0:name>Food Finspång -S25</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-04T09:19:34Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.622304884716868" lon="15.595192685723305">
+    <ns0:ele>121.95</ns0:ele>
+    <ns0:time>2025-09-03T12:24:47Z</ns0:time>
+    <ns0:name>Food Mariannelund -S24</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T12:24:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.895108699798584" lon="15.432829856872559">
+    <ns0:ele>95</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Food Mixen -S13</ns0:name>
+    <ns0:cmt>Restaurang Mixen</ns0:cmt>
+    <ns0:desc>Restaurang Mixen</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.301038905978203" lon="18.081852486357093">
+    <ns0:time>2024-08-15T06:43:18Z</ns0:time>
+    <ns0:name>Food Rapido MCK (Bike Club with Cafe and food, nice hangout) -S12</ns0:name>
+    <ns0:cmt>Skansbacken 2
+120 30, Södra Hammarbyhamnen, Stockholms län, SWE
+
+https://maps.app.goo.gl/FyChw9wfJYsbMpQ26</ns0:cmt>
+    <ns0:desc>Skansbacken 2
+120 30, Södra Hammarbyhamnen, Stockholms län, SWE
+
+https://maps.app.goo.gl/FyChw9wfJYsbMpQ26</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/FyChw9wfJYsbMpQ26" />
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Skansbacken 2</ns1:StreetAddress>
+          <ns1:City>Södra Hammarbyhamnen</ns1:City>
+          <ns1:State>Stockholms län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>120 30</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Skansbacken 2</ns2:StreetAddress>
+          <ns2:City>Södra Hammarbyhamnen</ns2:City>
+          <ns2:State>Stockholms län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>120 30</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-15T06:43:18Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.490317821502686" lon="15.022001266479492">
+    <ns0:time>2025-08-02T08:19:14Z</ns0:time>
+    <ns0:name>Food Restaurang Napoli -S26</ns0:name>
+    <ns0:cmt>Restaurang Napoli</ns0:cmt>
+    <ns0:desc>Restaurang Napoli</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Ekenässjön</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Ekenässjön</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T08:19:14Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.139845855534077" lon="17.832744922488928">
+    <ns0:time>2024-08-14T14:41:40Z</ns0:time>
+    <ns0:name>Food Rosenhill (Swedens Nr1 Biker Cafe)  -S12</ns0:name>
+    <ns0:cmt>Rosenhill 20
+147 91, Botkyrka, Stockholms län, SWE</ns0:cmt>
+    <ns0:desc>Rosenhill 20
+147 91, Botkyrka, Stockholms län, SWE</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Rosenhill 20</ns1:StreetAddress>
+          <ns1:City>Botkyrka</ns1:City>
+          <ns1:State>Stockholms län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>147 91</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Rosenhill 20</ns2:StreetAddress>
+          <ns2:City>Botkyrka</ns2:City>
+          <ns2:State>Stockholms län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>147 91</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-14T14:41:40Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.181246757507324" lon="17.13517427444458">
+    <ns0:ele>68.9609375</ns0:ele>
+    <ns0:time>2024-11-03T07:56:50Z</ns0:time>
+    <ns0:name>Food Skottvångs Gruva  -S12</ns0:name>
+    <ns0:cmt>Skottvångs Gruva</ns0:cmt>
+    <ns0:desc>Skottvångs Gruva</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Gnesta kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Gnesta kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T07:56:50Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.31799041852355" lon="15.583388702943921">
+    <ns0:ele>121.87</ns0:ele>
+    <ns0:time>2025-09-03T07:54:05Z</ns0:time>
+    <ns0:name>Food Virserum -S24</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T07:54:05Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.278862485662103" lon="17.06254399381578">
+    <ns0:ele>21.9296875</ns0:ele>
+    <ns0:time>2025-03-31T06:00:47Z</ns0:time>
+    <ns0:name>Fun Bajjen Barn Pee Break -S20</ns0:name>
+    <ns0:cmt>classic stop for a piss</ns0:cmt>
+    <ns0:desc>classic stop for a piss</ns0:desc>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-31T06:00:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.779686959460378" lon="16.205644346773624">
+    <ns0:ele>87.4453125</ns0:ele>
+    <ns0:time>2024-11-03T07:28:25Z</ns0:time>
+    <ns0:name>Fun Big Smile Gravel Section =) -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T07:28:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.786262478679419" lon="16.197693860158324">
+    <ns0:ele>75.43359375</ns0:ele>
+    <ns0:time>2024-11-03T07:28:25Z</ns0:time>
+    <ns0:name>Fun Big Smile Gravel Section =) 1 -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T07:28:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.793053915724158" lon="16.198890041559935">
+    <ns0:ele>90.515625</ns0:ele>
+    <ns0:time>2024-11-03T07:28:25Z</ns0:time>
+    <ns0:name>Fun Big Smile Gravel Section =) 2 -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T07:28:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.796718986704946" lon="16.210006456822157">
+    <ns0:ele>85.3359375</ns0:ele>
+    <ns0:time>2024-11-03T07:28:25Z</ns0:time>
+    <ns0:name>Fun Big Smile Gravel Section =) 3 -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T07:28:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.792380010709167" lon="16.226258967071772">
+    <ns0:ele>103.52734375</ns0:ele>
+    <ns0:time>2024-11-03T07:28:25Z</ns0:time>
+    <ns0:name>Fun Big Smile Gravel Section =) 4 -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T07:28:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.84551951661706" lon="15.912265498191118">
+    <ns0:ele>70</ns0:ele>
+    <ns0:time>2024-10-01T11:39:35Z</ns0:time>
+    <ns0:name>Fun DUMP ROAD FUN -  Sign in one direction -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-01T11:39:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.840309241786599" lon="15.915009398013353">
+    <ns0:ele>73.12890625</ns0:ele>
+    <ns0:time>2024-10-01T11:39:35Z</ns0:time>
+    <ns0:name>Fun DUMP ROAD FUN - Sign in one direction -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-01T11:39:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.239675998687744" lon="16.931242989376187">
+    <ns0:ele>40.505957630514459</ns0:ele>
+    <ns0:time>2025-07-27T16:56:35Z</ns0:time>
+    <ns0:name>Fun Nice wash -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.12384832277894" lon="17.904155217111111">
+    <ns0:time>2024-08-15T06:38:18Z</ns0:time>
+    <ns0:name>Fun Slingerbulten (Swedens most infamus road for fast bikes, several deathsa year)  -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-15T06:38:18Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.122452735900879" lon="17.851152420043945">
+    <ns0:time>2024-08-15T06:38:18Z</ns0:time>
+    <ns0:name>Fun Slingerbulten (Swedens most infamus road for fast bikes, several deathsa year) -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-15T06:38:18Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.88639529235661" lon="15.590540478006005">
+    <ns0:ele>89.59765625</ns0:ele>
+    <ns0:time>2025-07-28T03:46:02Z</ns0:time>
+    <ns0:name>Fun Small Bikes - Only for the brave   -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T03:46:02Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.887835303321481" lon="15.589998671784997">
+    <ns0:ele>82.9296875</ns0:ele>
+    <ns0:time>2025-07-28T03:46:02Z</ns0:time>
+    <ns0:name>Fun Small Bikes - Only for the brave  -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T03:46:02Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.885720297694206" lon="15.587273882701993">
+    <ns0:ele>97</ns0:ele>
+    <ns0:time>2025-07-28T03:46:02Z</ns0:time>
+    <ns0:name>Fun Small Bikes - Only for the brave -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T03:46:02Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.913026694208384" lon="15.329543352127075">
+    <ns0:ele>119.61602026576492</ns0:ele>
+    <ns0:time>2025-07-27T16:56:32Z</ns0:time>
+    <ns0:name>Fun Sticker Street :) -S13</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.313043300062418" lon="18.082447098568082">
+    <ns0:ele>41.9453125</ns0:ele>
+    <ns0:time>2025-07-28T06:05:10Z</ns0:time>
+    <ns0:name>Garage Tyres - Däckia Södermalm -S12</ns0:name>
+    <ns0:cmt>Kenta and Crippa will help you out, preebook tyres day before, just call them.</ns0:cmt>
+    <ns0:desc>Kenta and Crippa will help you out, preebook tyres day before, just call them.</ns0:desc>
+    <ns0:sym>ATV</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Nytorgsgatan 31</ns1:StreetAddress>
+          <ns1:City>Södermalms Stadsdelsområde</ns1:City>
+          <ns1:State>Stockholm County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+        <ns1:PhoneNumber>086434002</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Nytorgsgatan 31</ns2:StreetAddress>
+          <ns2:City>Södermalms Stadsdelsområde</ns2:City>
+          <ns2:State>Stockholm County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+        <ns2:PhoneNumber>086434002</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T06:05:10Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.144560089334846" lon="18.108384981751442">
+    <ns0:ele>48.80078125</ns0:ele>
+    <ns0:time>2025-07-02T06:12:23Z</ns0:time>
+    <ns0:name>Garage Tyres - Ghostrider - Dackshopen -S12</ns0:name>
+    <ns0:cmt>Let a ledgend change your tyres...
+
+Patrick made his name under a Alias  long before Youtube, his Videos was pioneering internet at it's birth.
+His heart is with bikes and cars and still, mostly very fast bikes and cars.
+His Black Turbo Hiabusa probably has the most watch-minutes in the world.
+Ghost rider is a legend =) 
+</ns0:cmt>
+    <ns0:desc>Let a ledgend change your tyres...
+
+Patrick made his name under a Alias  long before Youtube, his Videos was pioneering internet at it's birth.
+His heart is with bikes and cars and still, mostly very fast bikes and cars.
+His Black Turbo Hiabusa probably has the most watch-minutes in the world.
+Ghost rider is a legend =) 
+</ns0:desc>
+    <ns0:link href="https://dackshopenstockholm.se/" />
+    <ns0:sym>ATV</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>RÖRVÄGEN 28</ns1:StreetAddress>
+          <ns1:City>Jordbro</ns1:City>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>RÖRVÄGEN 28</ns2:StreetAddress>
+          <ns2:City>Jordbro</ns2:City>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-02T06:12:23Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.503793239593506" lon="14.707839488983154">
+    <ns0:time>2025-08-02T07:46:57Z</ns0:time>
+    <ns0:name>Gas Bodafors -S26</ns0:name>
+    <ns0:cmt>Qstar: Qstar</ns0:cmt>
+    <ns0:desc>Qstar: Qstar</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Bodafors</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Bodafors</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T07:46:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.895331658422947" lon="15.431940034031868">
+    <ns0:ele>96.125204064296852</ns0:ele>
+    <ns0:time>2024-08-18T20:14:10Z</ns0:time>
+    <ns0:name>Gas HjortKvarn -S13</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-18T20:14:10Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.846483770757914" lon="15.698472736403346">
+    <ns0:ele>70.459999999999994</ns0:ele>
+    <ns0:time>2025-09-04T10:59:59Z</ns0:time>
+    <ns0:name>Gas Igelfors -S24</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-04T10:59:59Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.986280396580696" lon="15.631797211244702">
+    <ns0:ele>96.939999999999998</ns0:ele>
+    <ns0:time>2025-09-03T14:27:04Z</ns0:time>
+    <ns0:name>Gas Kinda -S24</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T14:27:04Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.985681533813477" lon="14.63604211807251">
+    <ns0:ele>104.09999999999999</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Gas Laxå -S02</ns0:name>
+    <ns0:cmt>Okq8: Okq8 (Okq8)</ns0:cmt>
+    <ns0:desc>Okq8: Okq8 (Okq8)</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.25253601744771" lon="14.824178293347359">
+    <ns0:ele>123.65118252527625</ns0:ele>
+    <ns0:time>2024-09-21T06:43:55Z</ns0:time>
+    <ns0:name>Gas Lekhyttan -S19</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:43:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.3782600145787" lon="15.68312999792397">
+    <ns0:ele>67.125</ns0:ele>
+    <ns0:time>2025-11-06T18:42:41Z</ns0:time>
+    <ns0:name>Gas Linköping -S24</ns0:name>
+    <ns0:cmt>N58.37826° E15.68313°</ns0:cmt>
+    <ns0:desc>N58.37826° E15.68313°</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-11-06T18:42:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.616875171661377" lon="15.582153797149658">
+    <ns0:time>2025-08-02T07:47:52Z</ns0:time>
+    <ns0:name>Gas Mariannelund -S26</ns0:name>
+    <ns0:cmt>Preem: Preem</ns0:cmt>
+    <ns0:desc>Preem: Preem</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Mariannelund</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Mariannelund</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T07:47:52Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.522509574890137" lon="15.03678560256958">
+    <ns0:time>2024-09-21T09:55:29Z</ns0:time>
+    <ns0:name>Gas Nora  -S19</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Bergslagsgatan 3</ns1:StreetAddress>
+          <ns1:City>Nora</ns1:City>
+          <ns1:State>Örebro län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>713 32</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>020656565</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Bergslagsgatan 3</ns2:StreetAddress>
+          <ns2:City>Nora</ns2:City>
+          <ns2:State>Örebro län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>713 32</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>020656565</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T09:55:29Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.839340209960937" lon="16.514575481414795">
+    <ns0:ele>31</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Gas Qstar BjärreWirre  -S13</ns0:name>
+    <ns0:cmt>Qstar</ns0:cmt>
+    <ns0:desc>Qstar</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.319172602146864" lon="15.581935783848166">
+    <ns0:ele>120.86</ns0:ele>
+    <ns0:time>2025-09-03T07:53:49Z</ns0:time>
+    <ns0:name>Gas Virserum -S24</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T07:53:49Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.507383041083813" lon="14.693750599399209">
+    <ns0:time>2025-08-02T08:05:11Z</ns0:time>
+    <ns0:name>Hostel B&amp;B Bodafors -S26</ns0:name>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T08:05:11Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.329605102539063" lon="18.075492382049561">
+    <ns0:ele>19.26953125</ns0:ele>
+    <ns0:time>2025-07-28T05:51:08Z</ns0:time>
+    <ns0:name>Hotel Grand Hôtel 5-star -S12</ns0:name>
+    <ns0:cmt>Intercontinental Hotels &amp; Resorts: Grand Hôtel</ns0:cmt>
+    <ns0:desc>Intercontinental Hotels &amp; Resorts: Grand Hôtel</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Norrmalms Stadsdelsområde</ns1:City>
+          <ns1:State>Stockholm County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Norrmalms Stadsdelsområde</ns2:City>
+          <ns2:State>Stockholm County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T05:51:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.51892614364624" lon="15.03929615020752">
+    <ns0:ele>101.453125</ns0:ele>
+    <ns0:time>2025-07-28T12:10:52Z</ns0:time>
+    <ns0:name>Hotel Nora Stadshotell Nice -S19</ns0:name>
+    <ns0:cmt>Nora Stadshotell</ns0:cmt>
+    <ns0:desc>Nora Stadshotell</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Nora Kommun</ns1:City>
+          <ns1:State>Örebro County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Nora Kommun</ns2:City>
+          <ns2:State>Örebro County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T12:10:52Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.402486337348819" lon="15.04414876922965">
+    <ns0:ele>146.765625</ns0:ele>
+    <ns0:time>2024-09-12T12:34:53Z</ns0:time>
+    <ns0:name>Hut's Kils Kolarkoja 2x2p  -S19</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/10175</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/10175</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/10175" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-12T12:34:53Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.346847431734204" lon="17.032971298322082">
+    <ns0:time>2024-08-18T20:14:13Z</ns0:time>
+    <ns0:name>MC Dealer Sulas MC -S20</ns0:name>
+    <ns0:sym>ATV</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-18T20:14:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.879531687125564" lon="15.022239983081818">
+    <ns0:ele>93.559781639236064</ns0:ele>
+    <ns0:time>2025-07-27T16:56:27Z</ns0:time>
+    <ns0:name>Rest Area -S13</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:27Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.224601732566953" lon="17.409143317490816">
+    <ns0:ele>43.5</ns0:ele>
+    <ns0:time>2024-09-01T05:43:23Z</ns0:time>
+    <ns0:name>Rest Area Big Tipi -S12</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-01T05:43:23Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.208009000867605" lon="14.847840825095773">
+    <ns0:ele>105.69999694824219</ns0:ele>
+    <ns0:time>2024-09-21T06:43:55Z</ns0:time>
+    <ns0:name>Rest Area Brohyttan  -S19</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:43:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.231350421905518" lon="17.033464908599854">
+    <ns0:ele>57</ns0:ele>
+    <ns0:time>2024-11-03T14:31:59Z</ns0:time>
+    <ns0:name>Rest Area Ugly Large Shelter -S12</ns0:name>
+    <ns0:cmt>Shelter</ns0:cmt>
+    <ns0:desc>Shelter</ns0:desc>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T14:31:59Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.338161684572697" lon="14.940383322536945">
+    <ns0:ele>281.80001831054687</ns0:ele>
+    <ns0:time>2024-09-21T06:43:55Z</ns0:time>
+    <ns0:name>Rest Area Ånnaboda  -S19</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:43:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.907318115234375" lon="15.201151371002197">
+    <ns0:ele>149.625</ns0:ele>
+    <ns0:time>2025-07-28T03:52:56Z</ns0:time>
+    <ns0:name>Rest BonnaFest (Krogensomintefinns) -S13</ns0:name>
+    <ns0:cmt>Krogensomintefinns</ns0:cmt>
+    <ns0:desc>Krogensomintefinns</ns0:desc>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Askersunds Kommun</ns1:City>
+          <ns1:State>Örebro County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Askersunds Kommun</ns2:City>
+          <ns2:State>Örebro County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T03:52:56Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.804995026439428" lon="16.255054995417595">
+    <ns0:ele>69.70838997124028</ns0:ele>
+    <ns0:time>2025-07-27T16:56:24Z</ns0:time>
+    <ns0:name>Rest large shelter -S13</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:24Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.955278275534511" lon="16.323709990829229">
+    <ns0:ele>23.300000000000001</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Rest Shelter -S13</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.094283003360033" lon="16.201749024912715">
+    <ns0:ele>66.470193266823003</ns0:ele>
+    <ns0:time>2025-07-27T16:56:32Z</ns0:time>
+    <ns0:name>Rest shelter grill -S13</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.53767448477447" lon="15.683252373710275">
+    <ns0:ele>196.31999999999999</ns0:ele>
+    <ns0:time>2025-09-03T10:02:44Z</ns0:time>
+    <ns0:name>Restarea Backefall -S24</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T10:02:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.508879965171218" lon="15.323569988831878">
+    <ns0:ele>237.80078125</ns0:ele>
+    <ns0:time>2025-11-06T19:00:36Z</ns0:time>
+    <ns0:name>Restarea Fagerhultasjön -S26</ns0:name>
+    <ns0:cmt>N57.50888° E15.32357°</ns0:cmt>
+    <ns0:desc>N57.50888° E15.32357°</ns0:desc>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-11-06T19:00:36Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.97700397670269" lon="15.597853437066078">
+    <ns0:ele>110.09999999999999</ns0:ele>
+    <ns0:time>2025-09-03T15:11:25Z</ns0:time>
+    <ns0:name>Restarea Fölingen -S24</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T15:11:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.942004334181547" lon="15.570242609828711">
+    <ns0:ele>150.69999999999999</ns0:ele>
+    <ns0:time>2025-09-03T15:17:27Z</ns0:time>
+    <ns0:name>Restarea Glimmingen S24</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T15:17:27Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.6897909399122" lon="15.561425937339664">
+    <ns0:ele>169.21000000000001</ns0:ele>
+    <ns0:time>2025-09-03T12:42:40Z</ns0:time>
+    <ns0:name>Restarea Katthult -S24</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T12:42:40Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.508287807926536" lon="16.031913980841637">
+    <ns0:ele>32.460000000000001</ns0:ele>
+    <ns0:time>2025-09-04T07:26:48Z</ns0:time>
+    <ns0:name>Restarea Skörtinge -S24</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-04T07:26:48Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.371455501765013" lon="15.626936964690685">
+    <ns0:ele>83.629999999999995</ns0:ele>
+    <ns0:time>2025-09-04T06:13:39Z</ns0:time>
+    <ns0:name>Restarea Tinner -S24</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-04T06:13:39Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.805795917287469" lon="15.872217938303947">
+    <ns0:ele>71.760000000000005</ns0:ele>
+    <ns0:time>2025-09-04T10:39:48Z</ns0:time>
+    <ns0:name>Restarea Östjuten -S24</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-04T10:39:48Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.893969096243382" lon="15.431789578869939">
+    <ns0:ele>98.299999999999997</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Shop 24/7 Hjortkvarn BankID -S13</ns0:name>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.089068369939923" lon="16.214906685054302">
+    <ns0:ele>49.882350039583699</ns0:ele>
+    <ns0:time>2025-07-27T16:56:20Z</ns0:time>
+    <ns0:name>Shop 25/7 - BankID -S13</ns0:name>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:20Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.006645679473877" lon="16.235947608947754">
+    <ns0:ele>45.299999999999997</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Shop Biltema -S13</ns0:name>
+    <ns0:cmt>Biltema: Biltema</ns0:cmt>
+    <ns0:desc>Biltema: Biltema</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.492163181304932" lon="15.020692348480225">
+    <ns0:time>2025-08-02T08:18:35Z</ns0:time>
+    <ns0:name>Shop Ekenässjön -S26</ns0:name>
+    <ns0:cmt>Coop Konsum</ns0:cmt>
+    <ns0:desc>Coop Konsum</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Ekenässjön</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Ekenässjön</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T08:18:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.705729069188237" lon="15.767706669867039">
+    <ns0:ele>45.32</ns0:ele>
+    <ns0:time>2025-09-04T09:18:31Z</ns0:time>
+    <ns0:name>Shop Finspång -S24</ns0:name>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-04T09:18:31Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.847035216167569" lon="15.698030171915889">
+    <ns0:ele>71.219999999999999</ns0:ele>
+    <ns0:time>2025-09-04T11:00:05Z</ns0:time>
+    <ns0:name>Shop Igelfors -S24</ns0:name>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-04T11:00:05Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.373391889035702" lon="15.670116422697902">
+    <ns0:ele>68.700000000000003</ns0:ele>
+    <ns0:time>2025-09-04T06:18:23Z</ns0:time>
+    <ns0:name>Shop Linköping -S24</ns0:name>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-04T06:18:23Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.707418441772461" lon="15.774591565132141">
+    <ns0:ele>37.05078125</ns0:ele>
+    <ns0:time>2025-09-27T18:13:57Z</ns0:time>
+    <ns0:name>Shop Systembolage Finspång -S24</ns0:name>
+    <ns0:cmt>Systembolaget</ns0:cmt>
+    <ns0:desc>Systembolaget</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>9 Bergslagsvägen</ns1:StreetAddress>
+          <ns1:City>Finspång</ns1:City>
+          <ns1:State>Östergötlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>612 30</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>012216724</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>9 Bergslagsvägen</ns2:StreetAddress>
+          <ns2:City>Finspång</ns2:City>
+          <ns2:State>Östergötlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>612 30</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>012216724</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T18:13:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.845194969326258" lon="16.404858296737075">
+    <ns0:ele>47.075984858454177</ns0:ele>
+    <ns0:time>2025-07-27T16:56:20Z</ns0:time>
+    <ns0:name>Shop Āngby gårdsbutik - BankID -S13</ns0:name>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:20Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.380054831504822" lon="15.681540369987488">
+    <ns0:ele>67</ns0:ele>
+    <ns0:time>2025-12-19T05:59:47Z</ns0:time>
+    <ns0:name>Systembolage Linköping -S24</ns0:name>
+    <ns0:cmt>Systembolaget</ns0:cmt>
+    <ns0:desc>Systembolaget</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Ekholmens centrum</ns1:StreetAddress>
+          <ns1:City>Linköping</ns1:City>
+          <ns1:State>Östergötlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>589 25</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>013151215</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Ekholmens centrum</ns2:StreetAddress>
+          <ns2:City>Linköping</ns2:City>
+          <ns2:State>Östergötlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>589 25</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>013151215</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-12-19T05:59:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.519033432006836" lon="15.03878116607666">
+    <ns0:ele>101.1015625</ns0:ele>
+    <ns0:time>2025-07-28T12:11:26Z</ns0:time>
+    <ns0:name>Systembolaget Nora -S19</ns0:name>
+    <ns0:cmt>Beverages / Alcohol</ns0:cmt>
+    <ns0:desc>Beverages / Alcohol</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Nora Kommun</ns1:City>
+          <ns1:State>Örebro County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Nora Kommun</ns2:City>
+          <ns2:State>Örebro County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T12:11:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.376554489135742" lon="17.026019096374512">
+    <ns0:time>2025-09-24T17:49:41Z</ns0:time>
+    <ns0:name>Systembolaget Strängnäs -S20</ns0:name>
+    <ns0:cmt>Systembolaget Ab</ns0:cmt>
+    <ns0:desc>Systembolaget Ab</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Trädgårdsgatan 12</ns1:StreetAddress>
+          <ns1:City>Strängnäs</ns1:City>
+          <ns1:State>Södermanlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>645 31</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>015210025</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Trädgårdsgatan 12</ns2:StreetAddress>
+          <ns2:City>Strängnäs</ns2:City>
+          <ns2:State>Södermanlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>645 31</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>015210025</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-24T17:49:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.425252795219421" lon="15.085424780845642">
+    <ns0:ele>187.2890625</ns0:ele>
+    <ns0:time>2025-12-19T06:01:00Z</ns0:time>
+    <ns0:name>SystembolagetVetlanda -S26</ns0:name>
+    <ns0:cmt>Systembolaget</ns0:cmt>
+    <ns0:desc>Systembolaget</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>8 Biblioteksgatan</ns1:StreetAddress>
+          <ns1:City>Vetlanda</ns1:City>
+          <ns1:State>Jönköpings län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>574 32</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>038318274</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>8 Biblioteksgatan</ns2:StreetAddress>
+          <ns2:City>Vetlanda</ns2:City>
+          <ns2:State>Jönköpings län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>574 32</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>038318274</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-12-19T06:01:00Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.907166486606002" lon="15.202224925160408">
+    <ns0:ele>145.6640625</ns0:ele>
+    <ns0:time>2025-07-28T03:53:36Z</ns0:time>
+    <ns0:name>Toilet Bonnafest -S13</ns0:name>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T03:53:36Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.942025205120444" lon="15.570267336443067">
+    <ns0:ele>149.69999999999999</ns0:ele>
+    <ns0:time>2025-09-03T15:17:24Z</ns0:time>
+    <ns0:name>Toilet Glimminigen -S24</ns0:name>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T15:17:24Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.527938401326537" lon="15.700931735336781">
+    <ns0:ele>172.34999999999999</ns0:ele>
+    <ns0:time>2025-09-03T09:56:32Z</ns0:time>
+    <ns0:name>Toilet Lönneberga -S24</ns0:name>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T09:56:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.625236203894019" lon="15.591642279177904">
+    <ns0:ele>122.2</ns0:ele>
+    <ns0:time>2025-09-03T12:25:53Z</ns0:time>
+    <ns0:name>Toilet Mariannelund -S24</ns0:name>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T12:25:53Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.215892180800438" lon="16.935757314786315">
+    <ns0:ele>70.19921875</ns0:ele>
+    <ns0:time>2024-11-03T15:35:45Z</ns0:time>
+    <ns0:name>Toilet Porsuddebadet  -S12</ns0:name>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T15:35:45Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.215892180800438" lon="16.935757314786315">
+    <ns0:ele>70.19921875</ns0:ele>
+    <ns0:time>2024-11-03T15:35:45Z</ns0:time>
+    <ns0:name>Toilet Porsuddebadet  -S20</ns0:name>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T15:35:45Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.215891510248184" lon="16.935750190168619">
+    <ns0:ele>70.19140625</ns0:ele>
+    <ns0:time>2024-11-03T15:35:45Z</ns0:time>
+    <ns0:name>Toilet Porsuddebadet -S13</ns0:name>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T15:35:45Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.1823410987854" lon="17.133307456970215">
+    <ns0:ele>74.54296875</ns0:ele>
+    <ns0:time>2024-11-03T08:02:33Z</ns0:time>
+    <ns0:name>Toilet Skottvång  -S12</ns0:name>
+    <ns0:cmt>Okänt</ns0:cmt>
+    <ns0:desc>Okänt</ns0:desc>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T08:02:33Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.371763536706567" lon="15.626901593059301">
+    <ns0:ele>83.629999999999995</ns0:ele>
+    <ns0:time>2025-09-04T06:13:41Z</ns0:time>
+    <ns0:name>Toilet Tinner -S24</ns0:name>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-04T06:13:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.338156068697572" lon="14.936785222962499">
+    <ns0:time>2024-09-21T10:04:25Z</ns0:time>
+    <ns0:name>Toilet Ånnaboda -S19</ns0:name>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T10:04:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.633062638342381" lon="15.610218085348606">
+    <ns0:ele>135.25999999999999</ns0:ele>
+    <ns0:time>2025-09-03T12:16:36Z</ns0:time>
+    <ns0:name>View  Runkestenen -S24</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T12:16:36Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.611914006993175" lon="15.66905309446156">
+    <ns0:ele>204.38</ns0:ele>
+    <ns0:time>2025-09-03T10:23:53Z</ns0:time>
+    <ns0:name>View Bullerbyn -S24</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T10:23:53Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.940893204882741" lon="15.850414009764791">
+    <ns0:ele>108.20999999999999</ns0:ele>
+    <ns0:time>2025-09-03T05:54:28Z</ns0:time>
+    <ns0:name>View Dam -S24</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T05:54:28Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.177019596099854" lon="16.782431602478027">
+    <ns0:ele>64.85546875</ns0:ele>
+    <ns0:time>2024-11-03T10:24:10Z</ns0:time>
+    <ns0:name>View Dunkers Old Train Station -S13</ns0:name>
+    <ns0:cmt>Dunkers Station</ns0:cmt>
+    <ns0:desc>Dunkers Station</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T10:24:10Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.382675936445594" lon="15.947198336943984">
+    <ns0:ele>68.159999999999997</ns0:ele>
+    <ns0:time>2025-09-04T06:56:40Z</ns0:time>
+    <ns0:name>View Ekenäs gård -S24</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-04T06:56:40Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.622812241315842" lon="15.596771584823728">
+    <ns0:ele>120.27</ns0:ele>
+    <ns0:time>2025-09-03T12:24:40Z</ns0:time>
+    <ns0:name>View Filmbyn -S24</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T12:24:40Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.508287807926536" lon="16.031913980841637">
+    <ns0:ele>32.460000000000001</ns0:ele>
+    <ns0:time>2025-09-04T07:26:51Z</ns0:time>
+    <ns0:name>View Göta kanal -S24</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-04T07:26:51Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.021984681487083" lon="15.854142028838396">
+    <ns0:ele>139.19</ns0:ele>
+    <ns0:time>2025-09-03T06:10:20Z</ns0:time>
+    <ns0:name>View Kråksmåla kyrka -S24</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T06:10:20Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.40592404268682" lon="15.531303472816944">
+    <ns0:time>2025-09-03T09:09:02Z</ns0:time>
+    <ns0:name>View Kungsbron -S24</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T09:09:02Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.327508788555861" lon="18.05512729100883">
+    <ns0:time>2024-02-23T17:56:50Z</ns0:time>
+    <ns0:name>View Nobel Prize Party (Stockholms Stadshus) -S12</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-02-23T17:56:50Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.519248008728027" lon="15.039060115814209">
+    <ns0:time>2024-09-21T09:56:40Z</ns0:time>
+    <ns0:name>View Nora Nice Old Town -S19</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T09:56:40Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.077298872172832" lon="15.735400971025229">
+    <ns0:ele>154.97</ns0:ele>
+    <ns0:time>2025-09-03T06:51:45Z</ns0:time>
+    <ns0:name>View Old building -S24</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T06:51:45Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.222523188218474" lon="17.011876814067364">
+    <ns0:ele>75.0703125</ns0:ele>
+    <ns0:time>2025-03-31T12:56:25Z</ns0:time>
+    <ns0:name>View Old Maine very spectacular -S12</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-31T12:56:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.052649168297648" lon="16.242718258872628">
+    <ns0:time>2024-11-03T10:45:15Z</ns0:time>
+    <ns0:name>View Old Mining Holes -S13</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-11-03T10:45:15Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.516681553795934" lon="15.042348252609372">
+    <ns0:time>2024-09-21T09:55:47Z</ns0:time>
+    <ns0:name>View Old Trains -S19</ns0:name>
+    <ns0:cmt>Järnvägsgatan 1
+713 31, Nora, Örebro län, SWE</ns0:cmt>
+    <ns0:desc>Järnvägsgatan 1
+713 31, Nora, Örebro län, SWE</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Järnvägsgatan 1</ns1:StreetAddress>
+          <ns1:City>Nora</ns1:City>
+          <ns1:State>Örebro län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>713 31</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Järnvägsgatan 1</ns2:StreetAddress>
+          <ns2:City>Nora</ns2:City>
+          <ns2:State>Örebro län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>713 31</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T09:55:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.312930982559919" lon="18.041426315903664">
+    <ns0:time>2024-02-23T17:47:32Z</ns0:time>
+    <ns0:name>View point Tantolunden -S12</ns0:name>
+    <ns0:cmt>Tantolundsvägen 110
+117 39, Södermalm, Stockholms län, SWE</ns0:cmt>
+    <ns0:desc>Tantolundsvägen 110
+117 39, Södermalm, Stockholms län, SWE</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Tantolundsvägen 110</ns1:StreetAddress>
+          <ns1:City>Södermalm</ns1:City>
+          <ns1:State>Stockholms län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>117 39</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Tantolundsvägen 110</ns2:StreetAddress>
+          <ns2:City>Södermalm</ns2:City>
+          <ns2:State>Stockholms län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>117 39</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-02-23T17:47:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.326815605163574" lon="18.071908950805664">
+    <ns0:time>2024-02-23T17:50:14Z</ns0:time>
+    <ns0:name>View Royal Castle -S12</ns0:name>
+    <ns0:cmt>Kungliga Slottet</ns0:cmt>
+    <ns0:desc>Kungliga Slottet</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Slottsbacken</ns1:StreetAddress>
+          <ns1:City>Gamla Stan</ns1:City>
+          <ns1:State>Stockholms län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>111 30</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>084026130</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Slottsbacken</ns2:StreetAddress>
+          <ns2:City>Gamla Stan</ns2:City>
+          <ns2:State>Stockholms län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>111 30</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>084026130</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-02-23T17:50:14Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.633240250870585" lon="15.61045621521771">
+    <ns0:ele>142.1171875</ns0:ele>
+    <ns0:time>2025-09-10T19:22:03Z</ns0:time>
+    <ns0:name>View Runkestenen -S26</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-10T19:22:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.327881615608931" lon="18.068764312192798">
+    <ns0:ele>42</ns0:ele>
+    <ns0:time>2024-08-15T06:51:13Z</ns0:time>
+    <ns0:name>View Swedish Government - Riksdagshuset -S12</ns0:name>
+    <ns0:cmt>TET Stockholm Loop
+(All legal and scouted with a loaded 1250 GSA)
+
+Stockholm is a large city so most Gravel is banned.
+Fun Gravel Is north of Norrtälje but there are some really nice twisty tarmac to enjoy.
+
+Rosen Hill is the most famouse Bike Cafe in Sweden
+Slingerbulten is most famouse bike road in Sweden where SportsBikes try to set LapRecords.
+
+This is the area where GhostRider has been most active in his VHS/DVD films before YouTube time.
+South Stockholm is GhostRider's hoods, running a Tyre shop today.
+
+
+!!! Youll pass Gatses that are to keep WildLige off the road, Make sure to close after you pass.
+
+Hope you'll enjoy this section // Scouted and shared by Rushhour MC</ns0:cmt>
+    <ns0:desc>TET Stockholm Loop
+(All legal and scouted with a loaded 1250 GSA)
+
+Stockholm is a large city so most Gravel is banned.
+Fun Gravel Is north of Norrtälje but there are some really nice twisty tarmac to enjoy.
+
+Rosen Hill is the most famouse Bike Cafe in Sweden
+Slingerbulten is most famouse bike road in Sweden where SportsBikes try to set LapRecords.
+
+This is the area where GhostRider has been most active in his VHS/DVD films before YouTube time.
+South Stockholm is GhostRider's hoods, running a Tyre shop today.
+
+
+!!! Youll pass Gatses that are to keep WildLige off the road, Make sure to close after you pass.
+
+Hope you'll enjoy this section // Scouted and shared by Rushhour MC</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-15T06:51:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.324862957000732" lon="18.070921897888184">
+    <ns0:time>2024-08-15T06:53:34Z</ns0:time>
+    <ns0:name>View Swedish OldTown -S12</ns0:name>
+    <ns0:cmt>Stortorgskällaren
+Stortorget 7
+111 29, Gamla Stan, Stockholms län, SWE
+08105533</ns0:cmt>
+    <ns0:desc>Stortorgskällaren
+Stortorget 7
+111 29, Gamla Stan, Stockholms län, SWE
+08105533</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Stortorget 7</ns1:StreetAddress>
+          <ns1:City>Gamla Stan</ns1:City>
+          <ns1:State>Stockholms län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>111 29</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>08105533</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Stortorget 7</ns2:StreetAddress>
+          <ns2:City>Gamla Stan</ns2:City>
+          <ns2:State>Stockholms län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>111 29</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>08105533</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-15T06:53:34Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.329726807773113" lon="18.0705342348665">
+    <ns0:time>2024-08-15T06:52:34Z</ns0:time>
+    <ns0:name>View Swedish Royal Opera -S12</ns0:name>
+    <ns0:cmt>Fredsgatan 3
+111 52, Norrmalm, Stockholms län, SWE</ns0:cmt>
+    <ns0:desc>Fredsgatan 3
+111 52, Norrmalm, Stockholms län, SWE</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Fredsgatan 3</ns1:StreetAddress>
+          <ns1:City>Norrmalm</ns1:City>
+          <ns1:State>Stockholms län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>111 52</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Fredsgatan 3</ns2:StreetAddress>
+          <ns2:City>Norrmalm</ns2:City>
+          <ns2:State>Stockholms län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>111 52</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-15T06:52:34Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.087964976206422" lon="16.166281001642346">
+    <ns0:ele>68.420287782933315</ns0:ele>
+    <ns0:time>2025-07-27T16:56:32Z</ns0:time>
+    <ns0:name>View Troll -S13</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T16:56:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.690423773601651" lon="15.557505721226335">
+    <ns0:ele>178.19999999999999</ns0:ele>
+    <ns0:time>2025-09-03T12:43:39Z</ns0:time>
+    <ns0:name>ViewKatthult -S24</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-03T12:43:39Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.207665594294667" lon="17.519011711701751">
+    <ns0:ele>35.160495395252283</ns0:ele>
+    <ns0:time>2024-09-01T05:43:23Z</ns0:time>
+    <ns0:name>Water Post Old Well -S12</ns0:name>
+    <ns0:sym>Drinking Water</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-01T05:43:23Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.414929272606969" lon="14.993610167875886">
+    <ns0:time>2024-09-21T10:00:12Z</ns0:time>
+    <ns0:name>Wather well -S19</ns0:name>
+    <ns0:sym>Drinking Water</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T10:00:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:rte><ns0:name>Bounds r2 c2</ns0:name><ns0:rtept lat="56.90716475836223" lon="14.635452967758535" /><ns0:rtept lat="56.90716475836223" lon="19.777214191497503" /><ns0:rtept lat="59.534437387885745" lon="19.777214191497503" /><ns0:rtept lat="59.534437387885745" lon="14.635452967758535" /><ns0:rtept lat="56.90716475836223" lon="14.635452967758535" /></ns0:rte></gpx>

@@ -1,0 +1,3610 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" xmlns:ns1="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ns2="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" version="1.1" creator="Garmin Desktop App" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:link href="http://www.garmin.com">
+      <ns0:text>Garmin International</ns0:text>
+    </ns0:link>
+    <ns0:time>2026-01-02T09:14:53Z</ns0:time>
+    <ns0:bounds maxlat="67.943594455718994" maxlon="24.038901329040527" minlat="55.337739139795303" minlon="11.169615872204304" />
+  <ns0:desc>Cell r3 c2 · waypoints: 149</ns0:desc><ns0:keywords>S.gpx</ns0:keywords></ns0:metadata>
+
+  <ns0:wpt lat="60.141979912295938" lon="17.746055843308568">
+    <ns0:ele>45</ns0:ele>
+    <ns0:time>2025-03-31T06:12:31Z</ns0:time>
+    <ns0:name>! Abandoned building -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-31T06:12:31Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.598223892971873" lon="14.899281151592731">
+    <ns0:time>2024-09-21T09:47:36Z</ns0:time>
+    <ns0:name>! DONT MIND THE LOGS -S19</ns0:name>
+    <ns0:cmt>Spooken to the landowner and they are there to block cars, bikes is OK =)
+Pass his garage and house with Respect &lt;3</ns0:cmt>
+    <ns0:desc>Spooken to the landowner and they are there to block cars, bikes is OK =)
+Pass his garage and house with Respect &lt;3</ns0:desc>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T09:47:36Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.861036287620664" lon="14.991728682070971">
+    <ns0:time>2024-09-24T07:47:30Z</ns0:time>
+    <ns0:name>! Gate Backarna -S17</ns0:name>
+    <ns0:cmt>Backarna 218
+714 93, Ljusnarsberg, Örebro län, SWE</ns0:cmt>
+    <ns0:desc>Backarna 218
+714 93, Ljusnarsberg, Örebro län, SWE</ns0:desc>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Backarna 218</ns1:StreetAddress>
+          <ns1:City>Ljusnarsberg</ns1:City>
+          <ns1:State>Örebro län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>714 93</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Backarna 218</ns2:StreetAddress>
+          <ns2:City>Ljusnarsberg</ns2:City>
+          <ns2:State>Örebro län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>714 93</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-24T07:47:30Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.886398250237107" lon="18.481366178020835">
+    <ns0:ele>40.70703125</ns0:ele>
+    <ns0:time>2024-08-26T11:07:45Z</ns0:time>
+    <ns0:name>! Legal, BUT SHOW RESPECT -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-26T11:07:45Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.558913605287671" lon="14.908501161262393">
+    <ns0:time>2025-05-17T06:36:11Z</ns0:time>
+    <ns0:name>! NoGo on old track - Ringshyttan -S19</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-05-17T06:36:11Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.548399513587356" lon="14.923019204288721">
+    <ns0:time>2025-05-17T06:32:37Z</ns0:time>
+    <ns0:name>! NoGo on old track - Striberg -S19</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-05-17T06:32:37Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.618445402011275" lon="14.871814409270883">
+    <ns0:time>2025-05-17T06:33:50Z</ns0:time>
+    <ns0:name>! NoGo on old track - Timanshyttan -S19</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-05-17T06:33:50Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.822034286335111" lon="15.165474470704794">
+    <ns0:ele>176.44140625</ns0:ele>
+    <ns0:time>2024-10-16T14:31:06Z</ns0:time>
+    <ns0:name>! Sand, Short but soft -S17</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-16T14:31:06Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.727643076330423" lon="15.074744559824467">
+    <ns0:time>2025-05-13T09:25:04Z</ns0:time>
+    <ns0:name>! SLOW AND GENTLE -S19</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-05-13T09:25:04Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.87602480687201" lon="18.476812290027738">
+    <ns0:ele>26.6640625</ns0:ele>
+    <ns0:time>2024-09-10T05:21:29Z</ns0:time>
+    <ns0:name>! SLOW AND SILENT PLEASE !!!  -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-10T05:21:29Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.766787821426988" lon="15.17907477915287">
+    <ns0:ele>118.9375</ns0:ele>
+    <ns0:time>2025-10-21T16:31:01Z</ns0:time>
+    <ns0:name>! SLOW Passing the hous and barn</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-10-21T16:31:01Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.172180244699121" lon="18.294232897460461">
+    <ns0:ele>31.56640625</ns0:ele>
+    <ns0:time>2024-08-26T10:21:12Z</ns0:time>
+    <ns0:name>! WildLife Gate - KEEP CLOSED    -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-26T10:21:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.174021748825908" lon="18.346406891942024">
+    <ns0:ele>35.36328125</ns0:ele>
+    <ns0:time>2024-08-26T10:21:12Z</ns0:time>
+    <ns0:name>! WildLife Gate - KEEP CLOSED   -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-26T10:21:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.069597652181983" lon="16.907085506245494">
+    <ns0:ele>91.28125</ns0:ele>
+    <ns0:time>2024-08-26T11:39:44Z</ns0:time>
+    <ns0:name>! WildLife Gate - KEEP CLOSED  -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-26T11:39:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.169516056776047" lon="18.283734563738108">
+    <ns0:ele>33.67578125</ns0:ele>
+    <ns0:time>2024-08-26T10:21:12Z</ns0:time>
+    <ns0:name>! WildLife Gate - KEEP CLOSED -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-26T10:21:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.065596718341112" lon="17.264126669615507">
+    <ns0:ele>56.9609375</ns0:ele>
+    <ns0:time>2024-08-26T11:17:09Z</ns0:time>
+    <ns0:name>Cafe TET-Lovers -S12</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-26T11:17:09Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.193716371431947" lon="16.671711606904864">
+    <ns0:time>2024-08-24T00:38:05Z</ns0:time>
+    <ns0:name>Camp Balforsen -S12</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3201</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3201</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3201" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-24T00:38:05Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.7501540184021" lon="14.982068538665771">
+    <ns0:time>2025-02-24T22:14:03Z</ns0:time>
+    <ns0:name>Camp Damsjön (Linesmen Favorite) -S19</ns0:name>
+    <ns0:cmt>One of my personal favorit camps.
+Tolilet and nice evening sun.
+// Johan Johan</ns0:cmt>
+    <ns0:desc>One of my personal favorit camps.
+Tolilet and nice evening sun.
+// Johan Johan</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Nyberget 150</ns1:StreetAddress>
+          <ns1:City>Lindesberg</ns1:City>
+          <ns1:State>Örebro län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>711 96</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Nyberget 150</ns2:StreetAddress>
+          <ns2:City>Lindesberg</ns2:City>
+          <ns2:State>Örebro län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>711 96</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-02-24T22:14:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.855756694450974" lon="18.601776659488678">
+    <ns0:ele>23.28125</ns0:ele>
+    <ns0:time>2024-08-24T00:59:01Z</ns0:time>
+    <ns0:name>Camp Erken -S12</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/4219</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/4219</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4219" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-24T00:59:01Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.790094960480928" lon="15.915393372997642">
+    <ns0:ele>87.013381296407204</ns0:ele>
+    <ns0:time>2024-09-21T06:44:16Z</ns0:time>
+    <ns0:name>Camp Flenasjön -S17</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:44:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.210362747311592" lon="18.13201398588717">
+    <ns0:time>2024-08-24T00:54:08Z</ns0:time>
+    <ns0:name>Camp Fornbo -S12</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3545</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3545</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3545" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-24T00:54:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.957916276529431" lon="15.917522460222244">
+    <ns0:ele>360.08984375</ns0:ele>
+    <ns0:time>2025-08-15T04:44:37Z</ns0:time>
+    <ns0:name>Camp Gammelbergstjärn -S21</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-15T04:44:37Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.2171800006181" lon="16.798066701740026">
+    <ns0:ele>83.299999999999997</ns0:ele>
+    <ns0:time>2024-08-05T11:48:15Z</ns0:time>
+    <ns0:name>Camp Gysinge  -S12</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-05T11:48:15Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.238958364352584" lon="16.78621418774128">
+    <ns0:time>2024-09-01T08:25:06Z</ns0:time>
+    <ns0:name>Camp Gysinge -S12</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-01T08:25:06Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.921729564666748" lon="18.310368061065674">
+    <ns0:ele>23.984375</ns0:ele>
+    <ns0:time>2024-08-24T00:57:40Z</ns0:time>
+    <ns0:name>Camp Hosjön -S12</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3791</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3791</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3791" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Uppsala kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Uppsala kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-24T00:57:40Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.860071698203683" lon="16.24291330575943">
+    <ns0:ele>101.85754829399694</ns0:ele>
+    <ns0:time>2024-08-26T10:21:13Z</ns0:time>
+    <ns0:name>Camp Hälleskogsbrännan -S20</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-26T10:21:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.073733786121011" lon="14.928657291457057">
+    <ns0:ele>262.25807153206659</ns0:ele>
+    <ns0:time>2024-09-21T06:44:16Z</ns0:time>
+    <ns0:name>Camp Kyrkviken -S17</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:44:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.803567864000797" lon="15.167286805808544">
+    <ns0:ele>141.90000915527344</ns0:ele>
+    <ns0:time>2024-09-21T06:44:16Z</ns0:time>
+    <ns0:name>Camp Löa -S17</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:44:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.979638289660215" lon="14.995348323136568">
+    <ns0:ele>205.44562597554574</ns0:ele>
+    <ns0:time>2024-09-21T06:44:13Z</ns0:time>
+    <ns0:name>Camp Nya Dammen -S17</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:44:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.747594017535448" lon="14.982720734551549">
+    <ns0:ele>198.25168721244125</ns0:ele>
+    <ns0:time>2024-09-21T06:43:57Z</ns0:time>
+    <ns0:name>Camp Nyberget -S19</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:43:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.090888045728207" lon="15.341272400692105">
+    <ns0:ele>360</ns0:ele>
+    <ns0:time>2025-08-15T04:49:07Z</ns0:time>
+    <ns0:name>Camp Nävertjärnarna -S21</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-15T04:49:07Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.232101321220398" lon="15.152961714193225">
+    <ns0:ele>219.18359375</ns0:ele>
+    <ns0:time>2025-08-15T04:51:46Z</ns0:time>
+    <ns0:name>Camp Oreälv Large place with shelter -S21</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-15T04:51:46Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.276715425774455" lon="15.125749278813601">
+    <ns0:ele>234.078125</ns0:ele>
+    <ns0:time>2025-08-15T04:52:56Z</ns0:time>
+    <ns0:name>Camp Oreälv small place with shelter -S21</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-15T04:52:56Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.05925178527832" lon="17.078826427459717">
+    <ns0:time>2025-09-15T00:13:44Z</ns0:time>
+    <ns0:name>Camp Råksjön -S12</ns0:name>
+    <ns0:cmt>Råksjön 110
+744 92, Heby, Uppsala län, SWE</ns0:cmt>
+    <ns0:desc>Råksjön 110
+744 92, Heby, Uppsala län, SWE</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Råksjön 110</ns1:StreetAddress>
+          <ns1:City>Heby</ns1:City>
+          <ns1:State>Uppsala län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>744 92</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Råksjön 110</ns2:StreetAddress>
+          <ns2:City>Heby</ns2:City>
+          <ns2:State>Uppsala län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>744 92</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T00:13:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.245697498321533" lon="18.394954204559326">
+    <ns0:time>2024-08-24T00:52:47Z</ns0:time>
+    <ns0:name>Camp Sandika -S12</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3213</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3213</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3213" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-24T00:52:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.212423605844378" lon="16.849084245041013">
+    <ns0:time>2024-08-01T10:19:46Z</ns0:time>
+    <ns0:name>Camp Skekarbo x4 Shelters and Tower  -S12</ns0:name>
+    <ns0:cmt>SKEKARSBO vindskydd: https://maps.google.com/?q=60.212405,16.849067</ns0:cmt>
+    <ns0:desc>SKEKARSBO vindskydd: https://maps.google.com/?q=60.212405,16.849067</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-01T10:19:46Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.076918322592974" lon="17.749848319217563">
+    <ns0:ele>19.068162532947362</ns0:ele>
+    <ns0:time>2024-08-26T10:21:12Z</ns0:time>
+    <ns0:name>Camp Skyttorp -S12</ns0:name>
+    <ns0:cmt>Fire
+Toilet
+Swim</ns0:cmt>
+    <ns0:desc>Fire
+Toilet
+Swim</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-26T10:21:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.492237374186516" lon="14.70719332806766">
+    <ns0:ele>426.41796875</ns0:ele>
+    <ns0:time>2025-08-15T04:53:52Z</ns0:time>
+    <ns0:name>Camp Trollgraven gravel surface -S21</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-15T04:53:52Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.885272979736328" lon="15.9027099609375">
+    <ns0:ele>117.38671875</ns0:ele>
+    <ns0:time>2024-09-04T13:09:43Z</ns0:time>
+    <ns0:name>Camp Trummelsberg -S17</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/3531</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/3531</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3531" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Fagersta kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Fagersta kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-04T13:09:43Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.061325073242188" lon="15.692746639251709">
+    <ns0:time>2025-09-14T17:00:59Z</ns0:time>
+    <ns0:name>Camping Dalstuga -S21</ns0:name>
+    <ns0:link href="https://dalstuga.nu/dalstuga-naturcamping-i-dalarna/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-14T17:00:59Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.725709922611713" lon="15.168686332181096">
+    <ns0:time>2025-08-05T18:18:38Z</ns0:time>
+    <ns0:name>Camping Gammeltomtens -S11</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/AXEC9SN1vsyb5QQKA" />
+    <ns0:link href="https://gammeltomten.se/camping/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-05T18:18:38Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.807488918304443" lon="15.728473663330078">
+    <ns0:time>2023-09-07T09:39:15Z</ns0:time>
+    <ns0:name>Camping Kolarbyn Eco-Lodge PRE-BOOK NEEDED -S17</ns0:name>
+    <ns0:cmt>Kolarbyn Eco-Lodge
+
+https://kolarbyn.se/</ns0:cmt>
+    <ns0:desc>Kolarbyn Eco-Lodge
+
+https://kolarbyn.se/</ns0:desc>
+    <ns0:link href="https://kolarbyn.se/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Skinnskatteberg</ns1:City>
+          <ns1:State>Västmanlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>739 31</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0704007053</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Skinnskatteberg</ns2:City>
+          <ns2:State>Västmanlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>739 31</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0704007053</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2023-09-07T09:39:15Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.762985706329346" lon="18.671393394470215">
+    <ns0:time>2024-10-17T11:12:47Z</ns0:time>
+    <ns0:name>Camping Norrtälje -S12</ns0:name>
+    <ns0:cmt>TENT AND CABINS</ns0:cmt>
+    <ns0:desc>TENT AND CABINS</ns0:desc>
+    <ns0:link href="https://norrtaljecamping.com/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Lommarvägen 42</ns1:StreetAddress>
+          <ns1:City>Norrtälje</ns1:City>
+          <ns1:State>Stockholms län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>761 52</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0176209210</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Lommarvägen 42</ns2:StreetAddress>
+          <ns2:City>Norrtälje</ns2:City>
+          <ns2:State>Stockholms län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>761 52</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0176209210</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-17T11:12:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.812489980831742" lon="15.608244985342026">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2023-09-19T11:47:14Z</ns0:time>
+    <ns0:name>Camping TET Friendly Lerkulan - Wild West Camp -S17</ns0:name>
+    <ns0:cmt>No Pre-Book needed
+Lighter food and drinks if you ask the Sheriff Tommy
+Shower, Toilets, Saloon etc.
+
+Cash or Swish - No Cards</ns0:cmt>
+    <ns0:desc>No Pre-Book needed
+Lighter food and drinks if you ask the Sheriff Tommy
+Shower, Toilets, Saloon etc.
+
+Cash or Swish - No Cards</ns0:desc>
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2023-09-19T11:47:14Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.18393368460238" lon="16.624947544187307">
+    <ns0:ele>61</ns0:ele>
+    <ns0:time>2024-08-15T09:47:02Z</ns0:time>
+    <ns0:name>Ferry Hovnäs (Small Fee - Cash or Swish) -S12</ns0:name>
+    <ns0:cmt>https://g.co/kgs/LhLD7pP
+
+https://www.xn--hovns-jra.se/</ns0:cmt>
+    <ns0:desc>https://g.co/kgs/LhLD7pP
+
+https://www.xn--hovns-jra.se/</ns0:desc>
+    <ns0:link href="https://g.co/kgs/LhLD7pP" />
+    <ns0:sym>Ferry</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-15T09:47:02Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.722306821495295" lon="19.084190474823117">
+    <ns0:time>2024-08-15T09:26:29Z</ns0:time>
+    <ns0:name>Ferry to Åland and Finland -S12</ns0:name>
+    <ns0:sym>Ferry</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-15T09:26:29Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.153281986713409" lon="16.946623362600803">
+    <ns0:time>2025-03-31T11:04:57Z</ns0:time>
+    <ns0:name>Food 67'ans Resturant -S12</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-31T11:04:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.875676203519106" lon="14.996004709973931">
+    <ns0:ele>190.09999999999999</ns0:ele>
+    <ns0:time>2024-09-21T06:44:16Z</ns0:time>
+    <ns0:name>Food Grängesberg -S17</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:44:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.699063301086426" lon="15.100364685058594">
+    <ns0:time>2024-09-21T09:38:12Z</ns0:time>
+    <ns0:name>Food Gulds Pizzeria -S19</ns0:name>
+    <ns0:cmt>Gulds Pizzeria</ns0:cmt>
+    <ns0:desc>Gulds Pizzeria</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Solvägen 2</ns1:StreetAddress>
+          <ns1:City>Guldsmedshyttan</ns1:City>
+          <ns1:State>Örebro län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>711 78</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>04658141167</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Solvägen 2</ns2:StreetAddress>
+          <ns2:City>Guldsmedshyttan</ns2:City>
+          <ns2:State>Örebro län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>711 78</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>04658141167</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T09:38:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.708554465323687" lon="15.099672675132751">
+    <ns0:time>2024-09-21T09:32:40Z</ns0:time>
+    <ns0:name>Food Micro Brewery Stripa Mine -S19</ns0:name>
+    <ns0:cmt>Stripa mine is a uniquely well-preserved mining environment from the 20th century. But here there are also mine holes and other remains that show that mining has been going on since the Middle Ages. What is unusual about Stripa mine is that here much of the mechanical equipment is still in operable condition.</ns0:cmt>
+    <ns0:desc>Stripa mine is a uniquely well-preserved mining environment from the 20th century. But here there are also mine holes and other remains that show that mining has been going on since the Middle Ages. What is unusual about Stripa mine is that here much of the mechanical equipment is still in operable condition.</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T09:32:40Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.175386071205139" lon="18.191200867295265">
+    <ns0:time>2024-10-28T08:22:40Z</ns0:time>
+    <ns0:name>Food Pizzeria Gimo -S12</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-28T08:22:40Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.774608304724097" lon="16.195741714909673">
+    <ns0:ele>100.19999694824219</ns0:ele>
+    <ns0:time>2024-09-21T06:44:16Z</ns0:time>
+    <ns0:name>Food Ramnäs  -S17</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:44:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.959779262542725" lon="16.718358993530273">
+    <ns0:time>2025-07-27T19:34:49Z</ns0:time>
+    <ns0:name>Food Strömbacka Brukscafé -S11</ns0:name>
+    <ns0:cmt>Strömbacka Brukscafé
+Strömbacka 417
+824 78, Strömbacka, Gävleborgs län, SWE
+0706882745</ns0:cmt>
+    <ns0:desc>Strömbacka Brukscafé
+Strömbacka 417
+824 78, Strömbacka, Gävleborgs län, SWE
+0706882745</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Strömbacka 417</ns1:StreetAddress>
+          <ns1:City>Strömbacka</ns1:City>
+          <ns1:State>Gävleborgs län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>824 78</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0706882745</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Strömbacka 417</ns2:StreetAddress>
+          <ns2:City>Strömbacka</ns2:City>
+          <ns2:State>Gävleborgs län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>824 78</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0706882745</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T19:34:49Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.759979536756873" lon="15.183681976050138">
+    <ns0:time>2024-09-24T07:52:25Z</ns0:time>
+    <ns0:name>Fun Badly maintained road - Flögfors -S17</ns0:name>
+    <ns0:cmt>Flögfors 176
+711 98, Lindesberg, Örebro län, SWE</ns0:cmt>
+    <ns0:desc>Flögfors 176
+711 98, Lindesberg, Örebro län, SWE</ns0:desc>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Flögfors 176</ns1:StreetAddress>
+          <ns1:City>Lindesberg</ns1:City>
+          <ns1:State>Örebro län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>711 98</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Flögfors 176</ns2:StreetAddress>
+          <ns2:City>Lindesberg</ns2:City>
+          <ns2:State>Örebro län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>711 98</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-24T07:52:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.133592560887337" lon="16.903063282370567">
+    <ns0:time>2024-09-01T06:12:28Z</ns0:time>
+    <ns0:name>Fun SAND PIPE -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-01T06:12:28Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.123217105865479" lon="17.742109140381217">
+    <ns0:ele>40.2578125</ns0:ele>
+    <ns0:time>2024-08-26T10:40:26Z</ns0:time>
+    <ns0:name>Fun The Pipe -S12</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-26T10:40:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.035849595442414" lon="14.674804313108325">
+    <ns0:time>2024-10-12T14:50:42Z</ns0:time>
+    <ns0:name>Fun Tough road Säfsenbanan   -S17</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-12T14:50:42Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.034529026597738" lon="14.661414306610823">
+    <ns0:time>2024-10-12T14:50:42Z</ns0:time>
+    <ns0:name>Fun Tough road Säfsenbanan  -S17</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-12T14:50:42Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.035899886861444" lon="14.644728368148208">
+    <ns0:time>2024-10-12T14:50:42Z</ns0:time>
+    <ns0:name>Fun Tough road Säfsenbanan -S17</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-12T14:50:42Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.86593509092927" lon="14.990545408800244">
+    <ns0:time>2024-09-24T07:47:25Z</ns0:time>
+    <ns0:name>Fun Trickey track   -S17</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-24T07:47:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.919935131445527" lon="16.592674618586898">
+    <ns0:ele>120.890625</ns0:ele>
+    <ns0:time>2025-09-27T15:38:11Z</ns0:time>
+    <ns0:name>Fun Trickey track  -S06</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T15:38:11Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.868398951366544" lon="14.990189177915454">
+    <ns0:time>2024-09-24T07:47:25Z</ns0:time>
+    <ns0:name>Fun Trickey track  -S17</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-24T07:47:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.96725751273334" lon="16.232929788529873">
+    <ns0:ele>230</ns0:ele>
+    <ns0:time>2025-09-27T15:40:22Z</ns0:time>
+    <ns0:name>Fun Trickey track -S11</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-27T15:40:22Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.863763591274619" lon="14.990912955254316">
+    <ns0:time>2024-09-24T07:47:25Z</ns0:time>
+    <ns0:name>Fun Trickey track -S17</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-24T07:47:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.936644203960896" lon="15.417464654892683">
+    <ns0:time>2025-07-09T05:19:44Z</ns0:time>
+    <ns0:name>Garage Wildlife Sweden -S11</ns0:name>
+    <ns0:sym>ATV</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:PhoneNumber>+4673 35 36 501</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:PhoneNumber>+4673 35 36 501</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-09T05:19:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.344845294952393" lon="16.072311401367188">
+    <ns0:time>2015-08-28T05:42:14Z</ns0:time>
+    <ns0:name>Gas Alfta -S07</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2015-08-28T05:42:14Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.97713315486908" lon="17.055292725563049">
+    <ns0:ele>50.25390625</ns0:ele>
+    <ns0:time>2022-02-06T06:57:02Z</ns0:time>
+    <ns0:name>Gas Bergsjö -S11</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Södra vägen</ns1:StreetAddress>
+          <ns1:City>Bergsjö</ns1:City>
+          <ns1:State>Gävleborgs län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>820 70</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>065210879</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Södra vägen</ns2:StreetAddress>
+          <ns2:City>Bergsjö</ns2:City>
+          <ns2:State>Gävleborgs län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>820 70</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>065210879</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2022-02-06T06:57:02Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.024610996246338" lon="15.647706985473633">
+    <ns0:time>2025-08-15T04:42:30Z</ns0:time>
+    <ns0:name>Gas Bingsjö -S21</ns0:name>
+    <ns0:cmt>Bingsjö Lanthandel Ab
+Bingsjö Lambornsvägen 15
+790 26, Rättvik, Dalarnas län, SWE
+024640094</ns0:cmt>
+    <ns0:desc>Bingsjö Lanthandel Ab
+Bingsjö Lambornsvägen 15
+790 26, Rättvik, Dalarnas län, SWE
+024640094</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Bingsjö Lambornsvägen 15</ns1:StreetAddress>
+          <ns1:City>Rättvik</ns1:City>
+          <ns1:State>Dalarnas län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>790 26</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>024640094</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Bingsjö Lambornsvägen 15</ns2:StreetAddress>
+          <ns2:City>Rättvik</ns2:City>
+          <ns2:State>Dalarnas län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>790 26</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>024640094</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-15T04:42:30Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.654281139373779" lon="14.86724853515625">
+    <ns0:ele>121.5234375</ns0:ele>
+    <ns0:time>2025-07-28T12:08:11Z</ns0:time>
+    <ns0:name>Gas Dalviks Kvarn -S19</ns0:name>
+    <ns0:cmt>Dalviks Kvarn: Järnboås Bymack</ns0:cmt>
+    <ns0:desc>Dalviks Kvarn: Järnboås Bymack</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Nora Kommun</ns1:City>
+          <ns1:State>Örebro County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Nora Kommun</ns2:City>
+          <ns2:State>Örebro County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T12:08:11Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.798546314239502" lon="16.55266284942627">
+    <ns0:time>2021-05-17T17:37:33Z</ns0:time>
+    <ns0:name>Gas Delsbo -S07</ns0:name>
+    <ns0:cmt>Circle K</ns0:cmt>
+    <ns0:desc>Circle K</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Storgatan</ns1:StreetAddress>
+          <ns1:City>Delsbo</ns1:City>
+          <ns1:State>X</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>824 71</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>065310450</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Storgatan</ns2:StreetAddress>
+          <ns2:City>Delsbo</ns2:City>
+          <ns2:State>X</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>824 71</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>065310450</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-17T17:37:33Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.167272329330444" lon="15.135083198547363">
+    <ns0:ele>200</ns0:ele>
+    <ns0:time>2025-08-15T04:50:50Z</ns0:time>
+    <ns0:name>Gas Furudal -S21</ns0:name>
+    <ns0:cmt>Ica Nära</ns0:cmt>
+    <ns0:desc>Ica Nära</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>296</ns1:StreetAddress>
+          <ns1:City>Furudal</ns1:City>
+          <ns1:State>Dalarnas län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>790 70</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>025810087</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>296</ns2:StreetAddress>
+          <ns2:City>Furudal</ns2:City>
+          <ns2:State>Dalarnas län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>790 70</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>025810087</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-15T04:50:50Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.699900150299072" lon="15.100836753845215">
+    <ns0:time>2024-09-21T09:38:01Z</ns0:time>
+    <ns0:name>Gas Guldsmedshyttan -S19</ns0:name>
+    <ns0:cmt>Ingo</ns0:cmt>
+    <ns0:desc>Ingo</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Solvägen 4</ns1:StreetAddress>
+          <ns1:City>Guldsmedshyttan</ns1:City>
+          <ns1:State>Örebro län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>711 78</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>020788008</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Solvägen 4</ns2:StreetAddress>
+          <ns2:City>Guldsmedshyttan</ns2:City>
+          <ns2:State>Örebro län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>711 78</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>020788008</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T09:38:01Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.540949702262878" lon="16.263032555580139">
+    <ns0:ele>143.66015625</ns0:ele>
+    <ns0:time>2021-04-18T10:10:11Z</ns0:time>
+    <ns0:name>Gas Hofors -S07</ns0:name>
+    <ns0:cmt>Okq8
+77 Faluvägen
+Hofors, Gävleborgs län, 813 91, SWE
+020656565</ns0:cmt>
+    <ns0:desc>Okq8
+77 Faluvägen
+Hofors, Gävleborgs län, 813 91, SWE
+020656565</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>77 Faluvägen</ns1:StreetAddress>
+          <ns1:City>Hofors</ns1:City>
+          <ns1:State>Gävleborgs län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>813 91</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>020656565</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>77 Faluvägen</ns2:StreetAddress>
+          <ns2:City>Hofors</ns2:City>
+          <ns2:State>Gävleborgs län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>813 91</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>020656565</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-04-18T10:10:11Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.832272529602051" lon="15.693776607513428">
+    <ns0:ele>119.53125</ns0:ele>
+    <ns0:time>2024-09-21T06:50:49Z</ns0:time>
+    <ns0:name>Gas Kopparberg  -S17</ns0:name>
+    <ns0:cmt>Shell: Shell</ns0:cmt>
+    <ns0:desc>Shell: Shell</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Skinnskattebergs kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Skinnskattebergs kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:50:49Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.741125583648682" lon="15.161991119384766">
+    <ns0:time>2024-09-16T06:32:04Z</ns0:time>
+    <ns0:name>Gas Los -S11</ns0:name>
+    <ns0:cmt>Ica Nära
+Gruvbyvägen 26
+820 50, Los, Gävleborgs län, SWE
+065710062</ns0:cmt>
+    <ns0:desc>Ica Nära
+Gruvbyvägen 26
+820 50, Los, Gävleborgs län, SWE
+065710062</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Gruvbyvägen 26</ns1:StreetAddress>
+          <ns1:City>Los</ns1:City>
+          <ns1:State>Gävleborgs län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>820 50</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>065710062</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Gruvbyvägen 26</ns2:StreetAddress>
+          <ns2:City>Los</ns2:City>
+          <ns2:State>Gävleborgs län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>820 50</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>065710062</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-16T06:32:04Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.174844264984131" lon="18.192007541656494">
+    <ns0:time>2013-09-09T20:19:50Z</ns0:time>
+    <ns0:name>Gas Okq8 Gimo -S12</ns0:name>
+    <ns0:cmt>Okq8</ns0:cmt>
+    <ns0:desc>Okq8</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>UPPSALAVÄGEN 25</ns1:StreetAddress>
+          <ns1:City>Gimo</ns1:City>
+          <ns1:State>Uppsala Län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>747 42</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber />
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>UPPSALAVÄGEN 25</ns2:StreetAddress>
+          <ns2:City>Gimo</ns2:City>
+          <ns2:State>Uppsala Län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>747 42</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber />
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2013-09-09T20:19:50Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.073606967926025" lon="17.75789737701416">
+    <ns0:ele>45.84765625</ns0:ele>
+    <ns0:time>2024-10-27T19:20:21Z</ns0:time>
+    <ns0:name>Gas QSTAR Skyttorp -S12</ns0:name>
+    <ns0:cmt>Bränsle</ns0:cmt>
+    <ns0:desc>Bränsle</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Uppsala kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Uppsala kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-27T19:20:21Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.775129575282335" lon="16.193723687902093">
+    <ns0:ele>72.667023616788711</ns0:ele>
+    <ns0:time>2024-09-21T06:44:16Z</ns0:time>
+    <ns0:name>Gas Ramnäs  -S17</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:44:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.83132797293365" lon="15.676781963557005">
+    <ns0:ele>121.73</ns0:ele>
+    <ns0:time>2023-09-19T11:51:55Z</ns0:time>
+    <ns0:name>Gas Skinnsberg -S17</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2023-09-19T11:51:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.049501368775964" lon="16.982527328655124">
+    <ns0:ele>51.37189824520172</ns0:ele>
+    <ns0:time>2024-08-26T10:11:41Z</ns0:time>
+    <ns0:name>Gas Station8 -S12</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-26T10:11:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.153493881225586" lon="16.946647167205811">
+    <ns0:time>2025-03-31T11:02:55Z</ns0:time>
+    <ns0:name>Gas Såifa  -S12</ns0:name>
+    <ns0:cmt>Såifa</ns0:cmt>
+    <ns0:desc>Såifa</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Värdshusvägen 2</ns1:StreetAddress>
+          <ns1:City>Heby</ns1:City>
+          <ns1:State>Uppsala län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>740 45</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>029250070</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Värdshusvägen 2</ns2:StreetAddress>
+          <ns2:City>Heby</ns2:City>
+          <ns2:State>Uppsala län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>740 45</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>029250070</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-31T11:02:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.517879962921143" lon="16.363985538482666">
+    <ns0:time>2024-09-14T05:48:00Z</ns0:time>
+    <ns0:name>Gas Valsta -S07</ns0:name>
+    <ns0:cmt>Qstar
+Vallsta Riksväg 22
+821 67, Vallsta, Gävleborgs län, SWE
+011280000</ns0:cmt>
+    <ns0:desc>Qstar
+Vallsta Riksväg 22
+821 67, Vallsta, Gävleborgs län, SWE
+011280000</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Vallsta Riksväg 22</ns1:StreetAddress>
+          <ns1:City>Vallsta</ns1:City>
+          <ns1:State>Gävleborgs län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>821 67</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>011280000</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Vallsta Riksväg 22</ns2:StreetAddress>
+          <ns2:City>Vallsta</ns2:City>
+          <ns2:State>Gävleborgs län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>821 67</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>011280000</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-14T05:48:00Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.881863940507174" lon="16.536041535437107">
+    <ns0:time>2020-02-16T18:25:10Z</ns0:time>
+    <ns0:name>Gas Västansjö -S07</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-16T18:25:10Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.971101202070713" lon="16.336167342960835">
+    <ns0:time>2024-09-14T05:43:08Z</ns0:time>
+    <ns0:name>Gas Ängebo -S11</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-14T05:43:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.992532003670931" lon="14.878292614594102">
+    <ns0:ele>331.09078007829254</ns0:ele>
+    <ns0:time>2024-09-21T06:44:13Z</ns0:time>
+    <ns0:name>Gas Östra -S17</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:44:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.703891277313232" lon="15.103497505187988">
+    <ns0:time>2023-09-25T07:58:46Z</ns0:time>
+    <ns0:name>Hostel Bergsgarden - TET Friendly - Prebook needed -S19</ns0:name>
+    <ns0:cmt>Bergsgarden Hotell &amp; Konferens</ns0:cmt>
+    <ns0:desc>Bergsgarden Hotell &amp; Konferens</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Bergsgården</ns1:StreetAddress>
+          <ns1:City>Lindesberg</ns1:City>
+          <ns1:State>Örebro län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>711 78</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0703300928</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Bergsgården</ns2:StreetAddress>
+          <ns2:City>Lindesberg</ns2:City>
+          <ns2:State>Örebro län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>711 78</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0703300928</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2023-09-25T07:58:46Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.156796853989363" lon="16.926898481324315">
+    <ns0:time>2024-08-24T00:47:58Z</ns0:time>
+    <ns0:name>Hostel on a Train -S12</ns0:name>
+    <ns0:cmt>https://www.nedredalalven.se/sv/verksamhet/bb-vandrarhem/sov-pa-tag-i-taernsjoe</ns0:cmt>
+    <ns0:desc>https://www.nedredalalven.se/sv/verksamhet/bb-vandrarhem/sov-pa-tag-i-taernsjoe</ns0:desc>
+    <ns0:link href="https://www.nedredalalven.se/sv/verksamhet/bb-vandrarhem/sov-pa-tag-i-taernsjoe" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Museivägen 8</ns1:StreetAddress>
+          <ns1:City>Tärnsjö</ns1:City>
+          <ns1:State>Uppsala län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>740 45</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Museivägen 8</ns2:StreetAddress>
+          <ns2:City>Tärnsjö</ns2:City>
+          <ns2:State>Uppsala län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>740 45</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-24T00:47:58Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.591002991423011" lon="15.077664982527494">
+    <ns0:time>2018-02-04T09:29:35Z</ns0:time>
+    <ns0:name>Hostel Rönnegård B&amp;B -S28</ns0:name>
+    <ns0:cmt>Rönnegård B&amp;B Stuga&amp;Rum</ns0:cmt>
+    <ns0:desc>Rönnegård B&amp;B Stuga&amp;Rum</ns0:desc>
+    <ns0:link href="http://www.ronnegard.se/" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Tallbacksvägen 19</ns1:StreetAddress>
+          <ns1:City>Gagnef</ns1:City>
+          <ns1:State>Dalarnas län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>785 30</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>070-7287200</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Tallbacksvägen 19</ns2:StreetAddress>
+          <ns2:City>Gagnef</ns2:City>
+          <ns2:State>Dalarnas län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>785 30</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>070-7287200</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2018-02-04T09:29:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.936690807342529" lon="15.417187213897705">
+    <ns0:time>2025-07-09T05:18:38Z</ns0:time>
+    <ns0:name>Hostel Wildlife Sweden -S11</ns0:name>
+    <ns0:cmt>Wildlife Sweden</ns0:cmt>
+    <ns0:desc>Wildlife Sweden</ns0:desc>
+    <ns0:link href="https://www.wildlifesweden.com/" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Ängra 6</ns1:StreetAddress>
+          <ns1:City>Ljusdal</ns1:City>
+          <ns1:State>Gävleborgs län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>827 73</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0733536501</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Ängra 6</ns2:StreetAddress>
+          <ns2:City>Ljusdal</ns2:City>
+          <ns2:State>Gävleborgs län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>827 73</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0733536501</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-09T05:18:38Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.732349395751953" lon="15.168664455413818">
+    <ns0:time>2025-08-05T18:16:20Z</ns0:time>
+    <ns0:name>Hotel Lokatten wärdshus S-11</ns0:name>
+    <ns0:cmt>Lokatten wärdshus</ns0:cmt>
+    <ns0:desc>Lokatten wärdshus</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Los Kyrkbyväg 72</ns1:StreetAddress>
+          <ns1:City>Los</ns1:City>
+          <ns1:State>Gävleborgs län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>827 70</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>0701445225</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Los Kyrkbyväg 72</ns2:StreetAddress>
+          <ns2:City>Los</ns2:City>
+          <ns2:State>Gävleborgs län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>827 70</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>0701445225</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-05T18:16:20Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.890227438881993" lon="15.626953141763806">
+    <ns0:ele>117.13671875</ns0:ele>
+    <ns0:time>2024-09-04T08:05:03Z</ns0:time>
+    <ns0:name>Hotel Udden Retreat - TET Friendly - Prebook needed -S17</ns0:name>
+    <ns0:cmt>https://www.tripadvisor.se/Hotel_Review-g2015066-d4542770-Reviews-Pensionat_Udden-Skinnskatteberg_Vastmanland_County.html</ns0:cmt>
+    <ns0:desc>https://www.tripadvisor.se/Hotel_Review-g2015066-d4542770-Reviews-Pensionat_Udden-Skinnskatteberg_Vastmanland_County.html</ns0:desc>
+    <ns0:link href="https://www.tripadvisor.se/Hotel_Review-g2015066-d4542770-Reviews-Pensionat_Udden-Skinnskatteberg_Vastmanland_County.html" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-04T08:05:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.196132119745016" lon="16.872111847624183">
+    <ns0:time>2024-08-24T00:44:55Z</ns0:time>
+    <ns0:name>Hut Kolmila -S12</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/4426</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/4426</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4426" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-24T00:44:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.908597469329834" lon="15.869815349578857">
+    <ns0:ele>154.85546875</ns0:ele>
+    <ns0:time>2024-09-26T09:35:29Z</ns0:time>
+    <ns0:name>Hut St Trehörningen 8p -S17</ns0:name>
+    <ns0:cmt>St Trehörningen</ns0:cmt>
+    <ns0:desc>St Trehörningen</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Fagersta kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Fagersta kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-26T09:35:29Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.190868033096194" lon="16.879393542185426">
+    <ns0:time>2024-08-24T00:44:57Z</ns0:time>
+    <ns0:name>Hut's Free Houses Österbo fäbodar x2 -S12</ns0:name>
+    <ns0:cmt>https://map.campwild.org/places/4427</ns0:cmt>
+    <ns0:desc>https://map.campwild.org/places/4427</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4427" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-24T00:44:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.717496998608112" lon="16.174102071672678">
+    <ns0:time>2025-07-30T05:51:55Z</ns0:time>
+    <ns0:name>MC Dealer Järvsö Motor -S07</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/3WiTr7Fi2CLrVRJX8" />
+    <ns0:link href="http://www.jcmotor.se/" />
+    <ns0:sym>ATV</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T05:51:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.146026611328125" lon="16.175973415374756">
+    <ns0:ele>99.75390625</ns0:ele>
+    <ns0:time>2025-03-31T13:00:49Z</ns0:time>
+    <ns0:name>MC Dealer Lundgrens Motor -S20</ns0:name>
+    <ns0:cmt>Yamaha; Bmw; Harley Davidson</ns0:cmt>
+    <ns0:desc>Yamaha; Bmw; Harley Davidson</ns0:desc>
+    <ns0:sym>ATV</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-31T13:00:49Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.072237532585859" lon="14.984017163515091">
+    <ns0:time>2024-09-21T07:17:31Z</ns0:time>
+    <ns0:name>Museum Train Museum -S17</ns0:name>
+    <ns0:sym>Museum</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T07:17:31Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.973572606220841" lon="16.188182244077325">
+    <ns0:time>2020-02-16T16:21:35Z</ns0:time>
+    <ns0:name>Parking Gröntjärn -S11</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/kCKgPZ48CXB9UEnRA" />
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-16T16:21:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.770333366468549" lon="15.182215310633183">
+    <ns0:ele>104.27894836916698</ns0:ele>
+    <ns0:time>2024-09-21T06:44:16Z</ns0:time>
+    <ns0:name>Rest Area -S17</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:44:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.983483284711838" lon="17.070240424945951">
+    <ns0:ele>42</ns0:ele>
+    <ns0:time>2022-02-06T06:55:30Z</ns0:time>
+    <ns0:name>Rest Area Bergsjö -S011</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2022-02-06T06:55:30Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.620635006576777" lon="14.85538805834949">
+    <ns0:ele>180.5</ns0:ele>
+    <ns0:time>2024-09-21T06:43:55Z</ns0:time>
+    <ns0:name>Rest Area Cosy -S19</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:43:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.760566689074039" lon="15.231906669214368">
+    <ns0:ele>218.30000000000001</ns0:ele>
+    <ns0:time>2024-09-21T06:44:16Z</ns0:time>
+    <ns0:name>Rest Area Simlpe   -S17</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:44:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.527616130188107" lon="16.378459492698312">
+    <ns0:time>2024-09-14T05:45:43Z</ns0:time>
+    <ns0:name>Rest Area table (with a view) Valsta -S07</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-14T05:45:43Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.829525947570801" lon="15.693197250366211">
+    <ns0:ele>119.609375</ns0:ele>
+    <ns0:time>2024-09-21T06:51:35Z</ns0:time>
+    <ns0:name>Shop Coop Konsum  -S17</ns0:name>
+    <ns0:cmt>Coop Konsum: Coop Konsum</ns0:cmt>
+    <ns0:desc>Coop Konsum: Coop Konsum</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Skinnskattebergs kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Skinnskattebergs kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:51:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.699792861938477" lon="15.099570751190186">
+    <ns0:time>2024-09-21T09:38:25Z</ns0:time>
+    <ns0:name>Shop Ica Supermarket -S19</ns0:name>
+    <ns0:cmt>Ica Supermarket</ns0:cmt>
+    <ns0:desc>Ica Supermarket</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Solvägen 3</ns1:StreetAddress>
+          <ns1:City>Guldsmedshyttan</ns1:City>
+          <ns1:State>Örebro län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>711 78</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>058118750</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Solvägen 3</ns2:StreetAddress>
+          <ns2:City>Guldsmedshyttan</ns2:City>
+          <ns2:State>Örebro län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>711 78</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>058118750</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T09:38:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.153650371357799" lon="16.946566281840205">
+    <ns0:time>2025-03-31T11:03:29Z</ns0:time>
+    <ns0:name>Shop Tärnsjö -S12</ns0:name>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-31T11:03:29Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.654427487403154" lon="18.478139229118824">
+    <ns0:ele>55.34375</ns0:ele>
+    <ns0:time>2024-10-27T19:01:08Z</ns0:time>
+    <ns0:name>Swim Cool Mine Lake -S12</ns0:name>
+    <ns0:sym>Beach</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-27T19:01:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.920141696929932" lon="18.31244945526123">
+    <ns0:ele>16.31640625</ns0:ele>
+    <ns0:time>2024-10-28T08:08:57Z</ns0:time>
+    <ns0:name>Swim Hosjöns badplats -S12</ns0:name>
+    <ns0:cmt>Hosjöns badplats</ns0:cmt>
+    <ns0:desc>Hosjöns badplats</ns0:desc>
+    <ns0:sym>Beach</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-28T08:08:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.902165412902832" lon="16.764691472053528">
+    <ns0:ele>42</ns0:ele>
+    <ns0:time>2021-04-25T09:14:55Z</ns0:time>
+    <ns0:name>Swim Ora  -S07</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/8hvaW9RsYn6dk3Ri8" />
+    <ns0:sym>Beach</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-04-25T09:14:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.985378265380859" lon="17.058184146881104">
+    <ns0:time>2025-08-05T18:07:38Z</ns0:time>
+    <ns0:name>Systembolaget Bergsjö -S11</ns0:name>
+    <ns0:cmt>Systembolaget Ab
+Storgatan 21
+829 50, Bergsjö, Gävleborgs län, SWE
+065210514</ns0:cmt>
+    <ns0:desc>Systembolaget Ab
+Storgatan 21
+829 50, Bergsjö, Gävleborgs län, SWE
+065210514</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Storgatan 21</ns1:StreetAddress>
+          <ns1:City>Bergsjö</ns1:City>
+          <ns1:State>Gävleborgs län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>829 50</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>065210514</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Storgatan 21</ns2:StreetAddress>
+          <ns2:City>Bergsjö</ns2:City>
+          <ns2:State>Gävleborgs län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>829 50</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>065210514</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-05T18:07:38Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.546426773071289" lon="16.28497838973999">
+    <ns0:time>2025-09-24T17:45:41Z</ns0:time>
+    <ns0:name>Systembolaget Hofors -S07</ns0:name>
+    <ns0:cmt>Systembolaget Ab</ns0:cmt>
+    <ns0:desc>Systembolaget Ab</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Skolgatan 16</ns1:StreetAddress>
+          <ns1:City>Hofors</ns1:City>
+          <ns1:State>Gävleborgs län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>813 30</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>029020188</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Skolgatan 16</ns2:StreetAddress>
+          <ns2:City>Hofors</ns2:City>
+          <ns2:State>Gävleborgs län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>813 30</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>029020188</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-24T17:45:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.875822132453322" lon="14.99299418181181">
+    <ns0:ele>196.30000305175781</ns0:ele>
+    <ns0:time>2024-09-21T11:04:43Z</ns0:time>
+    <ns0:name>Systembolaget Kopparberg  -S17</ns0:name>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T11:04:43Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.830684661865234" lon="15.693755149841309">
+    <ns0:ele>120.5859375</ns0:ele>
+    <ns0:time>2024-09-21T06:51:20Z</ns0:time>
+    <ns0:name>Systembolaget Skinnskatteberg -S17</ns0:name>
+    <ns0:cmt>Systembolaget: Systembolaget</ns0:cmt>
+    <ns0:desc>Systembolaget: Systembolaget</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Skinnskattebergs kommun</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Skinnskattebergs kommun</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:51:20Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.920613765716553" lon="18.311548233032227">
+    <ns0:ele>20.015625</ns0:ele>
+    <ns0:time>2024-10-28T08:08:31Z</ns0:time>
+    <ns0:name>Toilet Hosjön  -S12</ns0:name>
+    <ns0:cmt>Okänt</ns0:cmt>
+    <ns0:desc>Okänt</ns0:desc>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-28T08:08:31Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.595229625701904" lon="18.528678417205811">
+    <ns0:ele>41.09765625</ns0:ele>
+    <ns0:time>2024-10-27T19:00:27Z</ns0:time>
+    <ns0:name>Toilet Largen -S12</ns0:name>
+    <ns0:cmt>Okänt</ns0:cmt>
+    <ns0:desc>Okänt</ns0:desc>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-27T19:00:27Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.803212303668261" lon="15.166944153606892">
+    <ns0:ele>116.47265625</ns0:ele>
+    <ns0:time>2025-07-28T10:43:56Z</ns0:time>
+    <ns0:name>Toilets Löa -S17</ns0:name>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-28T10:43:56Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.911258101463318" lon="16.553859114646912">
+    <ns0:ele>174.53515625</ns0:ele>
+    <ns0:time>2020-08-18T04:44:27Z</ns0:time>
+    <ns0:name>View Avholmsberget -S07</ns0:name>
+    <ns0:cmt>Café &amp; Restaurang Avholmsberget
+Avholmsberget
+Hudiksvall, Gävleborgs län, 820 62, SWE
+065320242</ns0:cmt>
+    <ns0:desc>Café &amp; Restaurang Avholmsberget
+Avholmsberget
+Hudiksvall, Gävleborgs län, 820 62, SWE
+065320242</ns0:desc>
+    <ns0:link href="https://www.avholmsberget.se/" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Avholmsberget</ns1:StreetAddress>
+          <ns1:City>Hudiksvall</ns1:City>
+          <ns1:State>Gävleborgs län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>820 62</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>065320242</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Avholmsberget</ns2:StreetAddress>
+          <ns2:City>Hudiksvall</ns2:City>
+          <ns2:State>Gävleborgs län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>820 62</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>065320242</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-08-18T04:44:27Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.689197549596429" lon="16.824119165539742">
+    <ns0:time>2024-10-27T18:44:12Z</ns0:time>
+    <ns0:name>View Bred Strömsbergs kvarn -S20</ns0:name>
+    <ns0:cmt>Nice old mill</ns0:cmt>
+    <ns0:desc>Nice old mill</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Bred Strömsbergs kvarn 7</ns1:StreetAddress>
+          <ns1:City>Enköping</ns1:City>
+          <ns1:State>Uppsala län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>725 96</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Bred Strömsbergs kvarn 7</ns2:StreetAddress>
+          <ns2:City>Enköping</ns2:City>
+          <ns2:State>Uppsala län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>725 96</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-27T18:44:12Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.925105795264244" lon="14.999581519514322">
+    <ns0:time>2023-03-11T12:16:19Z</ns0:time>
+    <ns0:name>View Finngruvan View Point -S17</ns0:name>
+    <ns0:cmt>The fin mines were put into use in the 1690s and were mined on a large scale throughout the 18th century. When the ore deposits began to run out in the middle of the 19th century, the business was shut down. The deepest mine hole is the Krongruvan, which is 54 meters deep. Here there are remains of a 1,780-metre-long bar passage, built in 1744, and a water break.
+
+Finngruvan was discovered in 1695 by Lisa Ersdotter. After her discovery of the Finngruvan, Lisa Ersdotter requested and received a finder's fee from King Karl XII. As a thank you, she received a silver bowl filled with silver coins. The bowl was donated in 1747 to Ljusnarsberg's church and has an inscription:
+
+"Of King Nåd is this Bowl hidden 60 dahl:r Silf:r M:t Åhr 1699 gifted Wife Elisabet Erichsdotter for Finngruwan's invention wijd Ljusnarsberg."
+
+Now you can see huge piles of warp (useless ore) and water-filled open pits. The water in the open pits has a green color due to copper precipitation. In several of the fractures, you can see the smooth sides of the rock walls which show that the quarrying took place without using gunpowder. The quarrying has taken place through so-called preparation, when the rock was heated up with fire so that cracks were formed which facilitated the quarrying of the rock.
+
+50 meters north of the Finngruvorna is the Fallgruvorna, which is first mentioned in 1725. The mines were put into use around the same time as the Finngruvorna. In 1747, an arm was built from the bar passage at Finngruvorna to Fallgruvorna. The mining was stopped in 1773 and already in 1794 the mines had been filled with water for several years.</ns0:cmt>
+    <ns0:desc>The fin mines were put into use in the 1690s and were mined on a large scale throughout the 18th century. When the ore deposits began to run out in the middle of the 19th century, the business was shut down. The deepest mine hole is the Krongruvan, which is 54 meters deep. Here there are remains of a 1,780-metre-long bar passage, built in 1744, and a water break.
+
+Finngruvan was discovered in 1695 by Lisa Ersdotter. After her discovery of the Finngruvan, Lisa Ersdotter requested and received a finder's fee from King Karl XII. As a thank you, she received a silver bowl filled with silver coins. The bowl was donated in 1747 to Ljusnarsberg's church and has an inscription:
+
+"Of King Nåd is this Bowl hidden 60 dahl:r Silf:r M:t Åhr 1699 gifted Wife Elisabet Erichsdotter for Finngruwan's invention wijd Ljusnarsberg."
+
+Now you can see huge piles of warp (useless ore) and water-filled open pits. The water in the open pits has a green color due to copper precipitation. In several of the fractures, you can see the smooth sides of the rock walls which show that the quarrying took place without using gunpowder. The quarrying has taken place through so-called preparation, when the rock was heated up with fire so that cracks were formed which facilitated the quarrying of the rock.
+
+50 meters north of the Finngruvorna is the Fallgruvorna, which is first mentioned in 1725. The mines were put into use around the same time as the Finngruvorna. In 1747, an arm was built from the bar passage at Finngruvorna to Fallgruvorna. The mining was stopped in 1773 and already in 1794 the mines had been filled with water for several years.</ns0:desc>
+    <ns0:link href="https://www.bergslagen.se/se--gora/historiska-miljoer/finngruvorna-kopparberg.html" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2023-03-11T12:16:19Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.947350025177002" lon="14.936728477478027">
+    <ns0:time>2024-10-12T14:42:51Z</ns0:time>
+    <ns0:name>View Ghost factory  -S17</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-12T14:42:51Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.176074979826808" lon="17.690853299573064">
+    <ns0:ele>24</ns0:ele>
+    <ns0:time>2024-08-26T10:11:41Z</ns0:time>
+    <ns0:name>View Giant Oak -S12</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-26T10:11:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.965696467086673" lon="16.269988194108009">
+    <ns0:time>2020-02-16T16:26:51Z</ns0:time>
+    <ns0:name>View Gladbäcken -S11</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/4rEH1nSjf29vkWqK8" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-16T16:26:51Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.862399101257324" lon="14.991080760955811">
+    <ns0:time>2023-03-08T14:58:41Z</ns0:time>
+    <ns0:name>View Greentower View Point -S17</ns0:name>
+    <ns0:cmt>Backarna 218
+714 93, Ljusnarsberg, Örebro län, SWE</ns0:cmt>
+    <ns0:desc>Backarna 218
+714 93, Ljusnarsberg, Örebro län, SWE</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Backarna 218</ns1:StreetAddress>
+          <ns1:City>Ljusnarsberg</ns1:City>
+          <ns1:State>Örebro län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>714 93</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Backarna 218</ns2:StreetAddress>
+          <ns2:City>Ljusnarsberg</ns2:City>
+          <ns2:State>Örebro län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>714 93</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2023-03-08T14:58:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="62.040512831881642" lon="17.088195970281959">
+    <ns0:time>2020-02-16T18:36:25Z</ns0:time>
+    <ns0:name>View Gränsfors bruk -S11</ns0:name>
+    <ns0:cmt>Gränsfors bruk</ns0:cmt>
+    <ns0:desc>Gränsfors bruk</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/ncoyHY6abfZZN5K59" />
+    <ns0:link href="http://www.gransforsbruk.com/" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Baståsen</ns1:StreetAddress>
+          <ns1:City>Gränsfors</ns1:City>
+          <ns1:State>Gavleborg County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>820 70</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>065271020</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Baståsen</ns2:StreetAddress>
+          <ns2:City>Gränsfors</ns2:City>
+          <ns2:State>Gavleborg County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>820 70</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>065271020</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2020-02-16T18:36:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.744888052344322" lon="14.830473521724343">
+    <ns0:time>2024-09-29T17:25:19Z</ns0:time>
+    <ns0:name>View Hamra National park -S11</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/LCrWhP3Nq7zU23seA" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-29T17:25:19Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.976313488557935" lon="16.470655985176563">
+    <ns0:ele>133.5859375</ns0:ele>
+    <ns0:time>2022-02-06T07:01:40Z</ns0:time>
+    <ns0:name>View Hedvigsfors -S11</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2022-02-06T07:01:40Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.370676452293992" lon="16.167266378179193">
+    <ns0:ele>139.08984375</ns0:ele>
+    <ns0:time>2021-04-18T09:04:52Z</ns0:time>
+    <ns0:name>View Klosters bruk -S07</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-04-18T09:04:52Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.742241382598877" lon="15.156519412994385">
+    <ns0:time>2024-09-16T06:28:35Z</ns0:time>
+    <ns0:name>View Loos old cobalt mine -S11</ns0:name>
+    <ns0:cmt>Loos Koboltgruva
+Pokerbacken 17
+827 70, Los, Gävleborgs län, SWE
+065710533</ns0:cmt>
+    <ns0:desc>Loos Koboltgruva
+Pokerbacken 17
+827 70, Los, Gävleborgs län, SWE
+065710533</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/TMrGcaQBvnMGJJkE9" />
+    <ns0:link href="http://loosgruvan.se/" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Pokerbacken 17</ns1:StreetAddress>
+          <ns1:City>Los</ns1:City>
+          <ns1:State>Gävleborgs län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>827 70</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>065710533</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Pokerbacken 17</ns2:StreetAddress>
+          <ns2:City>Los</ns2:City>
+          <ns2:State>Gävleborgs län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>827 70</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>065710533</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-16T06:28:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.742815578356385" lon="15.209027593955398">
+    <ns0:ele>247</ns0:ele>
+    <ns0:time>2024-09-21T06:43:57Z</ns0:time>
+    <ns0:name>View Mining Hole - Stråssa -S17</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:43:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.864009516313672" lon="16.25612385571003">
+    <ns0:time>2021-04-16T18:15:19Z</ns0:time>
+    <ns0:name>View Nedbrunnen skogsmaskin -S20</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-04-16T18:15:19Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.0754473824054" lon="14.98801801353693">
+    <ns0:time>2024-09-21T07:16:47Z</ns0:time>
+    <ns0:name>View Old Gränges Mining Area -S17</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T07:16:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.710303517058492" lon="15.105345631018281">
+    <ns0:time>2024-09-21T09:32:06Z</ns0:time>
+    <ns0:name>View Old Stuff Storå -S19</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T09:32:06Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.841953292489052" lon="14.995688293129206">
+    <ns0:ele>202.80000000000001</ns0:ele>
+    <ns0:time>2024-09-21T11:04:43Z</ns0:time>
+    <ns0:name>View Rally Calle's Car -S17</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T11:04:43Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.43368062004447" lon="16.20851187966764">
+    <ns0:ele>130.6015625</ns0:ele>
+    <ns0:time>2021-04-18T09:03:30Z</ns0:time>
+    <ns0:name>View Stjärnsund -S07</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-04-18T09:03:30Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.742815578356385" lon="15.209027593955398">
+    <ns0:ele>247</ns0:ele>
+    <ns0:time>2024-09-21T06:43:57Z</ns0:time>
+    <ns0:name>View Stråssa - Mining Hole -S19</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:43:57Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.752518134191632" lon="15.193942598998547">
+    <ns0:time>2024-09-21T10:38:48Z</ns0:time>
+    <ns0:name>View Stråssa - The Moon  -S19</ns0:name>
+    <ns0:cmt>Strassa mine
+Iron ore mining in Stråssa has very old origins: mining is documented from the 15th century. For a long time, miners took care of the operation. Among them was the famous "Mine Mother" Maria Olsdotter, called Sweden's first female mining bailiff. However, the ownership changed after the mining privileges ended in 1874, and Stråssa Grufvebolag was formed. This company was transformed into a joint-stock company in 1906. Already the following year, the mining field was bought by Metallurgiska AB. A leading profile in this company, which due to its highly speculative (and probably also dubious) business was later named Metallurgical Härvan, was the wholesaler William Olsson. During the time of the Metallurgical Härvan, the still-preserved mine cabin and a large workshop building were built. After this failed, Stråssa came into the possession of an Austrian company between 1913 and 1917. In 1914, this company received a concession on a seven kilometer long railway between Stråssa and Storå, which was opened for traffic on July 31 of the following year. For many years, the traffic was managed by TGOJ. Grängesbergsbolaget, or Trafik AB Grängesberg-Oxelösund as the company was actually called, became the owner of the mine in 1917. As early as 1923, however, operations were shut down due to a declining economy and technical difficulties.</ns0:cmt>
+    <ns0:desc>Strassa mine
+Iron ore mining in Stråssa has very old origins: mining is documented from the 15th century. For a long time, miners took care of the operation. Among them was the famous "Mine Mother" Maria Olsdotter, called Sweden's first female mining bailiff. However, the ownership changed after the mining privileges ended in 1874, and Stråssa Grufvebolag was formed. This company was transformed into a joint-stock company in 1906. Already the following year, the mining field was bought by Metallurgiska AB. A leading profile in this company, which due to its highly speculative (and probably also dubious) business was later named Metallurgical Härvan, was the wholesaler William Olsson. During the time of the Metallurgical Härvan, the still-preserved mine cabin and a large workshop building were built. After this failed, Stråssa came into the possession of an Austrian company between 1913 and 1917. In 1914, this company received a concession on a seven kilometer long railway between Stråssa and Storå, which was opened for traffic on July 31 of the following year. For many years, the traffic was managed by TGOJ. Grängesbergsbolaget, or Trafik AB Grängesberg-Oxelösund as the company was actually called, became the owner of the mine in 1917. As early as 1923, however, operations were shut down due to a declining economy and technical difficulties.</ns0:desc>
+    <ns0:link href="https://youtu.be/OCP8JDaN30A?si=PR1gYsXH_zmaEtbZ&amp;t=526" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T10:38:48Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.749487154185772" lon="15.20153216086328">
+    <ns0:time>2024-05-25T06:24:16Z</ns0:time>
+    <ns0:name>View Stråssa - Zombi Town -S19</ns0:name>
+    <ns0:cmt>The scenario facility at Stråssa mine consists of a large number of old industrial buildings and service buildings where the mining office (&gt;6000 sq m) and the ball sinter plant (&gt;15,000 sq m) stand out as the largest. In the area, we also own over 4 ha of land, where the track is built and the service parts are located. Additional land is leased and used at the larger events.
+
+In the facility you will find a lot of exciting things. For example. virus labs, morgues, office landscapes, machine rooms, power stations, warehouses, residential quarters, trenches, bunkers and much, much more. For the larger houses, we currently have about 95 40-foot containers and concrete houses, many with several floors. The facility is developed to be able to arrange battle scenes from smaller groups in scenario games to large-scale big games with hundreds of participants. The facility is particularly well suited to Apocalyptic Lives. Construction is ongoing all the time in Stråssa and is therefore increasing both in size and service level. TV series such as Dystopia and Hide and seek have been recorded here and of course a lot of music videos.
+
+In the service house (mining office) there is also our "Zombie track", a horror facility where e.g. The Zombie Escape and Alone Survivor events are carried out. The course is structured around different themes such as high-risk labs, morgues and much more. The horror facility has built-in effects similar to those in haunted houses but much more advanced.</ns0:cmt>
+    <ns0:desc>The scenario facility at Stråssa mine consists of a large number of old industrial buildings and service buildings where the mining office (&gt;6000 sq m) and the ball sinter plant (&gt;15,000 sq m) stand out as the largest. In the area, we also own over 4 ha of land, where the track is built and the service parts are located. Additional land is leased and used at the larger events.
+
+In the facility you will find a lot of exciting things. For example. virus labs, morgues, office landscapes, machine rooms, power stations, warehouses, residential quarters, trenches, bunkers and much, much more. For the larger houses, we currently have about 95 40-foot containers and concrete houses, many with several floors. The facility is developed to be able to arrange battle scenes from smaller groups in scenario games to large-scale big games with hundreds of participants. The facility is particularly well suited to Apocalyptic Lives. Construction is ongoing all the time in Stråssa and is therefore increasing both in size and service level. TV series such as Dystopia and Hide and seek have been recorded here and of course a lot of music videos.
+
+In the service house (mining office) there is also our "Zombie track", a horror facility where e.g. The Zombie Escape and Alone Survivor events are carried out. The course is structured around different themes such as high-risk labs, morgues and much more. The horror facility has built-in effects similar to those in haunted houses but much more advanced.</ns0:desc>
+    <ns0:link href="https://youtu.be/OCP8JDaN30A?si=B_n3YU21EkkRfGos&amp;t=416" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-05-25T06:24:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.935183860361576" lon="14.943841360509396">
+    <ns0:time>2024-10-12T14:36:26Z</ns0:time>
+    <ns0:name>View Ställdalen Ghost town -S17</ns0:name>
+    <ns0:cmt>https://www.youtube.com/watch?v=zuab8CqioII</ns0:cmt>
+    <ns0:desc>https://www.youtube.com/watch?v=zuab8CqioII</ns0:desc>
+    <ns0:link href="https://www.youtube.com/watch?v=zuab8CqioII" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-12T14:36:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.911730984225869" lon="16.137760570272803">
+    <ns0:ele>281.63671875</ns0:ele>
+    <ns0:time>2021-04-18T08:59:30Z</ns0:time>
+    <ns0:name>View Svartnäs bruk -S07</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-04-18T08:59:30Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.752518134191632" lon="15.193942598998547">
+    <ns0:time>2024-09-21T10:38:48Z</ns0:time>
+    <ns0:name>View The Moon - Stråssa -S17</ns0:name>
+    <ns0:cmt>Strassa mine
+Iron ore mining in Stråssa has very old origins: mining is documented from the 15th century. For a long time, miners took care of the operation. Among them was the famous "Mine Mother" Maria Olsdotter, called Sweden's first female mining bailiff. However, the ownership changed after the mining privileges ended in 1874, and Stråssa Grufvebolag was formed. This company was transformed into a joint-stock company in 1906. Already the following year, the mining field was bought by Metallurgiska AB. A leading profile in this company, which due to its highly speculative (and probably also dubious) business was later named Metallurgical Härvan, was the wholesaler William Olsson. During the time of the Metallurgical Härvan, the still-preserved mine cabin and a large workshop building were built. After this failed, Stråssa came into the possession of an Austrian company between 1913 and 1917. In 1914, this company received a concession on a seven kilometer long railway between Stråssa and Storå, which was opened for traffic on July 31 of the following year. For many years, the traffic was managed by TGOJ. Grängesbergsbolaget, or Trafik AB Grängesberg-Oxelösund as the company was actually called, became the owner of the mine in 1917. As early as 1923, however, operations were shut down due to a declining economy and technical difficulties.</ns0:cmt>
+    <ns0:desc>Strassa mine
+Iron ore mining in Stråssa has very old origins: mining is documented from the 15th century. For a long time, miners took care of the operation. Among them was the famous "Mine Mother" Maria Olsdotter, called Sweden's first female mining bailiff. However, the ownership changed after the mining privileges ended in 1874, and Stråssa Grufvebolag was formed. This company was transformed into a joint-stock company in 1906. Already the following year, the mining field was bought by Metallurgiska AB. A leading profile in this company, which due to its highly speculative (and probably also dubious) business was later named Metallurgical Härvan, was the wholesaler William Olsson. During the time of the Metallurgical Härvan, the still-preserved mine cabin and a large workshop building were built. After this failed, Stråssa came into the possession of an Austrian company between 1913 and 1917. In 1914, this company received a concession on a seven kilometer long railway between Stråssa and Storå, which was opened for traffic on July 31 of the following year. For many years, the traffic was managed by TGOJ. Grängesbergsbolaget, or Trafik AB Grängesberg-Oxelösund as the company was actually called, became the owner of the mine in 1917. As early as 1923, however, operations were shut down due to a declining economy and technical difficulties.</ns0:desc>
+    <ns0:link href="https://youtu.be/OCP8JDaN30A?si=PR1gYsXH_zmaEtbZ&amp;t=526" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T10:38:48Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.748619962483644" lon="15.460841674357653">
+    <ns0:ele>146.69999999999999</ns0:ele>
+    <ns0:time>2025-03-10T19:30:53Z</ns0:time>
+    <ns0:name>View The Sign -S17</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-10T19:30:53Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.629692994058132" lon="16.872960599139333">
+    <ns0:time>2021-04-16T18:18:40Z</ns0:time>
+    <ns0:name>View Tillinge Nykvarns kvarn -S20</ns0:name>
+    <ns0:cmt>Tillinge Nykvarns kvarn 1
+745 94, Enköping, C, SWE</ns0:cmt>
+    <ns0:desc>Tillinge Nykvarns kvarn 1
+745 94, Enköping, C, SWE</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Tillinge Nykvarns kvarn 1</ns1:StreetAddress>
+          <ns1:City>Enköping</ns1:City>
+          <ns1:State>C</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>745 94</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Tillinge Nykvarns kvarn 1</ns2:StreetAddress>
+          <ns2:City>Enköping</ns2:City>
+          <ns2:State>C</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>745 94</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-04-16T18:18:40Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="61.491803359240294" lon="14.709332892671227">
+    <ns0:ele>419.79296875</ns0:ele>
+    <ns0:time>2025-08-15T04:54:30Z</ns0:time>
+    <ns0:name>View Trollgraven Oreälven -S21</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-15T04:54:30Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.156188076362014" lon="16.926429430022836">
+    <ns0:time>2024-08-01T10:49:55Z</ns0:time>
+    <ns0:name>View Tärnsjö SteamTrain -S12</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-01T10:49:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.830776887014508" lon="16.046694796532393">
+    <ns0:ele>348.41015625</ns0:ele>
+    <ns0:time>2021-04-18T09:00:05Z</ns0:time>
+    <ns0:name>View Vintjärn bruk -S07</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-04-18T09:00:05Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.776099361479282" lon="16.331598535180092">
+    <ns0:time>2021-05-10T07:24:22Z</ns0:time>
+    <ns0:name>View Västmanlands falska mittpunkt -S20</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-05-10T07:24:22Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.749487154185772" lon="15.20153216086328">
+    <ns0:time>2024-05-25T06:24:16Z</ns0:time>
+    <ns0:name>View Zombi Town - Stråssa  -S17</ns0:name>
+    <ns0:cmt>The scenario facility at Stråssa mine consists of a large number of old industrial buildings and service buildings where the mining office (&gt;6000 sq m) and the ball sinter plant (&gt;15,000 sq m) stand out as the largest. In the area, we also own over 4 ha of land, where the track is built and the service parts are located. Additional land is leased and used at the larger events.
+
+In the facility you will find a lot of exciting things. For example. virus labs, morgues, office landscapes, machine rooms, power stations, warehouses, residential quarters, trenches, bunkers and much, much more. For the larger houses, we currently have about 95 40-foot containers and concrete houses, many with several floors. The facility is developed to be able to arrange battle scenes from smaller groups in scenario games to large-scale big games with hundreds of participants. The facility is particularly well suited to Apocalyptic Lives. Construction is ongoing all the time in Stråssa and is therefore increasing both in size and service level. TV series such as Dystopia and Hide and seek have been recorded here and of course a lot of music videos.
+
+In the service house (mining office) there is also our "Zombie track", a horror facility where e.g. The Zombie Escape and Alone Survivor events are carried out. The course is structured around different themes such as high-risk labs, morgues and much more. The horror facility has built-in effects similar to those in haunted houses but much more advanced.</ns0:cmt>
+    <ns0:desc>The scenario facility at Stråssa mine consists of a large number of old industrial buildings and service buildings where the mining office (&gt;6000 sq m) and the ball sinter plant (&gt;15,000 sq m) stand out as the largest. In the area, we also own over 4 ha of land, where the track is built and the service parts are located. Additional land is leased and used at the larger events.
+
+In the facility you will find a lot of exciting things. For example. virus labs, morgues, office landscapes, machine rooms, power stations, warehouses, residential quarters, trenches, bunkers and much, much more. For the larger houses, we currently have about 95 40-foot containers and concrete houses, many with several floors. The facility is developed to be able to arrange battle scenes from smaller groups in scenario games to large-scale big games with hundreds of participants. The facility is particularly well suited to Apocalyptic Lives. Construction is ongoing all the time in Stråssa and is therefore increasing both in size and service level. TV series such as Dystopia and Hide and seek have been recorded here and of course a lot of music videos.
+
+In the service house (mining office) there is also our "Zombie track", a horror facility where e.g. The Zombie Escape and Alone Survivor events are carried out. The course is structured around different themes such as high-risk labs, morgues and much more. The horror facility has built-in effects similar to those in haunted houses but much more advanced.</ns0:desc>
+    <ns0:link href="https://youtu.be/OCP8JDaN30A?si=B_n3YU21EkkRfGos&amp;t=416" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-05-25T06:24:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="60.778710851445794" lon="16.045933216810226">
+    <ns0:ele>258.984375</ns0:ele>
+    <ns0:time>2021-04-18T09:01:22Z</ns0:time>
+    <ns0:name>View Ågs bruk -S07</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-04-18T09:01:22Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.750148318707943" lon="15.003088340163231">
+    <ns0:ele>181.22016218035827</ns0:ele>
+    <ns0:time>2025-10-27T08:18:01Z</ns0:time>
+    <ns0:name>Viewpoint Wille and Laura's</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-10-27T08:18:01Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:rte><ns0:name>Bounds r3 c2</ns0:name><ns0:rtept lat="59.534437387885745" lon="14.635452967758535" /><ns0:rtept lat="59.534437387885745" lon="19.777214191497503" /><ns0:rtept lat="62.16171001740926" lon="19.777214191497503" /><ns0:rtept lat="62.16171001740926" lon="14.635452967758535" /><ns0:rtept lat="59.534437387885745" lon="14.635452967758535" /></ns0:rte></gpx>

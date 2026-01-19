@@ -1,0 +1,280 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" xmlns:ns1="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ns2="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" version="1.1" creator="Garmin Desktop App" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:link href="http://www.garmin.com">
+      <ns0:text>Garmin International</ns0:text>
+    </ns0:link>
+    <ns0:time>2026-01-02T09:14:53Z</ns0:time>
+    <ns0:bounds maxlat="67.943594455718994" maxlon="24.038901329040527" minlat="55.337739139795303" minlon="11.169615872204304" />
+  <ns0:desc>Cell r1 c2 · waypoints: 13</ns0:desc><ns0:keywords>S.gpx</ns0:keywords></ns0:metadata>
+
+  <ns0:wpt lat="56.869294568896294" lon="15.54916363209486">
+    <ns0:ele>229.46875</ns0:ele>
+    <ns0:time>2025-11-08T18:34:47Z</ns0:time>
+    <ns0:name>! This sign is only valid when the gate is closed -S23</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-11-08T18:34:47Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.893738964572549" lon="15.872754966840148">
+    <ns0:time>2025-09-10T19:02:13Z</ns0:time>
+    <ns0:name>Camp Orrefors Vindskydd -S23</ns0:name>
+    <ns0:cmt>Stensjön - Orrefors Vindskydd</ns0:cmt>
+    <ns0:desc>Stensjön - Orrefors Vindskydd</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-10T19:02:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.47873249836266" lon="15.233002686873078">
+    <ns0:ele>135.25999999999999</ns0:ele>
+    <ns0:time>2025-09-02T13:17:21Z</ns0:time>
+    <ns0:name>Campsite Sleep  -S23</ns0:name>
+    <ns0:sym>RV Park</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-02T13:17:21Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.734111737459898" lon="15.480817509815097">
+    <ns0:ele>180.83203125</ns0:ele>
+    <ns0:time>2025-11-08T18:26:23Z</ns0:time>
+    <ns0:name>Gas Eriksmåla -S23</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-11-08T18:26:23Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.40781631693244" lon="14.653884256258607">
+    <ns0:ele>131.4921875</ns0:ele>
+    <ns0:time>2025-11-08T17:49:11Z</ns0:time>
+    <ns0:name>Gas Mark5 -S23</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-11-08T17:49:11Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.418725280091166" lon="14.964545667171478">
+    <ns0:ele>118</ns0:ele>
+    <ns0:time>2025-09-02T11:54:58Z</ns0:time>
+    <ns0:name>Restarea Långasjömåla -S23</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-02T11:54:58Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.428145784884691" lon="15.183812649920583">
+    <ns0:ele>106.41015625</ns0:ele>
+    <ns0:time>2025-11-08T18:11:29Z</ns0:time>
+    <ns0:name>Restarea Shelter Skog10 -S23</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-11-08T18:11:29Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.196430921554565" lon="15.643351078033447">
+    <ns0:ele>3.5703125</ns0:ele>
+    <ns0:time>2025-12-19T06:02:33Z</ns0:time>
+    <ns0:name>SystembolagetKarlskrona -S25</ns0:name>
+    <ns0:cmt>Systembolaget</ns0:cmt>
+    <ns0:desc>Systembolaget</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>9 Verkövägen</ns1:StreetAddress>
+          <ns1:City>Lyckeby</ns1:City>
+          <ns1:State>Blekinge län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>371 62</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>045514055</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>9 Verkövägen</ns2:StreetAddress>
+          <ns2:City>Lyckeby</ns2:City>
+          <ns2:State>Blekinge län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>371 62</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>045514055</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-12-19T06:02:33Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.418684041127563" lon="14.965188140049577">
+    <ns0:ele>117.01000000000001</ns0:ele>
+    <ns0:time>2025-09-02T11:55:13Z</ns0:time>
+    <ns0:name>ToiletLångasjömåla -S23</ns0:name>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-02T11:55:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.46657002158463" lon="14.650299986824393">
+    <ns0:ele>156.15625</ns0:ele>
+    <ns0:time>2025-12-14T19:30:08Z</ns0:time>
+    <ns0:name>View Bilkyrkogård -S23</ns0:name>
+    <ns0:cmt>N56.46657° E14.65030°</ns0:cmt>
+    <ns0:desc>N56.46657° E14.65030°</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-12-14T19:30:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.431613629683852" lon="15.186785962432623">
+    <ns0:ele>110.45</ns0:ele>
+    <ns0:time>2025-09-02T12:33:44Z</ns0:time>
+    <ns0:name>View hydroelectric plant -S23</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-02T12:33:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.672618659213185" lon="15.467922035604715">
+    <ns0:ele>148.77000000000001</ns0:ele>
+    <ns0:time>2025-09-02T14:20:01Z</ns0:time>
+    <ns0:name>View Mobergsstenen -S23</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-02T14:20:01Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.400775937363505" lon="14.895201763138175">
+    <ns0:ele>107.68000000000001</ns0:ele>
+    <ns0:time>2025-09-02T11:38:26Z</ns0:time>
+    <ns0:name>View Älgriket -S23</ns0:name>
+    <ns0:cmt>https://www.xn--lgriket-4wa.se/en</ns0:cmt>
+    <ns0:desc>https://www.xn--lgriket-4wa.se/en</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-02T11:38:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:rte><ns0:name>Bounds r1 c2</ns0:name><ns0:rtept lat="54.27989212883871" lon="14.635452967758535" /><ns0:rtept lat="54.27989212883871" lon="19.777214191497503" /><ns0:rtept lat="56.90716475836223" lon="19.777214191497503" /><ns0:rtept lat="56.90716475836223" lon="14.635452967758535" /><ns0:rtept lat="54.27989212883871" lon="14.635452967758535" /></ns0:rte></gpx>

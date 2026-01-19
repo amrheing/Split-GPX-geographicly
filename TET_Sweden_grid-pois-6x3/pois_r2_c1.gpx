@@ -1,0 +1,3365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" xmlns:ns1="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ns2="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" version="1.1" creator="Garmin Desktop App" xmlns="http://www.topografix.com/GPX/1/1"><ns0:metadata>
+    <ns0:link href="http://www.garmin.com">
+      <ns0:text>Garmin International</ns0:text>
+    </ns0:link>
+    <ns0:time>2026-01-02T09:14:53Z</ns0:time>
+    <ns0:bounds maxlat="67.943594455718994" maxlon="24.038901329040527" minlat="55.337739139795303" minlon="11.169615872204304" />
+  <ns0:desc>Cell r2 c1 · waypoints: 124</ns0:desc><ns0:keywords>S.gpx</ns0:keywords></ns0:metadata>
+
+  <ns0:wpt lat="57.441443111747503" lon="12.988284509629011">
+    <ns0:time>2025-08-02T06:50:39Z</ns0:time>
+    <ns0:name>! Farm slow down -S26</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T06:50:39Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.428390979766846" lon="14.09470796585083">
+    <ns0:time>2025-08-02T08:01:21Z</ns0:time>
+    <ns0:name>ATM -S26</ns0:name>
+    <ns0:cmt>Bank/bankomat
+Skillingaryd, SWE</ns0:cmt>
+    <ns0:desc>Bank/bankomat
+Skillingaryd, SWE</ns0:desc>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Skillingaryd</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Skillingaryd</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T08:01:21Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.627515435218811" lon="14.463962316513062">
+    <ns0:ele>131.90234375</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Björklången -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/92tq393a4n2iqca2tntbfv2v4s/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrZTwNvgRWtztRf5Samn86t5y-i-Nsjm4RXhrnR5j8GIo5LJcd8v_o50Fn8GoXyjEjpin_xWI5scFfF6lM5mC2-kiKb7obaugMBI76mocQRIOI3EVzGa91CvxYP1zKqe7AcqOTNBFr6scGL99d7ozgqiV85gNeiuPxhgCWjVANcEVEoe_aa_4NKN-Y3EMJ_uqceLlmE-8h0Po9qn3uNzYK9Y-NraSDefiT65g2LNBclRi-OBUc9-dQkXvNQaktjm15oHinfAc5Zu3_BK9u8HO74c0ne7Q?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger längs en ridled, Undennäsleden.&lt;br&gt;360x220 stort, trätak med tjärpapp. Trätaket är murket på vissa fläckar så viss risk för läckage finns. Eldstad finns men ingen ved eller toalett. Tre mikrohagar för hästar finns. Ett mycket vackert ställe! 300m till väg österut, sedan bred stig.</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/92tq393a4n2iqca2tntbfv2v4s/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrZTwNvgRWtztRf5Samn86t5y-i-Nsjm4RXhrnR5j8GIo5LJcd8v_o50Fn8GoXyjEjpin_xWI5scFfF6lM5mC2-kiKb7obaugMBI76mocQRIOI3EVzGa91CvxYP1zKqe7AcqOTNBFr6scGL99d7ozgqiV85gNeiuPxhgCWjVANcEVEoe_aa_4NKN-Y3EMJ_uqceLlmE-8h0Po9qn3uNzYK9Y-NraSDefiT65g2LNBclRi-OBUc9-dQkXvNQaktjm15oHinfAc5Zu3_BK9u8HO74c0ne7Q?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger längs en ridled, Undennäsleden.&lt;br&gt;360x220 stort, trätak med tjärpapp. Trätaket är murket på vissa fläckar så viss risk för läckage finns. Eldstad finns men ingen ved eller toalett. Tre mikrohagar för hästar finns. Ett mycket vackert ställe! 300m till väg österut, sedan bred stig.</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.774798274040222" lon="13.853711485862732">
+    <ns0:ele>215.5390625</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Bottnaryd -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/2pluro1p98fjnl75l6fva4epug/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALp5Lm_GI546riWpGm0Dh4RX8iYLqsKlHUQZ4SCiMH2ptNpgqyDzUDa0in_7cUxmoXZDBpVAJ2Rltg0QE5Ot1museNgeWrb85IwYhLzwZJf_f5wOMnWygf4jH4XZMZFKfl2xumC830iyfbWUyF0-XmR2Cxfw_Pbr1II-7ieTHSKpDTw8s_EnejOWfm3YjfACmU_dEs7H-DRjAbbWPbX7x1CuLbJlFNFItG-gc96ZnIUwKe58Bpp2VhtCQ00uODqZahz_dG9rbe4hzRelp5c9BriihK0yQA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger precis vi sjökanten på stor grönyta där det även går att tälta. Öppet från sjön så det kan vara blåsigt. Ingen ved. Dass finns. Körbart hela vägen fram.</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/2pluro1p98fjnl75l6fva4epug/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALp5Lm_GI546riWpGm0Dh4RX8iYLqsKlHUQZ4SCiMH2ptNpgqyDzUDa0in_7cUxmoXZDBpVAJ2Rltg0QE5Ot1museNgeWrb85IwYhLzwZJf_f5wOMnWygf4jH4XZMZFKfl2xumC830iyfbWUyF0-XmR2Cxfw_Pbr1II-7ieTHSKpDTw8s_EnejOWfm3YjfACmU_dEs7H-DRjAbbWPbX7x1CuLbJlFNFItG-gc96ZnIUwKe58Bpp2VhtCQ00uODqZahz_dG9rbe4hzRelp5c9BriihK0yQA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger precis vi sjökanten på stor grönyta där det även går att tälta. Öppet från sjön så det kan vara blåsigt. Ingen ved. Dass finns. Körbart hela vägen fram.</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.342233061790466" lon="13.837940096855164">
+    <ns0:ele>240.328125</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Granås -S01</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/cor7h07ekfkqvo1pvbpcqcovmc/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALoaLUXSjmO0w4LcViS9wIOPfzV3VJrq-Dp9w4eVUlyLnqEB6RpJYlPvGjR6xyc3Vn5Ofq8RSrMZc7Wt4gTsUesrSB49pKLHb8PO96E-N3izwoqDuyBqAqfhYdN4Gp4HN7drwgz2UAUIoO3HCCFvWYdVWquJVC_yVxfDHpkKZED93wfZcD56vTJKgbcu1pn2YriRBi19K0RWoU-NUTXHx0YL4B4o05_cHznLvg2MLAA4ymfJ3go-4Dea6F-C1E-_yvrq2fyZIDNsqjMIuqYbvC4HtB7WPQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger mitt ute på ett kalhygge. Skyddet är i bra skick. Plats för 6 sovande. Det finns dass och soptunna även ved. Det finns en brun som ligger 200 meter bort som är märkt som dricksvatten. Körbart</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/cor7h07ekfkqvo1pvbpcqcovmc/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALoaLUXSjmO0w4LcViS9wIOPfzV3VJrq-Dp9w4eVUlyLnqEB6RpJYlPvGjR6xyc3Vn5Ofq8RSrMZc7Wt4gTsUesrSB49pKLHb8PO96E-N3izwoqDuyBqAqfhYdN4Gp4HN7drwgz2UAUIoO3HCCFvWYdVWquJVC_yVxfDHpkKZED93wfZcD56vTJKgbcu1pn2YriRBi19K0RWoU-NUTXHx0YL4B4o05_cHznLvg2MLAA4ymfJ3go-4Dea6F-C1E-_yvrq2fyZIDNsqjMIuqYbvC4HtB7WPQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger mitt ute på ett kalhygge. Skyddet är i bra skick. Plats för 6 sovande. Det finns dass och soptunna även ved. Det finns en brun som ligger 200 meter bort som är märkt som dricksvatten. Körbart</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.366682007908821" lon="14.337898995727301">
+    <ns0:time>2024-06-24T14:25:24Z</ns0:time>
+    <ns0:name>Camp Gärdsbodammen -S02</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-06-24T14:25:24Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.15200001001358" lon="14.135000025853515">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Hjo -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/g9b3s933c8vsnfcd7ag4502sm4/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALr3uDPEklzV1lyVXoLnxTcLhoIlKQKPLN1740ZOWA36wIFv_1BwGpBhawR0WBKghYUnAcGJqRC9YOAe1DQnkg0xpo1Qgkb7a8ey0HIStwkNXwRHFVQq3MnEyn8-vw22ZdCTqUNhkriCC7yeDuOBoB6WTi8o57lP2CA8vQXrhOH26nbBKr3WxQBIvBRPHOE0CGzlQ2gNHHvelTpFSyyYWkZWhaPvY_UfC6nmLwPKNdX1y10AX0LMalYQstANxskRh6mITTZZ5raoRFMd9XRrrOguzW6PUQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Minsta vindskyddet idag. Plats för en eller möjligen två. Ligger i kanten av ett kalhygge.</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/g9b3s933c8vsnfcd7ag4502sm4/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALr3uDPEklzV1lyVXoLnxTcLhoIlKQKPLN1740ZOWA36wIFv_1BwGpBhawR0WBKghYUnAcGJqRC9YOAe1DQnkg0xpo1Qgkb7a8ey0HIStwkNXwRHFVQq3MnEyn8-vw22ZdCTqUNhkriCC7yeDuOBoB6WTi8o57lP2CA8vQXrhOH26nbBKr3WxQBIvBRPHOE0CGzlQ2gNHHvelTpFSyyYWkZWhaPvY_UfC6nmLwPKNdX1y10AX0LMalYQstANxskRh6mITTZZ5raoRFMd9XRrrOguzW6PUQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Minsta vindskyddet idag. Plats för en eller möjligen två. Ligger i kanten av ett kalhygge.</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.493600845336914" lon="14.335269927978516">
+    <ns0:time>2025-08-02T08:03:29Z</ns0:time>
+    <ns0:name>Camp Horshaga Vindskydd -S26</ns0:name>
+    <ns0:cmt>1 Horshaga Vindskydd</ns0:cmt>
+    <ns0:desc>1 Horshaga Vindskydd</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T08:03:29Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.09296989440918" lon="14.069302082061768">
+    <ns0:ele>51.5625</ns0:ele>
+    <ns0:time>2025-10-27T08:54:24Z</ns0:time>
+    <ns0:name>Camp Hut Free Nice Linsöstugan - S02</ns0:name>
+    <ns0:cmt>Linsöstugan
+https://map.campwild.org/places/4357
+
+Hut with several beds, Firepit, Fireplace, FireKitchen etc.</ns0:cmt>
+    <ns0:desc>Linsöstugan
+https://map.campwild.org/places/4357
+
+Hut with several beds, Firepit, Fireplace, FireKitchen etc.</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/4357" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-10-27T08:54:24Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.641910180449486" lon="14.415167570114136">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Iglasjön -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0o-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/6eanedenk6mhv2vk1p3cf63jvk/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALoXmgOCV7iQF5IATLpd6hX_TWr23c6imzWxYRorLAbUo_UFf6m3VcuVkeFBgRwDKJH_0Qn1AIx7LtBRmyMCDeTJ_EiQq6Yb4sEkv9W6YmpIN1Oapl7xd3iDfz4NqGijXnS0SHB1dGUSBtB_fya00tDi8tOF99JyqZ3T8PfDyxnm58k3b1LI2p9s30mRzP6wQe-q5U25Wy7kgAZXtD3NE7C91VTTyjCL3ngda_xBv-V5ylQu0id-fszofLqno9yq5vZdbn1gmmo2XaK_pNBrgQvAFRVjkg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger längs en ridled, Undennäsleden.&lt;br&gt;Ett rastställe med plåttak utan sovmöjligheter med plats för 10 personer runt eldstaden. Vedförråd på baksidan som var tomt oktober -16. Man kan köra ända fram.</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0o-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/6eanedenk6mhv2vk1p3cf63jvk/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALoXmgOCV7iQF5IATLpd6hX_TWr23c6imzWxYRorLAbUo_UFf6m3VcuVkeFBgRwDKJH_0Qn1AIx7LtBRmyMCDeTJ_EiQq6Yb4sEkv9W6YmpIN1Oapl7xd3iDfz4NqGijXnS0SHB1dGUSBtB_fya00tDi8tOF99JyqZ3T8PfDyxnm58k3b1LI2p9s30mRzP6wQe-q5U25Wy7kgAZXtD3NE7C91VTTyjCL3ngda_xBv-V5ylQu0id-fszofLqno9yq5vZdbn1gmmo2XaK_pNBrgQvAFRVjkg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger längs en ridled, Undennäsleden.&lt;br&gt;Ett rastställe med plåttak utan sovmöjligheter med plats för 10 personer runt eldstaden. Vedförråd på baksidan som var tomt oktober -16. Man kan köra ända fram.</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.70573197863996" lon="13.693106006830931">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T20:51:46Z</ns0:time>
+    <ns0:name>Camp Komosse -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://lh6.googleusercontent.com/proxy/EF3Hm-1X0rmPt3lhbH2Jw-TCvJxQjxxPbxhRYcwHNzREQdKK-DAuOrxZ10K0kGPWphxkptXpZB_szgMeTQRZtK52XUQyIAHqu3W2OBT3F6wQEsUmD8U_CSAXsCKS9sTyyLaNsOa__DEAwTBPqi4XldYj09BH_LzGCGbDtC3c5sOBSlhcaxBgXeYJVuDZkqpx0g" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;vandringsled från vägen har inte kollat vindskyddet</ns0:cmt>
+    <ns0:desc>&lt;img src="https://lh6.googleusercontent.com/proxy/EF3Hm-1X0rmPt3lhbH2Jw-TCvJxQjxxPbxhRYcwHNzREQdKK-DAuOrxZ10K0kGPWphxkptXpZB_szgMeTQRZtK52XUQyIAHqu3W2OBT3F6wQEsUmD8U_CSAXsCKS9sTyyLaNsOa__DEAwTBPqi4XldYj09BH_LzGCGbDtC3c5sOBSlhcaxBgXeYJVuDZkqpx0g" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;vandringsled från vägen har inte kollat vindskyddet</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T20:51:46Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.575826644897461" lon="13.515329360961914">
+    <ns0:ele>187.85546875</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Källeberg -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/jim9fs8rlg4j5oiibhbp0pmiho/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrkZjBvqbdA4uBIfz5QyY2b18VzFLuUq72ZHirij1nhkws05K1feOI_YwRL6pmZ_x-X9Z3RarrWJ4v84dZGnXAP4GArBpw5ZnReh41SlkZeQh4bDm2z-jB1DYvoZozlI32XSopyNbg2214bK01oSXZkQofZ0VFuuFVoShNnIE8Z6pMzlgJjUgvnvx3LME5NjN8ot2xPDQajexHxJ1ppfbPvhRbC8X51thyJiwGKbvyEJZNfIfQ0Q0VV92TGu6wWx7aZkCUqbTJTyILcoouNsCVWiua0EA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Plats för fyra sovande. Även plats för ett par tält. Ligger vid vattnet. Ved fanns maj -17. Kör bart på stig med mc. Bänkar utanför finns att sitta på.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/71tio2kqmaovbii6fc3ks5bvi8/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALotlaXxpTxUIF-Lvl1SaLj10a2yzMrWC591tDu7hECNowOoNWVaahtaBd_luc--blaEJvivq27Cbf6cWAGJAsr-XGO5NIP2bxcCLb_RK62NrJvuEn5LSNMg34eIrBtyr9eL3L_tJPRWSsp9UM32kzXkTdC8WcqMqXoLaY9zZBe0aG1TybTEg4-sw_8mc9ozfC98bUPTa1vzdCNNPWAAeR3bCtppH8MGExjMfCCZez4SuszdVu7VnqrprlHj8sOLexGnNcp6KgZC22np_mMAMxI6JFEdfQ?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/jim9fs8rlg4j5oiibhbp0pmiho/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrkZjBvqbdA4uBIfz5QyY2b18VzFLuUq72ZHirij1nhkws05K1feOI_YwRL6pmZ_x-X9Z3RarrWJ4v84dZGnXAP4GArBpw5ZnReh41SlkZeQh4bDm2z-jB1DYvoZozlI32XSopyNbg2214bK01oSXZkQofZ0VFuuFVoShNnIE8Z6pMzlgJjUgvnvx3LME5NjN8ot2xPDQajexHxJ1ppfbPvhRbC8X51thyJiwGKbvyEJZNfIfQ0Q0VV92TGu6wWx7aZkCUqbTJTyILcoouNsCVWiua0EA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Plats för fyra sovande. Även plats för ett par tält. Ligger vid vattnet. Ved fanns maj -17. Kör bart på stig med mc. Bänkar utanför finns att sitta på.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/71tio2kqmaovbii6fc3ks5bvi8/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALotlaXxpTxUIF-Lvl1SaLj10a2yzMrWC591tDu7hECNowOoNWVaahtaBd_luc--blaEJvivq27Cbf6cWAGJAsr-XGO5NIP2bxcCLb_RK62NrJvuEn5LSNMg34eIrBtyr9eL3L_tJPRWSsp9UM32kzXkTdC8WcqMqXoLaY9zZBe0aG1TybTEg4-sw_8mc9ozfC98bUPTa1vzdCNNPWAAeR3bCtppH8MGExjMfCCZez4SuszdVu7VnqrprlHj8sOLexGnNcp6KgZC22np_mMAMxI6JFEdfQ?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.555300034582615" lon="13.611340038478374">
+    <ns0:time>2024-06-25T17:20:44Z</ns0:time>
+    <ns0:name>Camp Lagmanshagasjön -S02</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-06-25T17:20:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.163004970178008" lon="14.380919029936194">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Letälven -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/qf0cto3m6mmidlcnd5bqd586r0/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpA7r0QtdJKMjFZICRuhrveWwf2wb26Nm_8AjCWP8OfU0__51EzfUpSEs7BRhP6m0uK_zFjIQ9unyTRIv3qS2amyq28Jvm2M2DLR8huGv57h8p_eyqMEmWtQKBmmXTAig4Bz1s3o_1VGhTekGQZ-r2QTV_h_wVrnWd4wsX6sXh0kHgpEA09mUZzh7vuXH3L-jVSh8i5frf0EBIjqndf45RGYyHaylmk1HUhX7b-Pd21Z7Wo9V6eifvJ3meKj8-h1f7R0hEYLXm1jkfOPUmN3mti8A4Rzg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger ut mot vattnet. Man får promenera de sista 300 meterarna. Lättast att komma dit öster ifrån. Ingen ved inget dass&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/l6s0upg8bp85r5lkpnu50oa238/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqTO-lu0JxlnIcTnvYYe2fdDQOQK3M84oiSKldcTVcpdS31HrHVyGu8qHn1uVYeWmxtc3NLgYJxB8yng90eIVNm7d7y3Xj6glg-q1wvoqFUp2sMzURs6td00MKI3JdZ-aZRlg3G1wu_ScGTP8TNnmnWoz2zR0Ig3NZs8DS7LGcXDQq15bhqyYpHNhh1AFrt3i-Mhxlw2QzJ0FNSGNoyg7E__qQ28JwN0WH4XN72tU3V1mYPf9VPeraRk49LAI3EHBavFA2_M2k2LTJBlC34aMg04-lRvw?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/qf0cto3m6mmidlcnd5bqd586r0/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpA7r0QtdJKMjFZICRuhrveWwf2wb26Nm_8AjCWP8OfU0__51EzfUpSEs7BRhP6m0uK_zFjIQ9unyTRIv3qS2amyq28Jvm2M2DLR8huGv57h8p_eyqMEmWtQKBmmXTAig4Bz1s3o_1VGhTekGQZ-r2QTV_h_wVrnWd4wsX6sXh0kHgpEA09mUZzh7vuXH3L-jVSh8i5frf0EBIjqndf45RGYyHaylmk1HUhX7b-Pd21Z7Wo9V6eifvJ3meKj8-h1f7R0hEYLXm1jkfOPUmN3mti8A4Rzg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger ut mot vattnet. Man får promenera de sista 300 meterarna. Lättast att komma dit öster ifrån. Ingen ved inget dass&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/l6s0upg8bp85r5lkpnu50oa238/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqTO-lu0JxlnIcTnvYYe2fdDQOQK3M84oiSKldcTVcpdS31HrHVyGu8qHn1uVYeWmxtc3NLgYJxB8yng90eIVNm7d7y3Xj6glg-q1wvoqFUp2sMzURs6td00MKI3JdZ-aZRlg3G1wu_ScGTP8TNnmnWoz2zR0Ig3NZs8DS7LGcXDQq15bhqyYpHNhh1AFrt3i-Mhxlw2QzJ0FNSGNoyg7E__qQ28JwN0WH4XN72tU3V1mYPf9VPeraRk49LAI3EHBavFA2_M2k2LTJBlC34aMg04-lRvw?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.279007971286774" lon="14.207216994836926">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Lingonudden -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/v486lkubhg8ben2a7e7ccgur74/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALq_jpf5KlPTr08acIvK11ryX304n0U9VsiUu8ywcuDNcsQ9qAvBPGm5S0CaYMWaEstcFYlwgmWltIegc8v0g-UK9jOEYXnXaoJhdYbZHQR5H1DYJ2-EXIvWsiyGZzO7TMnjOsRlh0FA-3j0nF7LZ-VVE1CMlUheFkX4iy7YECKuapJ8v5U-aOkUlTE9cwMRzcJ63-uH0SeWndXdmlDDLvO8Lwj_YLOVGNw6_BT7AaJ12jNxEXJPRwoNEZVHQ6VoeM8nxfvhDsLenYSdZ0w0NSajZtumoQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger riktigt fint. Lagom avskilt med kanon utsikt. Liten stig sista hundra metrarna men det går att köra hela vägen fram.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/5dgf4c0blb74ldc47ho41c4h5o/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALq-H8kr2scy6OcHAk9_uLTlCC8YcvLK1A9XWRz7_KbUL09yypzLFbLnB56bm-SUzadrkfpNv2CS8qf8liW8UbIPC4Y5jtnGGCq36kKWrYTw5KwmJGmzgLvR1zd3_eoCZ-jqLhk8b6X88wgIqC1uUjRYM5dvxyaX3hxZvysumR4ojP8LPpEaEI5Ee_m-udWTpt0HFfF-Zx6JnHvu3mKpshvInIE0iFCEfGDjmjsZyLjl63aUl0bHKMmzeqABSlExZJ3OopUdZZLwgBDwPEaOaoCHukVqfQ?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/v486lkubhg8ben2a7e7ccgur74/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALq_jpf5KlPTr08acIvK11ryX304n0U9VsiUu8ywcuDNcsQ9qAvBPGm5S0CaYMWaEstcFYlwgmWltIegc8v0g-UK9jOEYXnXaoJhdYbZHQR5H1DYJ2-EXIvWsiyGZzO7TMnjOsRlh0FA-3j0nF7LZ-VVE1CMlUheFkX4iy7YECKuapJ8v5U-aOkUlTE9cwMRzcJ63-uH0SeWndXdmlDDLvO8Lwj_YLOVGNw6_BT7AaJ12jNxEXJPRwoNEZVHQ6VoeM8nxfvhDsLenYSdZ0w0NSajZtumoQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger riktigt fint. Lagom avskilt med kanon utsikt. Liten stig sista hundra metrarna men det går att köra hela vägen fram.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/5dgf4c0blb74ldc47ho41c4h5o/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALq-H8kr2scy6OcHAk9_uLTlCC8YcvLK1A9XWRz7_KbUL09yypzLFbLnB56bm-SUzadrkfpNv2CS8qf8liW8UbIPC4Y5jtnGGCq36kKWrYTw5KwmJGmzgLvR1zd3_eoCZ-jqLhk8b6X88wgIqC1uUjRYM5dvxyaX3hxZvysumR4ojP8LPpEaEI5Ee_m-udWTpt0HFfF-Zx6JnHvu3mKpshvInIE0iFCEfGDjmjsZyLjl63aUl0bHKMmzeqABSlExZJ3OopUdZZLwgBDwPEaOaoCHukVqfQ?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.491621375083923" lon="14.382664561271667">
+    <ns0:time>2025-08-02T08:03:05Z</ns0:time>
+    <ns0:name>Camp Långserum Vindskydd -S26</ns0:name>
+    <ns0:cmt>1 Långserum Vindskydd</ns0:cmt>
+    <ns0:desc>1 Långserum Vindskydd</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T08:03:05Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.42428719997406" lon="13.719407916069031">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Mellansjön -S01</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/hq22ckllsckpgd66lq0upkou74/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALo6L_Cn2kyHc8mRF3-gCI27Hz4UXRCdQXdoUPGu9Q8KaH6wJWIOYHyelwtZhstQrIScDEnofhN3Bt0ra5BUnRNwj8RjAt11x2z-AyduReeaW_OpaXTBwCj9uvESWL5PFNSibsOFZLmR4BT8Va81KFE-lq8GckPH8qR_4tdPVf23dFnMwFIaCV0LDst8W0teLEi_o03EbiglD49cC4Ds_svmW7LBWPRgpfnIkeMKdM2vr-8S2NNzmJVdKDItMzsqLA5xZoe8zh3tvG2JlRxe6tidHCwnpA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Plats för fem sovande. Ligger i utkanten av en stor grusyta. Går att köra hela vägen fram. Dass och soptunna finns. Ingen ved maj-17. Är skyltat med dricksvatten till ett rör där det rinner vatten. Tveksamt om det är drickbart.</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/hq22ckllsckpgd66lq0upkou74/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALo6L_Cn2kyHc8mRF3-gCI27Hz4UXRCdQXdoUPGu9Q8KaH6wJWIOYHyelwtZhstQrIScDEnofhN3Bt0ra5BUnRNwj8RjAt11x2z-AyduReeaW_OpaXTBwCj9uvESWL5PFNSibsOFZLmR4BT8Va81KFE-lq8GckPH8qR_4tdPVf23dFnMwFIaCV0LDst8W0teLEi_o03EbiglD49cC4Ds_svmW7LBWPRgpfnIkeMKdM2vr-8S2NNzmJVdKDItMzsqLA5xZoe8zh3tvG2JlRxe6tidHCwnpA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Plats för fem sovande. Ligger i utkanten av en stor grusyta. Går att köra hela vägen fram. Dass och soptunna finns. Ingen ved maj-17. Är skyltat med dricksvatten till ett rör där det rinner vatten. Tveksamt om det är drickbart.</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.295495007187128" lon="14.182008001953363">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Missveden -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/fqtgadmt0ni538p5h4dojhida4/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpjExzMnq85JxkrpxNLOFFMtni7BziLOSLN58LKPLryWo2ahw3XdbvS3ZV1L7HnuxVNoqRXelw20iAAjwmCgYx5T8uGcFNMRP8BIvJ9eAzJ9TF4jAB7u4L4rJ58wYyvUbWpEDh66nxDRtfrD-kfMXN0P0v3txlJfrcS8RX7e4rks9F95MHYBmsMRoyRK09OjhniveKh5Vh72uupfW_CNMuNVZJF4I6QFDuCduUu9o5FQ3etl4HoO5NIqsYQmAOz7IVl9KJxzs3F5EwpvCKzJgqhNv9r2g?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger lite för sig själv en liten bit från grusvägen. Går att köra hela vägen fram. Ganska enkelt men fint. Dass finns vid vägen.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/u29n4662k5umkag9p8pldkb338/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrPF3BcUnzv1mB4E46y9WfNg8drYhEZr-FDfL6k7Yxnl335droTulJp_YNSUEs_nLvbHjZZLrfr0lON8chOKnphuhiXZY9TonvzygH5qaNM_t7aEVjKnYMsrfWpqljmPtEW_oCnt8y5ofxdekFK80ozw3iBDEhBo2pZjtoUXfvKiRWezfom455wqVela0WfVB6c5F5X2uVe-Gvd-WS-PFju5Jkk9UrLRFDDO5g8_Z7WRcSTeeDnzoqcVZg30UoFxjxTROTiP7VrBMNTdiXs5ZzFhCaA4A?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/fqtgadmt0ni538p5h4dojhida4/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpjExzMnq85JxkrpxNLOFFMtni7BziLOSLN58LKPLryWo2ahw3XdbvS3ZV1L7HnuxVNoqRXelw20iAAjwmCgYx5T8uGcFNMRP8BIvJ9eAzJ9TF4jAB7u4L4rJ58wYyvUbWpEDh66nxDRtfrD-kfMXN0P0v3txlJfrcS8RX7e4rks9F95MHYBmsMRoyRK09OjhniveKh5Vh72uupfW_CNMuNVZJF4I6QFDuCduUu9o5FQ3etl4HoO5NIqsYQmAOz7IVl9KJxzs3F5EwpvCKzJgqhNv9r2g?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger lite för sig själv en liten bit från grusvägen. Går att köra hela vägen fram. Ganska enkelt men fint. Dass finns vid vägen.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/u29n4662k5umkag9p8pldkb338/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrPF3BcUnzv1mB4E46y9WfNg8drYhEZr-FDfL6k7Yxnl335droTulJp_YNSUEs_nLvbHjZZLrfr0lON8chOKnphuhiXZY9TonvzygH5qaNM_t7aEVjKnYMsrfWpqljmPtEW_oCnt8y5ofxdekFK80ozw3iBDEhBo2pZjtoUXfvKiRWezfom455wqVela0WfVB6c5F5X2uVe-Gvd-WS-PFju5Jkk9UrLRFDDO5g8_Z7WRcSTeeDnzoqcVZg30UoFxjxTROTiP7VrBMNTdiXs5ZzFhCaA4A?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.495655968785286" lon="13.89111103489995">
+    <ns0:time>2025-06-15T17:40:22Z</ns0:time>
+    <ns0:name>Camp Rödmossen -S02</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-06-15T17:40:22Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.240241525694728" lon="14.541790969669819">
+    <ns0:ele>103.06622108834461</ns0:ele>
+    <ns0:time>2024-09-21T06:43:55Z</ns0:time>
+    <ns0:name>Camp Rönningsvik -S19</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-09-21T06:43:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.943683624267578" lon="13.169002532958984">
+    <ns0:ele>118.43359375</ns0:ele>
+    <ns0:time>2024-12-15T15:05:59Z</ns0:time>
+    <ns0:name>Camp Sandsjön -S05</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-12-15T15:05:59Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.16311401873827" lon="14.616458974778652">
+    <ns0:ele>120.69430063059178</ns0:ele>
+    <ns0:time>2025-10-27T08:18:01Z</ns0:time>
+    <ns0:name>Camp Shelter Simple but nice</ns0:name>
+    <ns0:cmt>Last 250m is ok to ride but a walkpath, tough for the beginner.
+
+Vindshelte, firepit, lake to swim in.
+
+https://map.campwild.org/places/3651</ns0:cmt>
+    <ns0:desc>Last 250m is ok to ride but a walkpath, tough for the beginner.
+
+Vindshelte, firepit, lake to swim in.
+
+https://map.campwild.org/places/3651</ns0:desc>
+    <ns0:link href="https://map.campwild.org/places/3651" />
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-10-27T08:18:01Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.538294434547424" lon="14.46474015712738">
+    <ns0:ele>103.6875</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Skacka  -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/obaeso1noj4budgtq0ubpmonvs/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrI9XuNELRMHhV70NKiiJVHkleA7BPDPLburTo5VejBcaZAD_--I4Xr7533BvyCD7e6MOyR1aZA4AkUAi5HqARzz0ekIhlj-_djHEbrEcRZ8fa_TnN4-vxK4txSYa1jUtX8edPIXLwMrTmEcaPtmGVuxf72dOA7S1deU-vwb5qnEUcQm3yhY9vs86K1x1lKl14UHZMX-lLXrFqi3b9sQlFxyTFVP5DJqFRvLZirXXRjWcRYEFTPYHWIF8UbCHnXbTkrMylzDkrPP27rHGA0W9kyR62UVg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;360x250 med plåttak och eldstad. Ingen ved eller toalett. Goda tältmöjligheter. Vindskyddet tillhör skackastugan som drivs av friluftsfrämjandet och ligger vid vägen 150m västerut där det även finns ett låst utedass.</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/obaeso1noj4budgtq0ubpmonvs/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrI9XuNELRMHhV70NKiiJVHkleA7BPDPLburTo5VejBcaZAD_--I4Xr7533BvyCD7e6MOyR1aZA4AkUAi5HqARzz0ekIhlj-_djHEbrEcRZ8fa_TnN4-vxK4txSYa1jUtX8edPIXLwMrTmEcaPtmGVuxf72dOA7S1deU-vwb5qnEUcQm3yhY9vs86K1x1lKl14UHZMX-lLXrFqi3b9sQlFxyTFVP5DJqFRvLZirXXRjWcRYEFTPYHWIF8UbCHnXbTkrMylzDkrPP27rHGA0W9kyR62UVg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;360x250 med plåttak och eldstad. Ingen ved eller toalett. Goda tältmöjligheter. Vindskyddet tillhör skackastugan som drivs av friluftsfrämjandet och ligger vid vägen 150m västerut där det även finns ett låst utedass.</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.35391896776855" lon="14.252176014706492">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Slättås -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/ia8maebvi1t0hhc991lteidauo/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpxM6qQYMJIArrNRmWVFHsr3J3e7iKsvTNVT84ylrdo3NzOSatys_ftaE5vjXlIlnAiY3Sp3ntHO1tymFRcQ6b_syG_9WMsHlTo_1M3jQMyHY-4f_6s4ZNkfx54UIzxNUGuhV-DgBcx5pl_aAMte2oDmNmg4oVZLvwuBcdGM9f0A7n9qLa3VCa6zsNA0dLwlWTZito8gv4oERqV1UTAGJubawIMGW97eh_beVyKJjzpARBz0XVrNgHsTT43LZ2ByqtjHHSvF4EGC12AHLrwelIZu7UOnQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;LIgger vid en stor gräsytan med mycket plats för tält. Ligger precis vid grusvägen. Inte jättefint.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/i17br0kpgu262k30og9d4pa28o/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALq8wG5LuDmVUr7Hy0AcUPIZO47Qv_2bFLoVm309EoixEhPhhEqHYtQXu4zyNMmpVDYK93ef5N_pChJ9Hdrl6DBtCB7rkHvXPRHLDTYSg-d3_plXhFw2hQms0Y_YsfjN5dPF4XcHOejnlShbngT-Mt_f3MDGjPXbswy_u5F2LW2lHeaU999j3e2fIiKHM5GMFwJRjtT-vgYR7_13KXpE4RZamPaVQ-gPKTrI9J6HapqQCvotoSLYVsh0DJjNf9hYMsjevaPSDHZlKxlheaKMPK7J_Pz6yw?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/ia8maebvi1t0hhc991lteidauo/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpxM6qQYMJIArrNRmWVFHsr3J3e7iKsvTNVT84ylrdo3NzOSatys_ftaE5vjXlIlnAiY3Sp3ntHO1tymFRcQ6b_syG_9WMsHlTo_1M3jQMyHY-4f_6s4ZNkfx54UIzxNUGuhV-DgBcx5pl_aAMte2oDmNmg4oVZLvwuBcdGM9f0A7n9qLa3VCa6zsNA0dLwlWTZito8gv4oERqV1UTAGJubawIMGW97eh_beVyKJjzpARBz0XVrNgHsTT43LZ2ByqtjHHSvF4EGC12AHLrwelIZu7UOnQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;LIgger vid en stor gräsytan med mycket plats för tält. Ligger precis vid grusvägen. Inte jättefint.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/i17br0kpgu262k30og9d4pa28o/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALq8wG5LuDmVUr7Hy0AcUPIZO47Qv_2bFLoVm309EoixEhPhhEqHYtQXu4zyNMmpVDYK93ef5N_pChJ9Hdrl6DBtCB7rkHvXPRHLDTYSg-d3_plXhFw2hQms0Y_YsfjN5dPF4XcHOejnlShbngT-Mt_f3MDGjPXbswy_u5F2LW2lHeaU999j3e2fIiKHM5GMFwJRjtT-vgYR7_13KXpE4RZamPaVQ-gPKTrI9J6HapqQCvotoSLYVsh0DJjNf9hYMsjevaPSDHZlKxlheaKMPK7J_Pz6yw?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.437999993562698" lon="13.614999996498227">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Stackebo -S01</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/tqno54p12j0f6h0podhfbli7mg/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALoMzin-JeqCL0FsO0N_-EjryEVJr5Q95oKtwRyOG0-GxWIoTvuMBwNXUtq6nIepeaJ4ogg-mt7da8H3wJMA7MXwlCnKSFZlyNhMPD5Fn-3_M92_Qc0RCJfHes_jJjHzFQ3QHJ0x4w4HWEGJhmmPj3kQzwwTM_98Z7D1O4Ltw2oaQWITuCCvqtc41XWm1bjhfI8MRRiI6wckXQEyw27goYucw6JaLO3aQNk_qt6eOGXCMKVeY4dAMpiwGjyddHviUFOmtARmCMQIMGI3Hetmuhckj9dXIA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Två Vindskydd i fint skick. Ligger på ett område med många grillplatser. Mer info finns på www.stackebo.nu. Körbart hela vägen fram</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/tqno54p12j0f6h0podhfbli7mg/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALoMzin-JeqCL0FsO0N_-EjryEVJr5Q95oKtwRyOG0-GxWIoTvuMBwNXUtq6nIepeaJ4ogg-mt7da8H3wJMA7MXwlCnKSFZlyNhMPD5Fn-3_M92_Qc0RCJfHes_jJjHzFQ3QHJ0x4w4HWEGJhmmPj3kQzwwTM_98Z7D1O4Ltw2oaQWITuCCvqtc41XWm1bjhfI8MRRiI6wckXQEyw27goYucw6JaLO3aQNk_qt6eOGXCMKVeY4dAMpiwGjyddHviUFOmtARmCMQIMGI3Hetmuhckj9dXIA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Två Vindskydd i fint skick. Ligger på ett område med många grillplatser. Mer info finns på www.stackebo.nu. Körbart hela vägen fram</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.053983291611075" lon="12.090583350509405">
+    <ns0:ele>126.19140625</ns0:ele>
+    <ns0:time>2025-07-29T15:06:07Z</ns0:time>
+    <ns0:name>Camp Svartedalen-S05</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T15:06:07Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.426594007760286" lon="14.256392028182745">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Tibro  -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/7sa0o3qf621f55vsp53ogrfjkk/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALoNrFyXn-uzs5lNzE3pzlKZO6DIqlQv9vs4zLqEW-hQPGrZ5MuqJSMtPCJSXn4VHTXWRlC823GeSGj9ISiuzpNdu-bYaTUVRCNiytyebuP_Rj-p5HEKracLq1QE95uRou98ajW3s937P6DTdlq3HDBVQ4sPDKngeLEv9XYeG210HELfz_Dx1cW0O2iHtSdD0EWYsr1P_9odb9HOUPCctNTi0T-N-h7hje4tLfVy49E1JDZ014Z6F4L7Tvo3oagyNk4pf6yOu9XETlEbMpDZKOxGWiH95w?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Tillhör ett jaktlag. Inget att sova i men man kan få tak över huvudet och äta lite mat.</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/7sa0o3qf621f55vsp53ogrfjkk/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALoNrFyXn-uzs5lNzE3pzlKZO6DIqlQv9vs4zLqEW-hQPGrZ5MuqJSMtPCJSXn4VHTXWRlC823GeSGj9ISiuzpNdu-bYaTUVRCNiytyebuP_Rj-p5HEKracLq1QE95uRou98ajW3s937P6DTdlq3HDBVQ4sPDKngeLEv9XYeG210HELfz_Dx1cW0O2iHtSdD0EWYsr1P_9odb9HOUPCctNTi0T-N-h7hje4tLfVy49E1JDZ014Z6F4L7Tvo3oagyNk4pf6yOu9XETlEbMpDZKOxGWiH95w?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Tillhör ett jaktlag. Inget att sova i men man kan få tak över huvudet och äta lite mat.</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.412171015515924" lon="14.257148997858167">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Tibro -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/hpj02db570oglib85lpfut2r18/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqcVHBo-pgllHjuY0Hy4IyUgUqDR1ftvmVR1Kfsb4UMwo6E1OZjPQDaLrw3K5w2JElLjYBTQ-MaiBA8qa_sm4DqrdrFyNij8_VVKXlHhbJshG43UkWD2gX9-sL079GhKIPV9pOePxjxJnJhooE1j-koaAM1J3PYvxa7c-AtOEAyTTy6vGdU2_2r2pvjZueaC2v_vT8Dd-KDEBcNnVb1rF0_3cIVCfESj-dUbZH-c-TbXJDHtxjKZPVvwwynqsuy4peNntqIQy5-tL1-vChYhDRti--VuQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger vid slutet av vägen. Går att köra hela vägen fram.</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/hpj02db570oglib85lpfut2r18/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqcVHBo-pgllHjuY0Hy4IyUgUqDR1ftvmVR1Kfsb4UMwo6E1OZjPQDaLrw3K5w2JElLjYBTQ-MaiBA8qa_sm4DqrdrFyNij8_VVKXlHhbJshG43UkWD2gX9-sL079GhKIPV9pOePxjxJnJhooE1j-koaAM1J3PYvxa7c-AtOEAyTTy6vGdU2_2r2pvjZueaC2v_vT8Dd-KDEBcNnVb1rF0_3cIVCfESj-dUbZH-c-TbXJDHtxjKZPVvwwynqsuy4peNntqIQy5-tL1-vChYhDRti--VuQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger vid slutet av vägen. Går att köra hela vägen fram.</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.36636221408844" lon="13.764292001724243">
+    <ns0:ele>215.01171875</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Töllstorp -S01</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0o-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/ok8n0r03aj81qs78obei803jcs/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpeawsoSqvV4E8pfIln51Vkk5hMpVFPYX1yAXDnnitwc9x281Hp5TNQk5QSWhrey0pvsJwcx9AFlYcoiB1eUCroOD4oaY3HqTELcPcpQ_VAXZHVzumY4tdgNFIPunb16N3b3NJigTqOalw9tvutelrZ4JHkHAg1PUvrC6369ITXwf1Drc1RFGOBeXiBnI67urdEmc3q-9mwfoShCjIIUXSmX9pWz4OE9RSif0nRxdr9zO3e6rMW30EuTU6JMK-aqhYrbv1c7ulzsmgGuJkWNigSC2Y2CA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger i ett område  med leder. Verkar vara folk i rörelse i området. Inte lämpligt att köra fram till skyddet. Det finns Dass och plats för 5 sovande. Vedförrådet var tomt maj -17.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/mur09dbf9ubg5ktc3nd7r92e5s/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALol79gTnKe7yOzLnJqq3rHXz2VF6soGT1bEH6GqtuH5CXFNIfoRDg0JH0Y1UcCICfIznGs2jbNwooxkbbpZYbmV5P6aj6Wz6k_JpOJ25XCtWR_zh5TxtnTobVDfZtB-vfe8Gv0_iAvwxow9GB6-zn_gc5YrNy1q0fBkcrb7jlmMB7S7YSNVNnK1JliO7fg5KXBgrX4HCVGaYRzU5pz4nQN8Uh58K3eLZDM97dva-CGbJwZ_23rObXFbNwfBTSW5QSi67rd5ckNyIqOHCimCiKxAOF_iUQ?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0o-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/ok8n0r03aj81qs78obei803jcs/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpeawsoSqvV4E8pfIln51Vkk5hMpVFPYX1yAXDnnitwc9x281Hp5TNQk5QSWhrey0pvsJwcx9AFlYcoiB1eUCroOD4oaY3HqTELcPcpQ_VAXZHVzumY4tdgNFIPunb16N3b3NJigTqOalw9tvutelrZ4JHkHAg1PUvrC6369ITXwf1Drc1RFGOBeXiBnI67urdEmc3q-9mwfoShCjIIUXSmX9pWz4OE9RSif0nRxdr9zO3e6rMW30EuTU6JMK-aqhYrbv1c7ulzsmgGuJkWNigSC2Y2CA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger i ett område  med leder. Verkar vara folk i rörelse i området. Inte lämpligt att köra fram till skyddet. Det finns Dass och plats för 5 sovande. Vedförrådet var tomt maj -17.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0c-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/mur09dbf9ubg5ktc3nd7r92e5s/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALol79gTnKe7yOzLnJqq3rHXz2VF6soGT1bEH6GqtuH5CXFNIfoRDg0JH0Y1UcCICfIznGs2jbNwooxkbbpZYbmV5P6aj6Wz6k_JpOJ25XCtWR_zh5TxtnTobVDfZtB-vfe8Gv0_iAvwxow9GB6-zn_gc5YrNy1q0fBkcrb7jlmMB7S7YSNVNnK1JliO7fg5KXBgrX4HCVGaYRzU5pz4nQN8Uh58K3eLZDM97dva-CGbJwZ_23rObXFbNwfBTSW5QSi67rd5ckNyIqOHCimCiKxAOF_iUQ?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.009313974529505" lon="14.464760022237897">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Vargavidderna  -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/kfscru66vvuc6gcc543ikjuop8/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpDEgBrIrxtj65sJctRWqxpyWBS93GRYLVtWozYdrDx_vLpLmXKMQ-ZaKBB6pwCj7H9pMRFNFfN_pVrdRXWqw1WswFxVQLCdw7Vq_RrWV3O5V3yvRpSQYzCdyRffvD5Xdmq-Zods37cN68LkmXBj6NVcoBxBobanoGfbu4yUn-4H4_J6guxPEOuI9zlhMYCe7aNN_XZT5VYnHujFhxAszHiGwLF1Nj0LHqz9Nu2SIuApsQqsdLP-gWA8nr0qAeKhSqwfDyW5OL_RjUyV3_bE2wH2sConA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;350x220 cm stort, trätak med tjärpapp och pressenning som dörr nattetid. Grillplats med bänkar samt utegrill. Ved finns i förvaring. Finns mängder med grillpinnar, metalltänger, någon stekpanna osv. En gammal tvättmaskinstrumma(?) fungerar utmärkt som flyttbar grill. Ingen toalett. Nås via 1km stig söderifrån endast till fots. Det finns ett fågeltorn bredvid. Tältning möjligt ca 80 meter söder om skyddet, mellan ett gäng tallstammar.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/96rugfmll6dtbgkjumhc6cahj0/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqVKFCnKS-QA81uR0i_p8Xqw1-JTo0dFiQAUBldiUmD1nkJPFqlZdIP9sVB5170xkHSaAGSpJyjNfgOHCbDx6RGAkqFBh0SgDRdmruFz6TkzHuN4qvUlmLrl2PfChwmI8GdcsxHWgqKGewfpFx9aeYUhX5cyj6yLl1UB_C8HmYkGsoHVBVOWBqyiyfPDhPElAf0537-JbW64ro9BdoKJvTK54tYp7n0A2dPl8Dgf10FpAg0B1q5RkfjJ7PSc7y76lfcK47V8sIG5lQtAXymPTQ_LUgGMg?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/kfscru66vvuc6gcc543ikjuop8/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpDEgBrIrxtj65sJctRWqxpyWBS93GRYLVtWozYdrDx_vLpLmXKMQ-ZaKBB6pwCj7H9pMRFNFfN_pVrdRXWqw1WswFxVQLCdw7Vq_RrWV3O5V3yvRpSQYzCdyRffvD5Xdmq-Zods37cN68LkmXBj6NVcoBxBobanoGfbu4yUn-4H4_J6guxPEOuI9zlhMYCe7aNN_XZT5VYnHujFhxAszHiGwLF1Nj0LHqz9Nu2SIuApsQqsdLP-gWA8nr0qAeKhSqwfDyW5OL_RjUyV3_bE2wH2sConA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;350x220 cm stort, trätak med tjärpapp och pressenning som dörr nattetid. Grillplats med bänkar samt utegrill. Ved finns i förvaring. Finns mängder med grillpinnar, metalltänger, någon stekpanna osv. En gammal tvättmaskinstrumma(?) fungerar utmärkt som flyttbar grill. Ingen toalett. Nås via 1km stig söderifrån endast till fots. Det finns ett fågeltorn bredvid. Tältning möjligt ca 80 meter söder om skyddet, mellan ett gäng tallstammar.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/96rugfmll6dtbgkjumhc6cahj0/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqVKFCnKS-QA81uR0i_p8Xqw1-JTo0dFiQAUBldiUmD1nkJPFqlZdIP9sVB5170xkHSaAGSpJyjNfgOHCbDx6RGAkqFBh0SgDRdmruFz6TkzHuN4qvUlmLrl2PfChwmI8GdcsxHWgqKGewfpFx9aeYUhX5cyj6yLl1UB_C8HmYkGsoHVBVOWBqyiyfPDhPElAf0537-JbW64ro9BdoKJvTK54tYp7n0A2dPl8Dgf10FpAg0B1q5RkfjJ7PSc7y76lfcK47V8sIG5lQtAXymPTQ_LUgGMg?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.555742263793945" lon="13.49370002746582">
+    <ns0:ele>186.6796875</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Veken  -S02</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/s4uif345daq3pqh2tje4jia2so/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrIdXIbzJ2vacLXtGoTBwPkIqFMuqAfdTV8k_PZQvRjQaBITgknupU9Y2su6FBgimgioMDkVtpKeS4dMUzSVyPfPOlURxWNFxg3yAGFKQn702n-fcPlAUmwUuy4dPPzBE3BA9huqI0cJrO5xd9-UE_LJwFR9vNRaZ7M9SsRyokW9Pwf39KoI4IfnnJGq2FZ-4wIBtGfcUZTfKMZz90e4MN3xkLBG-VLIFTGLLVLtNoEUp72EDPJNePkjfoDl1s277GbPSGvUrcNzb1Ni0_0vE9C6sDj_Q?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Längs led: Ja, Jälmåleden&lt;br&gt;Totalbetyg (1-10): 9&lt;br&gt;Ved: Gott om 1/5-17. &lt;br&gt;Grillplats: Ja&lt;br&gt;Bänkar/Bord (platser): Flera stycken.&lt;br&gt;Antal personer (sovande i skydd): ca 3-4 pers&lt;br&gt;Anslutning: Stig (körbar) 300 meter&lt;br&gt;Underbart läge bara bilvägen som stör. Finns även plats för små tält. Brygga finns.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/23ld1bsbno2gf6u53kck0i2gtk/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrjptCp7GC-mR1Xz74vZesm0_JCEI4RTUD84HC_aXhMkV113iusdoOCxKKpRsoQUpCOWnu_HPdIhBq--aaICDy1BXjClaXVOZB12pIL1j26Dgq0X2l0ToSji46O7IGCo6AslLJ2777AC19oAOOoylpmcovQZ5VSp_IUWg4jo1FLZSH6969WVISpj-Gs8_AqV7tF9mq9Bk7FKv1ajL3xJ7qXUTEmZWZBkO_pHRuZhZiMpsMAUpDTlR1kQXAVjxgQxgk2xaPv1Mhzv2CIM9Qv3iJdWPczRg?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/s4uif345daq3pqh2tje4jia2so/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrIdXIbzJ2vacLXtGoTBwPkIqFMuqAfdTV8k_PZQvRjQaBITgknupU9Y2su6FBgimgioMDkVtpKeS4dMUzSVyPfPOlURxWNFxg3yAGFKQn702n-fcPlAUmwUuy4dPPzBE3BA9huqI0cJrO5xd9-UE_LJwFR9vNRaZ7M9SsRyokW9Pwf39KoI4IfnnJGq2FZ-4wIBtGfcUZTfKMZz90e4MN3xkLBG-VLIFTGLLVLtNoEUp72EDPJNePkjfoDl1s277GbPSGvUrcNzb1Ni0_0vE9C6sDj_Q?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Längs led: Ja, Jälmåleden&lt;br&gt;Totalbetyg (1-10): 9&lt;br&gt;Ved: Gott om 1/5-17. &lt;br&gt;Grillplats: Ja&lt;br&gt;Bänkar/Bord (platser): Flera stycken.&lt;br&gt;Antal personer (sovande i skydd): ca 3-4 pers&lt;br&gt;Anslutning: Stig (körbar) 300 meter&lt;br&gt;Underbart läge bara bilvägen som stör. Finns även plats för små tält. Brygga finns.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/23ld1bsbno2gf6u53kck0i2gtk/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrjptCp7GC-mR1Xz74vZesm0_JCEI4RTUD84HC_aXhMkV113iusdoOCxKKpRsoQUpCOWnu_HPdIhBq--aaICDy1BXjClaXVOZB12pIL1j26Dgq0X2l0ToSji46O7IGCo6AslLJ2777AC19oAOOoylpmcovQZ5VSp_IUWg4jo1FLZSH6969WVISpj-Gs8_AqV7tF9mq9Bk7FKv1ajL3xJ7qXUTEmZWZBkO_pHRuZhZiMpsMAUpDTlR1kQXAVjxgQxgk2xaPv1Mhzv2CIM9Qv3iJdWPczRg?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.114096038043499" lon="13.931860998272896">
+    <ns0:time>2025-08-16T17:36:25Z</ns0:time>
+    <ns0:name>Camp Velinge -S02</ns0:name>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-16T17:36:25Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.490777904167771" lon="13.685456514358521">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:41Z</ns0:time>
+    <ns0:name>Camp Öreryd -S01</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/5qa7hd2edqcaae619vcjurogik/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpckltbDGE4xFLbDnJI8Y5jMASr9uX-6krf_gM2_4Kl_uWGOstrCLvYDyxcET0yYvfPUx-ll0Tn_i7V7hbIrg884V0RE2jgEvMeYHIS1ooN75S72Yk8D04svuCVsde_N3PqhLNg6NBBAPlkihoNOAzLdmxC6qJkH5z6Y4bbbAb7MBxfJVHWE0tlBKtfPAupRihaG-SgrvY5ld0VH_yiAUynfLn1A2fUfUqevKH2H8s4U4_uEsymkFRaexM4bosOelh5hrz_1xuY6TTp4vFA7haM26jXFw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Två fina vindskydd vid kanotleden. Bänkar och bord. Avgift för att använda kanotleden.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/2ncna8dk8lcncjk41vbdua33oc/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqSFj6_J5ihEd2BDHFgNYZGB-28OdmtnXwXfLFmk8YPsD_LPCaabWx6-QDRmqo1FBluSbG603zuw7kQME-0r3SLHIRT2LI7rixgG5IzM3upqav7zy0IFgZhXtdGUUF1KOdqiPVB-T6p6ZY-IR8k6akusCkcyqnKki9nbGY_GxdFeOdC7zXjWZro4un6a50uqB8obQPhGLPlVOeLvOdkHmotsurOONAWhOJKWc1Y5N9hcK5yh9V8cIz2t7miSRW0yb0Hw5NXyQvCvcFWL-FTMyqM8QXiwg?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/5qa7hd2edqcaae619vcjurogik/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALpckltbDGE4xFLbDnJI8Y5jMASr9uX-6krf_gM2_4Kl_uWGOstrCLvYDyxcET0yYvfPUx-ll0Tn_i7V7hbIrg884V0RE2jgEvMeYHIS1ooN75S72Yk8D04svuCVsde_N3PqhLNg6NBBAPlkihoNOAzLdmxC6qJkH5z6Y4bbbAb7MBxfJVHWE0tlBKtfPAupRihaG-SgrvY5ld0VH_yiAUynfLn1A2fUfUqevKH2H8s4U4_uEsymkFRaexM4bosOelh5hrz_1xuY6TTp4vFA7haM26jXFw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Två fina vindskydd vid kanotleden. Bänkar och bord. Avgift för att använda kanotleden.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/2ncna8dk8lcncjk41vbdua33oc/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqSFj6_J5ihEd2BDHFgNYZGB-28OdmtnXwXfLFmk8YPsD_LPCaabWx6-QDRmqo1FBluSbG603zuw7kQME-0r3SLHIRT2LI7rixgG5IzM3upqav7zy0IFgZhXtdGUUF1KOdqiPVB-T6p6ZY-IR8k6akusCkcyqnKki9nbGY_GxdFeOdC7zXjWZro4un6a50uqB8obQPhGLPlVOeLvOdkHmotsurOONAWhOJKWc1Y5N9hcK5yh9V8cIz2t7miSRW0yb0Hw5NXyQvCvcFWL-FTMyqM8QXiwg?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.509900007396936" lon="13.905116692185402">
+    <ns0:ele>100.41796875</ns0:ele>
+    <ns0:time>2025-03-17T10:05:42Z</ns0:time>
+    <ns0:name>Camping Bison Camp TET Friendly -S02</ns0:name>
+    <ns0:cmt>Welcome to our BisonCamp,
+
+Your own tent ocr rent a TIPI
+
+We are food producers and, among other things, we breed bison.
+In our farmshop you can get our own bison sausages and hamburgers for the evening BBQ.
+
+Our Bison Camp is located between our two large bison enclosures.
+In the camp we offer overnight stays in tentipit tents.
+We welcome all TET riders and hope you would like to stay with us, stretch your legs and enjoy the surroundings.
+Look at the mighty bison, eat a bite and maybe spend the night.
+
+kind regard
+Nicklas &amp; Petra
+Tfn: 070 - 676 60 50 or. 0046 70 676 60 50
+
+Högagärdet
+523 78 Trädet
+
+
+
+Sending feedback to you regarding our activities with Bison Camp.
+
+- Yes, you can bring your own tent. Toilet and shower are included.
+
+- Firewood and/or charcoal are available at our barbecue area in the camp.
+
+- We will open on June 2nd, but if you would like to come and eat or stay the night
+before June 2nd, you can always contact us and we will surely be able to arrange it.
+
+Other:
+
+- Breakfast can be pre-booked if breakfast is desired.
+
+- There is also the possibility of refilling fresh water.
+
+- Some price information is available on the website, but for further price information,
+fill in the contact form on the website and we will contact you within a few days.
+
+- Bookings for food are currently made by phone to Nicklas, tel: 070 - 676 ​​60 50 or
+via the contact form on the website. The same applies to booking overnight stays.
+
+The food is pre-booked, sausages or hamburgers. When visitors arrive, there is a
+ready-made basket for them to pick up and pay for in the farm shop. They then take
+the basket with them to the Bison camp, light the fire or grill and cook the food
+themselves.
+
+It is possible to eat the food outside with the sky as a roof or if weather protection is
+desired, it is fine to sit in our larger tentipit tent where we have tables and benches
+set up.
+
+- Price hamburger: 150 sek/pc
+
+Contains: 1 bison burger approx. 180 g, hamburger bun, cheese, salad, BBQ sauce,
+roasted onions, ketchup and mustard.
+
+- Price sausage: 100 sek/pc
+Contains: 1 bison sausage, roasted onion, sausage roll, ketchup and mustard.
+
+If you have any questions, just get in touch,
+
+Drinks are available for purchase if you wish (soft drink or water).
+
+Kind regards,
+Petra Boquist</ns0:cmt>
+    <ns0:desc>Welcome to our BisonCamp,
+
+Your own tent ocr rent a TIPI
+
+We are food producers and, among other things, we breed bison.
+In our farmshop you can get our own bison sausages and hamburgers for the evening BBQ.
+
+Our Bison Camp is located between our two large bison enclosures.
+In the camp we offer overnight stays in tentipit tents.
+We welcome all TET riders and hope you would like to stay with us, stretch your legs and enjoy the surroundings.
+Look at the mighty bison, eat a bite and maybe spend the night.
+
+kind regard
+Nicklas &amp; Petra
+Tfn: 070 - 676 60 50 or. 0046 70 676 60 50
+
+Högagärdet
+523 78 Trädet
+
+
+
+Sending feedback to you regarding our activities with Bison Camp.
+
+- Yes, you can bring your own tent. Toilet and shower are included.
+
+- Firewood and/or charcoal are available at our barbecue area in the camp.
+
+- We will open on June 2nd, but if you would like to come and eat or stay the night
+before June 2nd, you can always contact us and we will surely be able to arrange it.
+
+Other:
+
+- Breakfast can be pre-booked if breakfast is desired.
+
+- There is also the possibility of refilling fresh water.
+
+- Some price information is available on the website, but for further price information,
+fill in the contact form on the website and we will contact you within a few days.
+
+- Bookings for food are currently made by phone to Nicklas, tel: 070 - 676 ​​60 50 or
+via the contact form on the website. The same applies to booking overnight stays.
+
+The food is pre-booked, sausages or hamburgers. When visitors arrive, there is a
+ready-made basket for them to pick up and pay for in the farm shop. They then take
+the basket with them to the Bison camp, light the fire or grill and cook the food
+themselves.
+
+It is possible to eat the food outside with the sky as a roof or if weather protection is
+desired, it is fine to sit in our larger tentipit tent where we have tables and benches
+set up.
+
+- Price hamburger: 150 sek/pc
+
+Contains: 1 bison burger approx. 180 g, hamburger bun, cheese, salad, BBQ sauce,
+roasted onions, ketchup and mustard.
+
+- Price sausage: 100 sek/pc
+Contains: 1 bison sausage, roasted onion, sausage roll, ketchup and mustard.
+
+If you have any questions, just get in touch,
+
+Drinks are available for purchase if you wish (soft drink or water).
+
+Kind regards,
+Petra Boquist</ns0:desc>
+    <ns0:link href="http://www.alaganasbison.com/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-17T10:05:42Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.992828590795398" lon="13.453309647738934">
+    <ns0:time>2025-07-15T07:41:20Z</ns0:time>
+    <ns0:name>Camping Ekebacken Gård &amp; MC-camping -S02</ns0:name>
+    <ns0:link href="https://ekebackengard.se/mc-camping" />
+    <ns0:link href="https://maps.app.goo.gl/1Xi73WsWCZA64YZL9" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:PhoneNumber>+46 722 50 20 10</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:PhoneNumber>+46 722 50 20 10</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-15T07:41:20Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.358889579772949" lon="13.930599689483643">
+    <ns0:ele>165.46484375</ns0:ele>
+    <ns0:time>2025-03-10T12:28:36Z</ns0:time>
+    <ns0:name>Camping Flatenbadets -S01</ns0:name>
+    <ns0:cmt>Flatenbadets Camping
+Hej TET'ers
+
+We offer tent sites and cabins for rent, 4 beds &amp; 5 beds.
+
+Barbecue sites where firewood is included.
+
+Link to the website: https://www.flatenscamping.se/
+
+Google map link: https://maps.app.goo.gl/DhVoU4FQDhQeovxH7
+
+TET Discount on request when prebook
+(We are currently changing booking system)
+
+
+Med Vänliga Hälsningar
+Mit Freundlichen Grüsse
+Best Regards
+
+
+Flatens Camping</ns0:cmt>
+    <ns0:desc>Flatenbadets Camping
+Hej TET'ers
+
+We offer tent sites and cabins for rent, 4 beds &amp; 5 beds.
+
+Barbecue sites where firewood is included.
+
+Link to the website: https://www.flatenscamping.se/
+
+Google map link: https://maps.app.goo.gl/DhVoU4FQDhQeovxH7
+
+TET Discount on request when prebook
+(We are currently changing booking system)
+
+
+Med Vänliga Hälsningar
+Mit Freundlichen Grüsse
+Best Regards
+
+
+Flatens Camping</ns0:desc>
+    <ns0:link href="https://www.flatenscamping.se/" />
+    <ns0:link href="https://maps.app.goo.gl/DhVoU4FQDhQeovxH7" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-03-10T12:28:36Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.900117725133896" lon="11.93483023904264">
+    <ns0:ele>154.32688548677277</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Camping Gröne Backe Camping &amp; Cottages -S05</ns0:name>
+    <ns0:cmt>access: customers
+barrier: fence
+camp_site: standard
+caravans: yes
+contact:website: https://www.gbcamp.nu
+drinking_water: yes
+email: info@gbcamp.nu
+name: Gröne Backe Camping
+phone: +46 534 101 44
+power_supply: yes
+sanitary_dump_station: yes
+shower: yes
+tents: yes
+toilets: yes
+tourism: camp_site
+website: https://www.gbcamp.nu/sv/</ns0:cmt>
+    <ns0:desc>access: customers
+barrier: fence
+camp_site: standard
+caravans: yes
+contact:website: https://www.gbcamp.nu
+drinking_water: yes
+email: info@gbcamp.nu
+name: Gröne Backe Camping
+phone: +46 534 101 44
+power_supply: yes
+sanitary_dump_station: yes
+shower: yes
+tents: yes
+toilets: yes
+tourism: camp_site
+website: https://www.gbcamp.nu/sv/</ns0:desc>
+    <ns0:link href="https://www.gbcamp.nu/sv/" />
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.437210083007813" lon="13.624763488769531">
+    <ns0:time>2025-08-02T07:51:35Z</ns0:time>
+    <ns0:name>Camping Isaberg -S26</ns0:name>
+    <ns0:cmt>Parking
+Hestra, SWE</ns0:cmt>
+    <ns0:desc>Parking
+Hestra, SWE</ns0:desc>
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Hestra</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Hestra</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T07:51:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.190811634063721" lon="14.044657945632935">
+    <ns0:ele>154.0625</ns0:ele>
+    <ns0:time>2023-12-13T18:42:51Z</ns0:time>
+    <ns0:name>Camping Värnamo -S01</ns0:name>
+    <ns0:cmt> info@varnamocamping.se
+http://www.camping.se/f10</ns0:cmt>
+    <ns0:desc> info@varnamocamping.se
+http://www.camping.se/f10</ns0:desc>
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2023-12-13T18:42:51Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.355510415509343" lon="12.906425585970283">
+    <ns0:ele>145.90000000000146</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Camping Överlida -S05</ns0:name>
+    <ns0:cmt>cabins: yes
+caravans: yes
+dog: leashed
+drinking_water: yes
+fee: yes
+internet_access: wlan
+name: Överlida camping
+power_supply: yes
+tents: yes
+tourism: camp_site</ns0:cmt>
+    <ns0:desc>cabins: yes
+caravans: yes
+dog: leashed
+drinking_water: yes
+fee: yes
+internet_access: wlan
+name: Överlida camping
+power_supply: yes
+tents: yes
+tourism: camp_site</ns0:desc>
+    <ns0:sym>Campground</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.758017141371965" lon="11.893456997349858">
+    <ns0:ele>91.38174136891169</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Cafe Lärgjöken -S05</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.490479005500674" lon="12.640950176864862">
+    <ns0:ele>65.532266780501772</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Frölichs grill -S05</ns0:name>
+    <ns0:cmt>amenity: fast_food
+cuisine: burger;fast_food
+drive_through: no
+name: Frölichs grill
+takeaway: yes</ns0:cmt>
+    <ns0:desc>amenity: fast_food
+cuisine: burger;fast_food
+drive_through: no
+name: Frölichs grill
+takeaway: yes</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.377081327140331" lon="12.911826213821769">
+    <ns0:ele>178</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Gold City Gräne Gård -S05</ns0:name>
+    <ns0:cmt>amenity: cafe
+cuisine: local
+name: Gold City Gräne Gård
+website: https://www.goldcity.se/</ns0:cmt>
+    <ns0:desc>amenity: cafe
+cuisine: local
+name: Gold City Gräne Gård
+website: https://www.goldcity.se/</ns0:desc>
+    <ns0:link href="https://www.goldcity.se/" />
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.90100771561265" lon="11.946560880169272">
+    <ns0:ele>155.60309940671036</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Gästhuset Tjuren -S05</ns0:name>
+    <ns0:cmt>amenity: restaurant
+name: Gästhuset
+opening_hours: Mo-Sa 08:30-17:00, 09:00-18:00; Su 12:00-17:00</ns0:cmt>
+    <ns0:desc>amenity: restaurant
+name: Gästhuset
+opening_hours: Mo-Sa 08:30-17:00, 09:00-18:00; Su 12:00-17:00</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.253710692748427" lon="12.983213709667325">
+    <ns0:ele>140.70000000000073</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Hemma på Klev -S05</ns0:name>
+    <ns0:cmt>amenity: restaurant
+name: Hemma på Klev
+outdoor_seating: yes
+tourism: hostel
+website: https://www.hemmapaklev.se/</ns0:cmt>
+    <ns0:desc>amenity: restaurant
+name: Hemma på Klev
+outdoor_seating: yes
+tourism: hostel
+website: https://www.hemmapaklev.se/</ns0:desc>
+    <ns0:link href="https://www.hemmapaklev.se/" />
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.442619428038597" lon="13.654221603646874">
+    <ns0:time>2025-06-26T05:09:44Z</ns0:time>
+    <ns0:name>Food Isabergs Golfklubb -S01</ns0:name>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-06-26T05:09:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.244721436873078" lon="12.864764928817749">
+    <ns0:ele>110.10000000000036</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Mandy's Diner -S05</ns0:name>
+    <ns0:cmt>addr:city: Älvsered
+addr:postcode: 311 63
+addr:street: Boråsvägen
+amenity: restaurant
+contact:phone: +46 325 31130
+contact:website: http://www.mandysdiner.se/
+cuisine: burger;Ribs
+name: Mandy's Diner
+outdoor_seating: yes</ns0:cmt>
+    <ns0:desc>addr:city: Älvsered
+addr:postcode: 311 63
+addr:street: Boråsvägen
+amenity: restaurant
+contact:phone: +46 325 31130
+contact:website: http://www.mandysdiner.se/
+cuisine: burger;Ribs
+name: Mandy's Diner
+outdoor_seating: yes</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.770171379670501" lon="12.272532088682055">
+    <ns0:ele>24</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Moset Grill -S05</ns0:name>
+    <ns0:cmt>amenity: fast_food
+cuisine: burger
+name: Moset Grill</ns0:cmt>
+    <ns0:desc>amenity: fast_food
+cuisine: burger
+name: Moset Grill</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.68617071211338" lon="12.209774097427726">
+    <ns0:ele>62.719574570470357</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Olssons Gatukök -S05</ns0:name>
+    <ns0:cmt>addr:city: Landvetter
+addr:country: SE
+addr:housenumber: 4
+addr:place: Brattåstorget
+addr:postcode: 43832
+air_conditioning: yes
+amenity: fast_food
+building: commercial
+building:levels: 1
+check_date: 2023-06-04
+cuisine: burger;sausage
+diet:vegan: yes
+diet:vegetarian: yes
+drive_through: no
+email: info@olssonsgatukok.se
+highchair: no
+internet_access: no
+name: Olssons Gatukök
+opening_hours: Mo-Su 10:00-21:00
+outdoor_seating: yes
+payment:mastercard: yes
+payment:visa: yes
+phone: +46 706-555 060
+roof:shape: many
+smoking: no
+takeaway: yes
+website: https://olssonsgatukok.se/
+wheelchair: yes</ns0:cmt>
+    <ns0:desc>addr:city: Landvetter
+addr:country: SE
+addr:housenumber: 4
+addr:place: Brattåstorget
+addr:postcode: 43832
+air_conditioning: yes
+amenity: fast_food
+building: commercial
+building:levels: 1
+check_date: 2023-06-04
+cuisine: burger;sausage
+diet:vegan: yes
+diet:vegetarian: yes
+drive_through: no
+email: info@olssonsgatukok.se
+highchair: no
+internet_access: no
+name: Olssons Gatukök
+opening_hours: Mo-Su 10:00-21:00
+outdoor_seating: yes
+payment:mastercard: yes
+payment:visa: yes
+phone: +46 706-555 060
+roof:shape: many
+smoking: no
+takeaway: yes
+website: https://olssonsgatukok.se/
+wheelchair: yes</ns0:desc>
+    <ns0:link href="https://olssonsgatukok.se/" />
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.892850171774626" lon="12.045809989795089">
+    <ns0:ele>4</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Pizzeria Bella Mia -S05</ns0:name>
+    <ns0:cmt>amenity: fast_food
+cuisine: pizza
+name: Pizzeria Bella Mia
+phone: +46 0303 96267
+takeaway: yes</ns0:cmt>
+    <ns0:desc>amenity: fast_food
+cuisine: pizza
+name: Pizzeria Bella Mia
+phone: +46 0303 96267
+takeaway: yes</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.431137561798096" lon="14.093592166900635">
+    <ns0:time>2025-08-02T08:00:56Z</ns0:time>
+    <ns0:name>Food Pizzeria la Sera -S26</ns0:name>
+    <ns0:cmt>Pizzeria la Sera
+Skillingaryd, SWE</ns0:cmt>
+    <ns0:desc>Pizzeria la Sera
+Skillingaryd, SWE</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Skillingaryd</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Skillingaryd</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T08:00:56Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.661901606246829" lon="11.848561763763428">
+    <ns0:ele>95.047411191708193</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Restaurang Ekbacken -S05</ns0:name>
+    <ns0:cmt>amenity: restaurant
+name: Restaurang Ekbacken</ns0:cmt>
+    <ns0:desc>amenity: restaurant
+name: Restaurang Ekbacken</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.924259593710303" lon="12.030586190521717">
+    <ns0:ele>25</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Romelanda Pizzeria -S05</ns0:name>
+    <ns0:cmt>amenity: restaurant
+name: Romelanda Pizzeria
+toilets:wheelchair: no
+wheelchair: yes</ns0:cmt>
+    <ns0:desc>amenity: restaurant
+name: Romelanda Pizzeria
+toilets:wheelchair: no
+wheelchair: yes</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.858245987445116" lon="11.999137373641133">
+    <ns0:ele>3</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Vikingagrillen -S05</ns0:name>
+    <ns0:cmt>amenity: fast_food
+building: restaurant
+check_date: 2025-07-16
+cuisine: burger
+drive_through: yes
+name: Vikingagrillen
+outdoor_seating: yes
+toilets: yes
+wheelchair: yes</ns0:cmt>
+    <ns0:desc>amenity: fast_food
+building: restaurant
+check_date: 2025-07-16
+cuisine: burger
+drive_through: yes
+name: Vikingagrillen
+outdoor_seating: yes
+toilets: yes
+wheelchair: yes</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.120369113981724" lon="12.942836740985513">
+    <ns0:ele>110.10000000000036</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Food Ätrans Restaurang -S05</ns0:name>
+    <ns0:cmt>amenity: restaurant
+cuisine: pizza;kebab</ns0:cmt>
+    <ns0:desc>amenity: restaurant
+cuisine: pizza;kebab</ns0:desc>
+    <ns0:sym>Restaurant</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.427909774705768" lon="14.133487930521369">
+    <ns0:time>2025-08-02T08:22:16Z</ns0:time>
+    <ns0:name>Fun A -S26</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T08:22:16Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.435557842254639" lon="14.146378040313721">
+    <ns0:time>2025-08-02T08:22:27Z</ns0:time>
+    <ns0:name>Fun B -S26</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T08:22:27Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.432671701535583" lon="14.159945575520396">
+    <ns0:time>2025-08-02T08:22:34Z</ns0:time>
+    <ns0:name>Fun C -S26</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T08:22:34Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.138895012438297" lon="14.626321624964476">
+    <ns0:ele>90.745641306334832</ns0:ele>
+    <ns0:time>2025-10-27T08:17:59Z</ns0:time>
+    <ns0:name>FUN Ride the stream</ns0:name>
+    <ns0:sym>Information</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-10-27T08:17:59Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.901572823524475" lon="11.945003271102905">
+    <ns0:ele>157.35546875</ns0:ele>
+    <ns0:time>2025-07-29T15:18:29Z</ns0:time>
+    <ns0:name>Gas Ed -S05</ns0:name>
+    <ns0:cmt>st1
+Jordbrovägen
+Ed, Vastra Gotaland County, 668 32, SWE</ns0:cmt>
+    <ns0:desc>st1
+Jordbrovägen
+Ed, Vastra Gotaland County, 668 32, SWE</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Jordbrovägen</ns1:StreetAddress>
+          <ns1:City>Ed</ns1:City>
+          <ns1:State>Vastra Gotaland County</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>668 32</ns1:PostalCode>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Jordbrovägen</ns2:StreetAddress>
+          <ns2:City>Ed</ns2:City>
+          <ns2:State>Vastra Gotaland County</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>668 32</ns2:PostalCode>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T15:18:29Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.562480751425028" lon="11.996172862127423">
+    <ns0:ele>101.609375</ns0:ele>
+    <ns0:time>2025-07-29T15:19:14Z</ns0:time>
+    <ns0:name>Gas Färgelanda -S05</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T15:19:14Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.44675874710083" lon="13.594100475311279">
+    <ns0:time>2025-08-02T07:42:17Z</ns0:time>
+    <ns0:name>Gas Hestra -S26</ns0:name>
+    <ns0:cmt>Preem: Preem</ns0:cmt>
+    <ns0:desc>Preem: Preem</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Hestra</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Hestra</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T07:42:17Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.689834861084819" lon="12.309203250333667">
+    <ns0:ele>70.09375</ns0:ele>
+    <ns0:time>2025-07-29T15:10:37Z</ns0:time>
+    <ns0:name>Gas Härryda -S05</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T15:10:37Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.858750578016043" lon="11.998770581558347">
+    <ns0:time>2025-07-29T15:03:38Z</ns0:time>
+    <ns0:name>Gas Kungälv -S05</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T15:03:38Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.766150832176208" lon="12.262142300605774">
+    <ns0:ele>19.91796875</ns0:ele>
+    <ns0:time>2025-07-29T15:09:38Z</ns0:time>
+    <ns0:name>Gas Lerum -S05</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T15:09:38Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.138817120343447" lon="12.10921942256391">
+    <ns0:time>2025-07-29T15:02:41Z</ns0:time>
+    <ns0:name>Gas Lilla Edet -S05</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T15:02:41Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.984136581420898" lon="14.634025096893311">
+    <ns0:ele>105.8125</ns0:ele>
+    <ns0:time>2024-08-13T13:24:34Z</ns0:time>
+    <ns0:name>Gas Preem - Laxå -S13</ns0:name>
+    <ns0:cmt>Preem: Preem - Laxå,Smedjegatan (Preem)</ns0:cmt>
+    <ns0:desc>Preem: Preem - Laxå,Smedjegatan (Preem)</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Ramundeboda distrikt</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+        <ns1:PhoneNumber>+46 584 13082</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Ramundeboda distrikt</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+        <ns2:PhoneNumber>+46 584 13082</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-13T13:24:34Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.984136581420898" lon="14.634025096893311">
+    <ns0:ele>105.8</ns0:ele>
+    <ns0:time>2024-08-19T06:43:32Z</ns0:time>
+    <ns0:name>Gas Preem -S02</ns0:name>
+    <ns0:cmt>Preem: Preem - Laxå,Smedjegatan (Preem)</ns0:cmt>
+    <ns0:desc>Preem: Preem - Laxå,Smedjegatan (Preem)</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-08-19T06:43:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.496195379644632" lon="12.656928515061736">
+    <ns0:time>2025-07-29T14:57:08Z</ns0:time>
+    <ns0:name>Gas Skene -S05</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T14:57:08Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.434570789337158" lon="14.094107151031494">
+    <ns0:time>2025-08-02T07:45:32Z</ns0:time>
+    <ns0:name>Gas Skillingaryd -S26</ns0:name>
+    <ns0:cmt>Oljeshejkerna Johnsson</ns0:cmt>
+    <ns0:desc>Oljeshejkerna Johnsson</ns0:desc>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Skillingaryd</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Skillingaryd</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T07:45:32Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.957799419760704" lon="13.089620629325509">
+    <ns0:ele>89</ns0:ele>
+    <ns0:time>2025-07-29T14:53:10Z</ns0:time>
+    <ns0:name>Gas Torup -S05</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T14:53:10Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.354430599138141" lon="11.913207275792956">
+    <ns0:time>2025-07-29T15:01:44Z</ns0:time>
+    <ns0:name>Gas Uddevalla -S05</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T15:01:44Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.120107430964708" lon="12.9430809058249">
+    <ns0:ele>110.03515625</ns0:ele>
+    <ns0:time>2025-07-29T14:54:13Z</ns0:time>
+    <ns0:name>Gas Ätran -S05</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T14:54:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.347427997738123" lon="12.894153138622642">
+    <ns0:ele>146.09375</ns0:ele>
+    <ns0:time>2025-07-29T15:12:48Z</ns0:time>
+    <ns0:name>Gas Överlida -S05</ns0:name>
+    <ns0:sym>Gas Station</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-29T15:12:48Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.39236493781209" lon="13.9902738109231">
+    <ns0:time>2025-09-15T04:48:50Z</ns0:time>
+    <ns0:name>Hostel Elofstorps gamla missionshus -S02</ns0:name>
+    <ns0:link href="https://www.elofstorp.se/" />
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-15T04:48:50Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.968905692920089" lon="14.570082239806652">
+    <ns0:ele>175.8671875</ns0:ele>
+    <ns0:time>2021-03-30T17:24:45Z</ns0:time>
+    <ns0:name>Hostel IOGT-NTO Kronobergshed -S01</ns0:name>
+    <ns0:cmt>10% discount if you say you are riding "TET"</ns0:cmt>
+    <ns0:desc>10% discount if you say you are riding "TET"</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2021-03-30T17:24:45Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.243027202785015" lon="12.866681618615985">
+    <ns0:ele>109.91175133865349</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Hostel Lin`s B&amp;B -S05</ns0:name>
+    <ns0:cmt>building: yes
+tourism: guest_house</ns0:cmt>
+    <ns0:desc>building: yes
+tourism: guest_house</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.661666577681899" lon="11.848862171173096">
+    <ns0:ele>94.374832071131095</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Hostel Ulkeröds gård -S05</ns0:name>
+    <ns0:cmt>building: yes
+contact:website: http://ulkerodsgard.se
+name: Ulkeröds gård
+tourism: hotel</ns0:cmt>
+    <ns0:desc>building: yes
+contact:website: http://ulkerodsgard.se
+name: Ulkeröds gård
+tourism: hotel</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.91188851557672" lon="11.923886239528656">
+    <ns0:ele>149.89226222389462</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Hotel Dalsland -S05</ns0:name>
+    <ns0:cmt>name: Hotell Dalsland
+tourism: hotel</ns0:cmt>
+    <ns0:desc>name: Hotell Dalsland
+tourism: hotel</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.864842209964991" lon="11.996207730844617">
+    <ns0:ele>3.480262485147905</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Hotel Fars Hatt -S05</ns0:name>
+    <ns0:cmt>building: hotel
+check_date: 2022-12-22
+name: Hotell Fars Hatt
+tourism: hotel
+wikidata: Q10494149</ns0:cmt>
+    <ns0:desc>building: hotel
+check_date: 2022-12-22
+name: Hotell Fars Hatt
+tourism: hotel
+wikidata: Q10494149</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.981142146512866" lon="14.633929375559092">
+    <ns0:ele>107</ns0:ele>
+    <ns0:time>2025-07-02T06:04:24Z</ns0:time>
+    <ns0:name>Hotel Laxå Herrgårdshotellet -S02</ns0:name>
+    <ns0:cmt>This is just a few meters from where TET 02 and 13 meet if you are coming from the east, north or south.
+The hotel is run by the married couple Bassel and Hala who arrived from Syria 10 years ago.
+We used it last week and it was a very positive experience. I am attaching pictures that often say more than words.
+The rooms were large with facilities suitable for gravel drivers. Own small kitchen with fridge, seating area, lovely bathtub and nice common areas for socializing with others. The breakfast was also plentiful and tasty. We missed the opportunity to buy dinner and drinks on site, but it was walking distance to shops and restaurants.</ns0:cmt>
+    <ns0:desc>This is just a few meters from where TET 02 and 13 meet if you are coming from the east, north or south.
+The hotel is run by the married couple Bassel and Hala who arrived from Syria 10 years ago.
+We used it last week and it was a very positive experience. I am attaching pictures that often say more than words.
+The rooms were large with facilities suitable for gravel drivers. Own small kitchen with fridge, seating area, lovely bathtub and nice common areas for socializing with others. The breakfast was also plentiful and tasty. We missed the opportunity to buy dinner and drinks on site, but it was walking distance to shops and restaurants.</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Herrgårdsvägen 18</ns1:StreetAddress>
+          <ns1:City>axå</ns1:City>
+          <ns1:Country>Sweden</ns1:Country>
+          <ns1:PostalCode>695 32</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>+46 073-756 61 30</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Herrgårdsvägen 18</ns2:StreetAddress>
+          <ns2:City>axå</ns2:City>
+          <ns2:Country>Sweden</ns2:Country>
+          <ns2:PostalCode>695 32</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>+46 073-756 61 30</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-02T06:04:24Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.981142146512866" lon="14.633929375559092">
+    <ns0:ele>107</ns0:ele>
+    <ns0:time>2025-07-02T06:04:24Z</ns0:time>
+    <ns0:name>Hotel Laxå Herrgårdshotellet -S13</ns0:name>
+    <ns0:cmt>This is just a few meters from where TET 02 and 13 meet if you are coming from the east, north or south.
+The hotel is run by the married couple Bassel and Hala who arrived from Syria 10 years ago.
+We used it last week and it was a very positive experience. I am attaching pictures that often say more than words.
+The rooms were large with facilities suitable for gravel drivers. Own small kitchen with fridge, seating area, lovely bathtub and nice common areas for socializing with others. The breakfast was also plentiful and tasty. We missed the opportunity to buy dinner and drinks on site, but it was walking distance to shops and restaurants.</ns0:cmt>
+    <ns0:desc>This is just a few meters from where TET 02 and 13 meet if you are coming from the east, north or south.
+The hotel is run by the married couple Bassel and Hala who arrived from Syria 10 years ago.
+We used it last week and it was a very positive experience. I am attaching pictures that often say more than words.
+The rooms were large with facilities suitable for gravel drivers. Own small kitchen with fridge, seating area, lovely bathtub and nice common areas for socializing with others. The breakfast was also plentiful and tasty. We missed the opportunity to buy dinner and drinks on site, but it was walking distance to shops and restaurants.</ns0:desc>
+    <ns0:sym>Lodging</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Herrgårdsvägen 18</ns1:StreetAddress>
+          <ns1:City>axå</ns1:City>
+          <ns1:Country>Sweden</ns1:Country>
+          <ns1:PostalCode>695 32</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>+46 073-756 61 30</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Herrgårdsvägen 18</ns2:StreetAddress>
+          <ns2:City>axå</ns2:City>
+          <ns2:Country>Sweden</ns2:Country>
+          <ns2:PostalCode>695 32</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>+46 073-756 61 30</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-02T06:04:24Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.426738739013672" lon="13.981304168701172">
+    <ns0:ele>265.2109375</ns0:ele>
+    <ns0:time>2019-12-23T21:03:42Z</ns0:time>
+    <ns0:name>Hut Hagstad Raststuga -S01</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/p43mdg73oluefan83faoafa7q8/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrSU3iTHGm_qIVNWGykuwVPO-Sui4RozQG9xc1SR0jW9byxpI2h-ccRl-rtb3z013mJTR11YAjkcf32vV3686DP5_ENiAlC_fIoTA3jvX7b1JGBr68p-QonFVwEUNBRk2vWtRXEmxHsmzE7rA3xB1DxvhnQmTSKaUOZbV_Zb5nWi9VKsrHHjKNbEUlzOu4Z1mOTKJhrNEZZazmu0KAvD-GFP1lgg2heDke1Mtn6-9OdjebKVJLVxI1DQEs0sFMwtA70Hi1C74usaBZbaCp9HHrakWpaPw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Riktigt litet nästan så man får krypa in. Betydligt mindre än vad det ser ut på bild. Plats för två med lite god vilja. Betydligt trevligare att sova utanför. Ingen grillplats. Inget dass.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/iul4seil0k4035l2ab24bnjflo/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqzX0cQpuqKzs6NvBoW7wXgzVyk1RAZM3huPr5NnlualB85PjIhek7Gw-fQbPDFl4kXM8ciiIUKCrAbkGJ1dgpaktG-5-67LErFqklcyB2fw0OyKwR0uiXsP-pM4yo98CohaL_2HvWFeFoLdZzZHKmTIPSI0RuMXXY7c0-jeYNtTMVVbqCq26al48N1e2xt-8faFoAUgu3p6l4cnfOwaTG2f9bakhQpzgR_l2QdsFhGI1eJJq5llvSQ4U-3R76cwf67yjP9HgmH3CdZjHYaa1sz2Wrt0A?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/p43mdg73oluefan83faoafa7q8/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrSU3iTHGm_qIVNWGykuwVPO-Sui4RozQG9xc1SR0jW9byxpI2h-ccRl-rtb3z013mJTR11YAjkcf32vV3686DP5_ENiAlC_fIoTA3jvX7b1JGBr68p-QonFVwEUNBRk2vWtRXEmxHsmzE7rA3xB1DxvhnQmTSKaUOZbV_Zb5nWi9VKsrHHjKNbEUlzOu4Z1mOTKJhrNEZZazmu0KAvD-GFP1lgg2heDke1Mtn6-9OdjebKVJLVxI1DQEs0sFMwtA70Hi1C74usaBZbaCp9HHrakWpaPw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Riktigt litet nästan så man får krypa in. Betydligt mindre än vad det ser ut på bild. Plats för två med lite god vilja. Betydligt trevligare att sova utanför. Ingen grillplats. Inget dass.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/iul4seil0k4035l2ab24bnjflo/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqzX0cQpuqKzs6NvBoW7wXgzVyk1RAZM3huPr5NnlualB85PjIhek7Gw-fQbPDFl4kXM8ciiIUKCrAbkGJ1dgpaktG-5-67LErFqklcyB2fw0OyKwR0uiXsP-pM4yo98CohaL_2HvWFeFoLdZzZHKmTIPSI0RuMXXY7c0-jeYNtTMVVbqCq26al48N1e2xt-8faFoAUgu3p6l4cnfOwaTG2f9bakhQpzgR_l2QdsFhGI1eJJq5llvSQ4U-3R76cwf67yjP9HgmH3CdZjHYaa1sz2Wrt0A?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Navaid, Green</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:42Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.912403583526611" lon="11.931796073913574">
+    <ns0:time>2025-07-27T12:33:38Z</ns0:time>
+    <ns0:name>Museum Eds Mc- och Motormuseum -S05</ns0:name>
+    <ns0:cmt>Eds Mc- och Motormuseum</ns0:cmt>
+    <ns0:desc>Eds Mc- och Motormuseum</ns0:desc>
+    <ns0:sym>Museum</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Storgatan</ns1:StreetAddress>
+          <ns1:City>Ed</ns1:City>
+          <ns1:State>Västra Götalands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>668 30</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>053423081</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Storgatan</ns2:StreetAddress>
+          <ns2:City>Ed</ns2:City>
+          <ns2:State>Västra Götalands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>668 30</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>053423081</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-27T12:33:38Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.16168686747551" lon="13.133726036176085">
+    <ns0:ele>142.9609375</ns0:ele>
+    <ns0:time>2024-12-15T15:07:13Z</ns0:time>
+    <ns0:name>Rest Area Shelter Grävlingabacken -S14</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-12-15T15:07:13Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.268590331077576" lon="13.319088220596313">
+    <ns0:ele>174.89453125</ns0:ele>
+    <ns0:time>2024-12-15T15:08:54Z</ns0:time>
+    <ns0:name>Rest Area Shelter Hällabäck -S14</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-12-15T15:08:54Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.794061923399568" lon="11.65573189035058">
+    <ns0:ele>140.26171875</ns0:ele>
+    <ns0:time>2024-12-15T15:11:30Z</ns0:time>
+    <ns0:name>Rest Area Shelter Roslund Vindskydd -S03</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-12-15T15:11:30Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.943683624267578" lon="13.169002532958984">
+    <ns0:ele>118.43359375</ns0:ele>
+    <ns0:time>2024-12-15T15:05:59Z</ns0:time>
+    <ns0:name>Rest Area Shelter Sandsjön -S14</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-12-15T15:05:59Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.182332968339324" lon="14.561245031654835">
+    <ns0:ele>151.78939747630662</ns0:ele>
+    <ns0:time>2025-10-27T08:18:01Z</ns0:time>
+    <ns0:name>Rest Hunter shelter</ns0:name>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-10-27T08:18:01Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.316926000639796" lon="13.972142999991775">
+    <ns0:ele>0</ns0:ele>
+    <ns0:time>2019-12-23T21:03:42Z</ns0:time>
+    <ns0:name>Rest Hut Svänö -S01</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/38bbp1aofpl83nhe68re9l7ihg/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALquogi3-lxFVVwSiH0Hmab2vEnPpBEKtMXWuIggSX0MQ1858x2P_2cIbwPRa7z6ecODei6I0PwwVRkkxAJ_Z3Pwni-4Rv_ad8BV6AD_UMgF1K_egDoqAdeCNQH4y3-n39jUEm4bHotrzGUiVEej190iv9RD_-5IPUa9Voo5wZjs_VoMsJ-KPGCMCwNbmErNxwsrppap_Bj47j1f13l384oTjb3Y5iLTdhPNLGcVSIiP-V6hUjSu9ce6YDFmHlWQQlVnLhG0iL1zCBwCjfl6sXHsfjQExg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Två riktigt stora hus. Den ena skall förbokas. Finns vatten och toalett.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/bg3196uq2f46jvn7b0vuq6k6tc/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqLzoIT-kHlgI7oqpPR1CwZhJHb82hkifYtRsa5oFMenIgmLDF8xBZhYBEeEjvmsPb-E3HHn5Rzur-IONmT77h3SR63PmPQ90QPyQC-pAFIlmJBn0h3Yi527QJBU_vrOcAfdCx7s5vfbKN2LMpYt77-GA8XfwZnH69yp1VReluWy8SlqowCa9j5kC0URyDkPe5GwAg_ldL94jbkNj4aWUu2UUAN3s5biueLo3z3yT_wqqL-0Y3jIM9xYMPxC7KSGJU7Kdc5jtou9lm_Y07kCzWbr79AKw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/fe6e72ajigocqpdbgtelqpji5g/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqsZa1jXbvCQZtPwj6HBSysQwGb2RcTqkbhVIjftYuMCUvRwyqmXzPB-RSDZbrSaX4O88FPQBIMNpYkanV1T5vnAx4okVbUrN96EfHyhjzUk8o1W0DEZFjt6IrX5Z--Wg8nxB3AxdvVMqqUA-L8ObBvqpN78XdBi-ICNjdGM2jBjf5fWw39gSvqzfExbLsCyju1vWJZvLiNqQUkChid3XCHO-03x8lI9h32ocfa6eehaenVfvWetIh9zQ0kh7M0B3T8CDju5xsSt4QTHkpgdHSpcjpcvA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0o-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/ccvamagbp3040g4ndh1p48m53s/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALoBKH5Rj0-ipSQTUE2uW9GVB2q6lBKnAOpmuzUVHd4rvUKengRkGlVZg59-LnAj6sAR2IVNcozD_1N6UlpR17OoG7GuQhJy1tGUPmr6I54uJDixj6h_tuNpFxAosIBp7VgH99rmVH0MKCd0YtviVV97t5trO2ny09ioTwq9UqRSUp7_GXR3r65crhQVJmjSUpUHcLTmYrB8reMwdPl4dnpZbR8f4HymldN9gi5qRy-O7YEOTao3N8C0Dop8NsTgjVrl5FrewHzNgQBS6a_TGEZZE-LIdA?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/38bbp1aofpl83nhe68re9l7ihg/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALquogi3-lxFVVwSiH0Hmab2vEnPpBEKtMXWuIggSX0MQ1858x2P_2cIbwPRa7z6ecODei6I0PwwVRkkxAJ_Z3Pwni-4Rv_ad8BV6AD_UMgF1K_egDoqAdeCNQH4y3-n39jUEm4bHotrzGUiVEej190iv9RD_-5IPUa9Voo5wZjs_VoMsJ-KPGCMCwNbmErNxwsrppap_Bj47j1f13l384oTjb3Y5iLTdhPNLGcVSIiP-V6hUjSu9ce6YDFmHlWQQlVnLhG0iL1zCBwCjfl6sXHsfjQExg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Två riktigt stora hus. Den ena skall förbokas. Finns vatten och toalett.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/bg3196uq2f46jvn7b0vuq6k6tc/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqLzoIT-kHlgI7oqpPR1CwZhJHb82hkifYtRsa5oFMenIgmLDF8xBZhYBEeEjvmsPb-E3HHn5Rzur-IONmT77h3SR63PmPQ90QPyQC-pAFIlmJBn0h3Yi527QJBU_vrOcAfdCx7s5vfbKN2LMpYt77-GA8XfwZnH69yp1VReluWy8SlqowCa9j5kC0URyDkPe5GwAg_ldL94jbkNj4aWUu2UUAN3s5biueLo3z3yT_wqqL-0Y3jIM9xYMPxC7KSGJU7Kdc5jtou9lm_Y07kCzWbr79AKw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/fe6e72ajigocqpdbgtelqpji5g/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqsZa1jXbvCQZtPwj6HBSysQwGb2RcTqkbhVIjftYuMCUvRwyqmXzPB-RSDZbrSaX4O88FPQBIMNpYkanV1T5vnAx4okVbUrN96EfHyhjzUk8o1W0DEZFjt6IrX5Z--Wg8nxB3AxdvVMqqUA-L8ObBvqpN78XdBi-ICNjdGM2jBjf5fWw39gSvqzfExbLsCyju1vWJZvLiNqQUkChid3XCHO-03x8lI9h32ocfa6eehaenVfvWetIh9zQ0kh7M0B3T8CDju5xsSt4QTHkpgdHSpcjpcvA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0o-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/ccvamagbp3040g4ndh1p48m53s/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALoBKH5Rj0-ipSQTUE2uW9GVB2q6lBKnAOpmuzUVHd4rvUKengRkGlVZg59-LnAj6sAR2IVNcozD_1N6UlpR17OoG7GuQhJy1tGUPmr6I54uJDixj6h_tuNpFxAosIBp7VgH99rmVH0MKCd0YtviVV97t5trO2ny09ioTwq9UqRSUp7_GXR3r65crhQVJmjSUpUHcLTmYrB8reMwdPl4dnpZbR8f4HymldN9gi5qRy-O7YEOTao3N8C0Dop8NsTgjVrl5FrewHzNgQBS6a_TGEZZE-LIdA?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:42Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.444564700126648" lon="13.904893398284912">
+    <ns0:ele>281.1015625</ns0:ele>
+    <ns0:time>2019-12-23T21:03:42Z</ns0:time>
+    <ns0:name>Rest Hut Vildmarksbyn -S01</ns0:name>
+    <ns0:cmt>&lt;img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/7pacujmolo4r508b8n73nghf4o/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrhjskSkM-ic1jaWOUIcfVjMjG4D44vEfwpur_64YZkkhpFHWMLzbBxvY1EWdXm_uX0g1EOJmE61RNQpGYW0utRhMf4sYneOq0ki8mpmU_ytj1MUsj3uNln1rJY-G3K7BPg9T9mpsWSG4t3RjsoEtfJL_BLaIT1Ok_AX93JERQotSMV_i2p4bIMIk0K-W1u_Ol47sV2s4-yHfIuGl4PfJdL88n3nPT28PMl_lYqqmPnzcspk-w2sNuO24A5cyZ2d0TthLxZYiOxOwfbcHZnqo-bxgn46A?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger underbart vid den lilla sjön. Två kåtor och stort tak över plats med bänkar. Ett par grillplatser att välja på. Verkar vara mycket välskött. Dass finns. Grusväg går hela vägen fram med det är bommat en bit innan. Vildmarksbyn går att boka men även att spontanbesöka.  Bokningar går före se foto.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/r0h6s6jkems2lea2hdecuk05p8/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqhRCdQozIKNGI9Cv-mkAX32TEG5yo-awc6vmRhGHxUPN4vIBDzpMT6EIUN3X4hP8FfQlOqhqI9WANsR_0ahaTsfJiU65sJ6nLjB0mDQgi7F9V7bvMbP0hWuAs3eh2kGTdmjI6TPIHLj6dXuMEQK--E6xfN61X52eigt9LDc7p5XVQlITq8i4Wc-r3q31D1E4eCLN4CKtudkoBMdLLi5mBqGXgWenjKKitd5p7epnLkwjoicTu03FgmbKmFezWdYcPdbnnh-8WGIW--5KRnysKoVPwGog?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/uv1hlgq3nqu3lsfoc4b0e639ac/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqRUoFlnQOcc3t92DjEbFI1jCROzev0JJkWv-_ljCcGgS5d2Hznr3mOgQcwyiXNQoCP-Amq67SzPY7IPdCewcWk5DGn26K0rmY6JKNY8Ov-T-k5_mkPOHegWL-uAm-yNzVJ2SliTKQe5nZYN_7qvkQdNttiXH6fWC9pibXyL2UpAbsESL44Nghv6T_sHzSvKBrM5BuwD0KsWyJqsTX40MdvOaWykbG2S527D4tGT78nPO7wGi-jRhhoknL9dhBrxMPPfcXD3LRj_pzXm304kPgH8mB9uw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/cc6mdb4c7cuofju29j0utuqtn8/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALreh4g1yH_4adGf9oKs-JdPvhlLiLRRbw3qzL--9HpPGxv9bsddgygEY_kbC3YrvFExRWqOlvKIUik24LTf5n7G5p7aAJjSD-T9qYO4aY4QFIJBCS71xxnD5FNkdOWbfb5JGkJckNOO3AFwXhRtjAGASbGBc_gqHphX5AmoXC5UPH4wJRusKv-5RjZsrWT9_psoHNFzESRxmUSw7tq9jSUD6eJttlmbcPJSZ21ZaLrRwX4LO2IW9z0TuFjtDP2Oy1tH3Ll_n5wJi5FP6hmbatulLG2EmA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/fttngoh7vbka3gn94hidovtd2g/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALr4Sb3lMJXD_p2cxdPcrxwWDslqFCmerKrUKU58YaSgndFa1MaUL2ScesiPLnv2vueur-Ty1lnxInYJz29SN3PTPgcA0jP4Ihn3gf1w_8CLjClXbhFcccBIFLuehj5V6OQsP_hpczlE1jGLccFHNNwg5rFBPNHdcrqvmYQ2KVa1MpPdjN0Wp-K_fn_xkU8tAnA2Jwg52MZhrMTPHbu9WQt51BMoPBGcSSBWu1pUIh4Ky5OCLieFHetYeY0JPz30Elo_cidnbOcoo4d1gIzuw9-3CxlvEA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/ipbutnm52cko6jn9vhljv0esno/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALptF48nsp6YM7-tAr3pPkIHZ9OVTF36fRZ6muDSpz-ydjr3839rar16zSHwZnz5-YXkPnM-o1Xz1yTu7b8DMXdSDi0qOeoyjbS01jTHmATigPIgBlo-p8343guabpkIPHutnpUY9BkVfyzEE8qqwp_L6bff8Q80DTUKgQXW7o78B9sM6IQdUPvvHBdRdSQw6ttiEhAmXwGTir19mWXqTgPDPQtM3Nqh0-JXlw09i67nS7AgyD02wFqeASE-NhyaAmfTlVl_QC2fA35bazaoOlHwYzsmvw?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:cmt>
+    <ns0:desc>&lt;img src="https://doc-0k-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/7pacujmolo4r508b8n73nghf4o/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALrhjskSkM-ic1jaWOUIcfVjMjG4D44vEfwpur_64YZkkhpFHWMLzbBxvY1EWdXm_uX0g1EOJmE61RNQpGYW0utRhMf4sYneOq0ki8mpmU_ytj1MUsj3uNln1rJY-G3K7BPg9T9mpsWSG4t3RjsoEtfJL_BLaIT1Ok_AX93JERQotSMV_i2p4bIMIk0K-W1u_Ol47sV2s4-yHfIuGl4PfJdL88n3nPT28PMl_lYqqmPnzcspk-w2sNuO24A5cyZ2d0TthLxZYiOxOwfbcHZnqo-bxgn46A?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Ligger underbart vid den lilla sjön. Två kåtor och stort tak över plats med bänkar. Ett par grillplatser att välja på. Verkar vara mycket välskött. Dass finns. Grusväg går hela vägen fram med det är bommat en bit innan. Vildmarksbyn går att boka men även att spontanbesöka.  Bokningar går före se foto.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-10-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/r0h6s6jkems2lea2hdecuk05p8/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqhRCdQozIKNGI9Cv-mkAX32TEG5yo-awc6vmRhGHxUPN4vIBDzpMT6EIUN3X4hP8FfQlOqhqI9WANsR_0ahaTsfJiU65sJ6nLjB0mDQgi7F9V7bvMbP0hWuAs3eh2kGTdmjI6TPIHLj6dXuMEQK--E6xfN61X52eigt9LDc7p5XVQlITq8i4Wc-r3q31D1E4eCLN4CKtudkoBMdLLi5mBqGXgWenjKKitd5p7epnLkwjoicTu03FgmbKmFezWdYcPdbnnh-8WGIW--5KRnysKoVPwGog?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0s-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/uv1hlgq3nqu3lsfoc4b0e639ac/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALqRUoFlnQOcc3t92DjEbFI1jCROzev0JJkWv-_ljCcGgS5d2Hznr3mOgQcwyiXNQoCP-Amq67SzPY7IPdCewcWk5DGn26K0rmY6JKNY8Ov-T-k5_mkPOHegWL-uAm-yNzVJ2SliTKQe5nZYN_7qvkQdNttiXH6fWC9pibXyL2UpAbsESL44Nghv6T_sHzSvKBrM5BuwD0KsWyJqsTX40MdvOaWykbG2S527D4tGT78nPO7wGi-jRhhoknL9dhBrxMPPfcXD3LRj_pzXm304kPgH8mB9uw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-08-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/cc6mdb4c7cuofju29j0utuqtn8/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALreh4g1yH_4adGf9oKs-JdPvhlLiLRRbw3qzL--9HpPGxv9bsddgygEY_kbC3YrvFExRWqOlvKIUik24LTf5n7G5p7aAJjSD-T9qYO4aY4QFIJBCS71xxnD5FNkdOWbfb5JGkJckNOO3AFwXhRtjAGASbGBc_gqHphX5AmoXC5UPH4wJRusKv-5RjZsrWT9_psoHNFzESRxmUSw7tq9jSUD6eJttlmbcPJSZ21ZaLrRwX4LO2IW9z0TuFjtDP2Oy1tH3Ll_n5wJi5FP6hmbatulLG2EmA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-00-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/fttngoh7vbka3gn94hidovtd2g/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALr4Sb3lMJXD_p2cxdPcrxwWDslqFCmerKrUKU58YaSgndFa1MaUL2ScesiPLnv2vueur-Ty1lnxInYJz29SN3PTPgcA0jP4Ihn3gf1w_8CLjClXbhFcccBIFLuehj5V6OQsP_hpczlE1jGLccFHNNwg5rFBPNHdcrqvmYQ2KVa1MpPdjN0Wp-K_fn_xkU8tAnA2Jwg52MZhrMTPHbu9WQt51BMoPBGcSSBWu1pUIh4Ky5OCLieFHetYeY0JPz30Elo_cidnbOcoo4d1gIzuw9-3CxlvEA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0g-38-mymaps.googleusercontent.com/untrusted/hostedimage/ook6cstkd231h5ko1rtlfu56mo/ipbutnm52cko6jn9vhljv0esno/1577124000000/3ggc7-3AFrkEZEcit0dbgPS1foGkizDg/16716674571922648143/1AF2TALptF48nsp6YM7-tAr3pPkIHZ9OVTF36fRZ6muDSpz-ydjr3839rar16zSHwZnz5-YXkPnM-o1Xz1yTu7b8DMXdSDi0qOeoyjbS01jTHmATigPIgBlo-p8343guabpkIPHutnpUY9BkVfyzEE8qqwp_L6bff8Q80DTUKgQXW7o78B9sM6IQdUPvvHBdRdSQw6ttiEhAmXwGTir19mWXqTgPDPQtM3Nqh0-JXlw09i67nS7AgyD02wFqeASE-NhyaAmfTlVl_QC2fA35bazaoOlHwYzsmvw?session=0&amp;fife" height="200" width="auto" /&gt;</ns0:desc>
+    <ns0:sym>Picnic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2019-12-23T21:03:42Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.956620421260595" lon="13.075898112729192">
+    <ns0:ele>88.300000000001091</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Shop Coop Torup -S05</ns0:name>
+    <ns0:cmt>addr:city: Torup
+addr:country: SE
+addr:housenumber: 28
+addr:postcode: 314 41
+addr:street: Gamla Nissastigen
+brand: Coop (Sweden)
+brand:wikidata: Q15229319
+building: supermarket
+name: Coop Torup
+opening_hours: Mo-Su 08:00-20:00
+phone: +46 345 20297
+shop: supermarket
+website: https://www.coop.se/butiker-erbjudanden/coop/coop-torup/
+wheelchair: yes</ns0:cmt>
+    <ns0:desc>addr:city: Torup
+addr:country: SE
+addr:housenumber: 28
+addr:postcode: 314 41
+addr:street: Gamla Nissastigen
+brand: Coop (Sweden)
+brand:wikidata: Q15229319
+building: supermarket
+name: Coop Torup
+opening_hours: Mo-Su 08:00-20:00
+phone: +46 345 20297
+shop: supermarket
+website: https://www.coop.se/butiker-erbjudanden/coop/coop-torup/
+wheelchair: yes</ns0:desc>
+    <ns0:link href="https://www.coop.se/butiker-erbjudanden/coop/coop-torup/" />
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.138633137568831" lon="12.108746767044067">
+    <ns0:ele>28.149539242872105</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Shop Frendo Lilla Edet -S05</ns0:name>
+    <ns0:cmt>branch: Lilla Edet
+brand: Frendo
+name: Frendo Lilla Edet
+shop: convenience</ns0:cmt>
+    <ns0:desc>branch: Lilla Edet
+brand: Frendo
+name: Frendo Lilla Edet
+shop: convenience</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.122128810733557" lon="12.948529478162527">
+    <ns0:ele>118</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Shop Handlarn Ätran -S05</ns0:name>
+    <ns0:cmt>name: Handlarn Ätran
+shop: supermarket</ns0:cmt>
+    <ns0:desc>name: Handlarn Ätran
+shop: supermarket</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.686336087062955" lon="12.211245037615299">
+    <ns0:ele>62.5</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Shop ICA Kvantum Landvetter -S05</ns0:name>
+    <ns0:cmt>air_conditioning: yes
+branch: Landvetter
+brand: ICA Kvantum
+brand:wikidata: Q1663776
+brand:wikipedia: sv:Ica
+internet_access: wlan
+internet_access:fee: no
+internet_access:ssid: ICA - Gratis Wifi
+name: ICA Kvantum Landvetter
+opening_hours: Mo-Su 07:00-23:00
+organic: yes
+payment:mastercard: yes
+payment:visa: yes
+shop: supermarket
+stroller: yes
+wheelchair: yes</ns0:cmt>
+    <ns0:desc>air_conditioning: yes
+branch: Landvetter
+brand: ICA Kvantum
+brand:wikidata: Q1663776
+brand:wikipedia: sv:Ica
+internet_access: wlan
+internet_access:fee: no
+internet_access:ssid: ICA - Gratis Wifi
+name: ICA Kvantum Landvetter
+opening_hours: Mo-Su 07:00-23:00
+organic: yes
+payment:mastercard: yes
+payment:visa: yes
+shop: supermarket
+stroller: yes
+wheelchair: yes</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.750815721228719" lon="12.245455859228969">
+    <ns0:ele>24</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Shop ICA Kvantum Lerum -S05</ns0:name>
+    <ns0:cmt>branch: Lerum
+brand: ICA Kvantum
+brand:wikidata: Q1663776
+brand:wikipedia: sv:Ica
+name: ICA Kvantum Lerum
+opening_hours: Mo-Su 06:00-23:00
+shop: supermarket</ns0:cmt>
+    <ns0:desc>branch: Lerum
+brand: ICA Kvantum
+brand:wikidata: Q1663776
+brand:wikipedia: sv:Ica
+name: ICA Kvantum Lerum
+opening_hours: Mo-Su 06:00-23:00
+shop: supermarket</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.343277387320995" lon="11.922792484983802">
+    <ns0:ele>5.259315200104758</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Shop ICA Kvantum Uddevalla -S05</ns0:name>
+    <ns0:cmt>branch: Uddevalla
+brand: ICA Kvantum
+brand:wikidata: Q1663776
+brand:wikipedia: sv:Ica
+check_date: 2024-11-29
+name: ICA Kvantum Uddevalla
+opening_hours: 08:00-22:00
+shop: supermarket</ns0:cmt>
+    <ns0:desc>branch: Uddevalla
+brand: ICA Kvantum
+brand:wikidata: Q1663776
+brand:wikipedia: sv:Ica
+check_date: 2024-11-29
+name: ICA Kvantum Uddevalla
+opening_hours: 08:00-22:00
+shop: supermarket</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.549438402056694" lon="12.531844787299633">
+    <ns0:ele>85.200000000000728</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Shop ICA Nära Hyssna -S05</ns0:name>
+    <ns0:cmt>addr:city: Hyssna
+addr:country: SE
+addr:housenumber: 102
+addr:postcode: 51168
+addr:street: Göteborgsvägen
+branch: Hyssna
+brand: ICA Nära
+brand:wikidata: Q1663776
+brand:wikipedia: sv:Ica
+name: ICA Nära Hyssna
+operator: ICA
+phone: +46 320 38040
+shop: convenience
+website: https://www.ica.se/hyssna</ns0:cmt>
+    <ns0:desc>addr:city: Hyssna
+addr:country: SE
+addr:housenumber: 102
+addr:postcode: 51168
+addr:street: Göteborgsvägen
+branch: Hyssna
+brand: ICA Nära
+brand:wikidata: Q1663776
+brand:wikipedia: sv:Ica
+name: ICA Nära Hyssna
+operator: ICA
+phone: +46 320 38040
+shop: convenience
+website: https://www.ica.se/hyssna</ns0:desc>
+    <ns0:link href="https://www.ica.se/hyssna" />
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.430322170257568" lon="14.094879627227783">
+    <ns0:time>2025-08-02T08:01:33Z</ns0:time>
+    <ns0:name>Shop Ica Nära Skillingaryd -S26</ns0:name>
+    <ns0:cmt>Ica Nära</ns0:cmt>
+    <ns0:desc>Ica Nära</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Skillingaryd</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Skillingaryd</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T08:01:33Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.495389459654689" lon="12.66537906602025">
+    <ns0:ele>62.600000000000371</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Shop Lidl Kinna-S05</ns0:name>
+    <ns0:cmt>brand: Lidl
+brand:wikidata: Q151954
+brand:wikipedia: sv:Lidl
+building: supermarket
+changing_table: no
+check_date: 2024-08-19
+internet_access: no
+name: Lidl
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-20:00
+operator: Lidl
+organic: yes
+payment:cash: yes
+payment:girocard: yes
+payment:mastercard: yes
+payment:mastercard_contactless: yes
+payment:visa: yes
+payment:visa_contactless: yes
+second_hand: no
+shop: supermarket
+source: survey
+stroller: yes
+toilets: no
+toilets:menstrual_products: no
+toilets:wheelchair: no
+website: https://www.lidl.se
+wheelchair: yes</ns0:cmt>
+    <ns0:desc>brand: Lidl
+brand:wikidata: Q151954
+brand:wikipedia: sv:Lidl
+building: supermarket
+changing_table: no
+check_date: 2024-08-19
+internet_access: no
+name: Lidl
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-20:00
+operator: Lidl
+organic: yes
+payment:cash: yes
+payment:girocard: yes
+payment:mastercard: yes
+payment:mastercard_contactless: yes
+payment:visa: yes
+payment:visa_contactless: yes
+second_hand: no
+shop: supermarket
+source: survey
+stroller: yes
+toilets: no
+toilets:menstrual_products: no
+toilets:wheelchair: no
+website: https://www.lidl.se
+wheelchair: yes</ns0:desc>
+    <ns0:link href="https://www.lidl.se" />
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.896416587755084" lon="12.048879275098443">
+    <ns0:ele>5.217862076546226</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Shop Lidl Nol -S05</ns0:name>
+    <ns0:cmt>addr:city: Nödinge
+addr:country: SE
+addr:housenumber: 4
+addr:postcode: 44932
+addr:street: Rödklövergatan
+brand: Lidl
+building: supermarket
+name: Lidl
+shop: supermarket
+website: https://www.lidl.se/</ns0:cmt>
+    <ns0:desc>addr:city: Nödinge
+addr:country: SE
+addr:housenumber: 4
+addr:postcode: 44932
+addr:street: Rödklövergatan
+brand: Lidl
+building: supermarket
+name: Lidl
+shop: supermarket
+website: https://www.lidl.se/</ns0:desc>
+    <ns0:link href="https://www.lidl.se/" />
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.924246434122324" lon="12.031036131083965">
+    <ns0:ele>25</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Shop Tempo -S05</ns0:name>
+    <ns0:cmt>branch: Diseröd
+brand: Tempo
+brand:wikidata: Q10692628
+name: Tempo
+shop: convenience
+toilets:wheelchair: no
+wheelchair: yes</ns0:cmt>
+    <ns0:desc>branch: Diseröd
+brand: Tempo
+brand:wikidata: Q10692628
+name: Tempo
+shop: convenience
+toilets:wheelchair: no
+wheelchair: yes</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.912226306274533" lon="11.933942260220647">
+    <ns0:time>2025-09-24T17:31:15Z</ns0:time>
+    <ns0:name>Systembolaget Ed -S03 &amp; -S05</ns0:name>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-24T17:31:15Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.52916955947876" lon="14.511330127716064">
+    <ns0:time>2025-09-24T17:59:39Z</ns0:time>
+    <ns0:name>Systembolaget Karlsborg -S02</ns0:name>
+    <ns0:cmt>Systembolaget Ab</ns0:cmt>
+    <ns0:desc>Systembolaget Ab</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Storgatan 9</ns1:StreetAddress>
+          <ns1:City>Karlsborg</ns1:City>
+          <ns1:State>Västra Götalands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>546 30</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>050544153</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Storgatan 9</ns2:StreetAddress>
+          <ns2:City>Karlsborg</ns2:City>
+          <ns2:State>Västra Götalands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>546 30</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>050544153</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-24T17:59:39Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.307825565338135" lon="14.109728336334229">
+    <ns0:time>2025-09-24T18:01:50Z</ns0:time>
+    <ns0:name>Systembolaget Kristinehamn -S02</ns0:name>
+    <ns0:cmt>Systembolaget Ab</ns0:cmt>
+    <ns0:desc>Systembolaget Ab</ns0:desc>
+    <ns0:sym>Shopping Center</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:StreetAddress>Kungsgatan 43</ns1:StreetAddress>
+          <ns1:City>Kristinehamn</ns1:City>
+          <ns1:State>Värmlands län</ns1:State>
+          <ns1:Country>SWE</ns1:Country>
+          <ns1:PostalCode>681 31</ns1:PostalCode>
+        </ns1:Address>
+        <ns1:PhoneNumber>055010253</ns1:PhoneNumber>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:StreetAddress>Kungsgatan 43</ns2:StreetAddress>
+          <ns2:City>Kristinehamn</ns2:City>
+          <ns2:State>Värmlands län</ns2:State>
+          <ns2:Country>SWE</ns2:Country>
+          <ns2:PostalCode>681 31</ns2:PostalCode>
+        </ns2:Address>
+        <ns2:PhoneNumber>055010253</ns2:PhoneNumber>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-09-24T18:01:50Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.45948314666748" lon="13.60008716583252">
+    <ns0:time>2025-08-02T07:50:35Z</ns0:time>
+    <ns0:name>Toilet Kroksjön -S26</ns0:name>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T07:50:35Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.686057724058628" lon="12.212672308087349">
+    <ns0:ele>63.900000000001455</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Toilet Landvetter -S05</ns0:name>
+    <ns0:cmt>access: yes
+amenity: toilets
+changing_table: no
+charge: 10 SEK
+check_date: 2023-06-04
+fee: yes
+level: 0
+payment:cash: no
+payment:contactless: only
+portable: no
+toilets:disposal: flush
+toilets:handwashing: yes
+toilets:position: seated
+wheelchair: yes</ns0:cmt>
+    <ns0:desc>access: yes
+amenity: toilets
+changing_table: no
+charge: 10 SEK
+check_date: 2023-06-04
+fee: yes
+level: 0
+payment:cash: no
+payment:contactless: only
+portable: no
+toilets:disposal: flush
+toilets:handwashing: yes
+toilets:position: seated
+wheelchair: yes</ns0:desc>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.073024017736316" lon="12.942487299442291">
+    <ns0:ele>131.70000000000073</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Toilet Lyngsjön -S05</ns0:name>
+    <ns0:cmt>amenity: toilets
+fee: no
+toilets:disposal: pitlatrine</ns0:cmt>
+    <ns0:desc>amenity: toilets
+fee: no
+toilets:disposal: pitlatrine</ns0:desc>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.683168422430754" lon="11.878059860318899">
+    <ns0:ele>88.865164409625734</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Toilet Sannesjön -S05</ns0:name>
+    <ns0:cmt>amenity: toilets</ns0:cmt>
+    <ns0:desc>amenity: toilets</ns0:desc>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.277609510347247" lon="13.008715063333511">
+    <ns0:ele>137.56749497691678</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Toilet Torshultet -S05</ns0:name>
+    <ns0:cmt>access: customers
+amenity: toilets
+toilets:disposal: flush
+toilets:position: seated
+unisex: yes</ns0:cmt>
+    <ns0:desc>access: customers
+amenity: toilets
+toilets:disposal: flush
+toilets:position: seated
+unisex: yes</ns0:desc>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.342806659638882" lon="11.910771075636148">
+    <ns0:ele>1.969181802362562</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Toilet Uddevalla -S05</ns0:name>
+    <ns0:cmt>access: yes
+amenity: toilets
+changing_table: yes
+charge: 10 SEK
+check_date: 2025-06-14
+fee: yes
+opening_hours: 24/7
+toilets:disposal: flush
+wheelchair: yes</ns0:cmt>
+    <ns0:desc>access: yes
+amenity: toilets
+changing_table: yes
+charge: 10 SEK
+check_date: 2025-06-14
+fee: yes
+opening_hours: 24/7
+toilets:disposal: flush
+wheelchair: yes</ns0:desc>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.494995594024658" lon="13.759539127349854">
+    <ns0:time>2025-08-02T07:42:55Z</ns0:time>
+    <ns0:name>Toilet Vallsjön-S26</ns0:name>
+    <ns0:cmt>Parking
+Åsenhöga, SWE</ns0:cmt>
+    <ns0:desc>Parking
+Åsenhöga, SWE</ns0:desc>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Åsenhöga</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Åsenhöga</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T07:42:55Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.013318488374352" lon="12.045296682044864">
+    <ns0:ele>126.9720362999482</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Toilet Äggdalssjön -S05</ns0:name>
+    <ns0:cmt>amenity: toilets</ns0:cmt>
+    <ns0:desc>amenity: toilets</ns0:desc>
+    <ns0:sym>Restroom</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.00003138743341" lon="14.002353642135859">
+    <ns0:time>2024-10-14T03:58:00Z</ns0:time>
+    <ns0:name>View Cliff Burton's Memorial Stone -S01</ns0:name>
+    <ns0:cmt>https://sv.m.wikipedia.org/wiki/Cliff_Burton</ns0:cmt>
+    <ns0:desc>https://sv.m.wikipedia.org/wiki/Cliff_Burton</ns0:desc>
+    <ns0:link href="https://maps.app.goo.gl/1LxddDZDwgKbVMkHA" />
+    <ns0:link href="https://sv.m.wikipedia.org/wiki/Cliff_Burton" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-14T03:58:00Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.33784457296133" lon="11.906792018562555">
+    <ns0:ele>20.400000000001455</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>View Hästepallarna -S05</ns0:name>
+    <ns0:cmt>tourism: viewpoint</ns0:cmt>
+    <ns0:desc>tourism: viewpoint</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.431824207305908" lon="13.610773086547852">
+    <ns0:time>2025-08-02T07:52:36Z</ns0:time>
+    <ns0:name>View Isaberg -S26</ns0:name>
+    <ns0:cmt>Parking
+Hestra, SWE</ns0:cmt>
+    <ns0:desc>Parking
+Hestra, SWE</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+        <ns1:Address>
+          <ns1:City>Hestra</ns1:City>
+          <ns1:Country>SWE</ns1:Country>
+        </ns1:Address>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+        <ns2:Address>
+          <ns2:City>Hestra</ns2:City>
+          <ns2:Country>SWE</ns2:Country>
+        </ns2:Address>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-08-02T07:52:36Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="59.361253324896097" lon="11.839083256199956">
+    <ns0:time>2024-10-14T15:47:17Z</ns0:time>
+    <ns0:name>View Ivanssons Bilskrot Bilkyrkogård, Båstnäs -S03</ns0:name>
+    <ns0:link href="https://maps.app.goo.gl/afoghQMaQkq2EAyd7" />
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2024-10-14T15:47:17Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.537505865097046" lon="14.456886649131775">
+    <ns0:ele>171</ns0:ele>
+    <ns0:time>2022-05-16T16:21:26Z</ns0:time>
+    <ns0:name>View Nice Karlsborg -S02</ns0:name>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2022-05-16T16:21:26Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.866368219256401" lon="11.995719652622938">
+    <ns0:ele>40.682533546723839</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>View Old Kungälv -S05</ns0:name>
+    <ns0:cmt>amenity: bench
+tourism: viewpoint</ns0:cmt>
+    <ns0:desc>amenity: bench
+tourism: viewpoint</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="56.952938921749592" lon="13.094711294397712">
+    <ns0:ele>138.71441708349062</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>View Tower Torup -S05</ns0:name>
+    <ns0:cmt>tourism: viewpoint</ns0:cmt>
+    <ns0:desc>tourism: viewpoint</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.373986560851336" lon="12.915281234309077">
+    <ns0:ele>186</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>View Troll Mine -S05</ns0:name>
+    <ns0:cmt>direction: 170
+tourism: viewpoint</ns0:cmt>
+    <ns0:desc>direction: 170
+tourism: viewpoint</ns0:desc>
+    <ns0:sym>Scenic Area</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="57.690999777987599" lon="12.308619534596801">
+    <ns0:ele>80.711120355503226</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Water Härryda -S05</ns0:name>
+    <ns0:cmt>amenity: drinking_water</ns0:cmt>
+    <ns0:desc>amenity: drinking_water</ns0:desc>
+    <ns0:sym>Drinking Water</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.758447468280792" lon="11.894891392439604">
+    <ns0:ele>92.700000000000728</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Water Lärgjöken -S05</ns0:name>
+    <ns0:cmt>access: yes
+amenity: water_point
+drinking_water: yes</ns0:cmt>
+    <ns0:desc>access: yes
+amenity: water_point
+drinking_water: yes</ns0:desc>
+    <ns0:sym>Drinking Water</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:wpt lat="58.34294923581183" lon="11.932304603978992">
+    <ns0:ele>10.712379164528102</ns0:ele>
+    <ns0:time>2025-07-30T11:37:03Z</ns0:time>
+    <ns0:name>Water Uddevalla -S05</ns0:name>
+    <ns0:cmt>amenity: drinking_water</ns0:cmt>
+    <ns0:desc>amenity: drinking_water</ns0:desc>
+    <ns0:sym>Drinking Water</ns0:sym>
+    <ns0:type>user</ns0:type>
+    <ns0:extensions>
+      <ns1:WaypointExtension>
+        <ns1:DisplayMode>SymbolAndName</ns1:DisplayMode>
+      </ns1:WaypointExtension>
+      <ns2:WaypointExtension>
+        <ns2:DisplayMode>SymbolAndName</ns2:DisplayMode>
+      </ns2:WaypointExtension>
+      <ns3:CreationTimeExtension>
+        <ns3:CreationTime>2025-07-30T11:37:03Z</ns3:CreationTime>
+      </ns3:CreationTimeExtension>
+    </ns0:extensions>
+  </ns0:wpt>
+
+  <ns0:rte><ns0:name>Bounds r2 c1</ns0:name><ns0:rtept lat="56.90716475836223" lon="9.493691744019566" /><ns0:rtept lat="56.90716475836223" lon="14.635452967758535" /><ns0:rtept lat="59.534437387885745" lon="14.635452967758535" /><ns0:rtept lat="59.534437387885745" lon="9.493691744019566" /><ns0:rtept lat="56.90716475836223" lon="9.493691744019566" /></ns0:rte></gpx>
